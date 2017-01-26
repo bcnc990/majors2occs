@@ -801,7 +801,7 @@ d3.csv("gocc_gmajor_sankey2554.csv", function(error, data) {
         });
         renderSankey(gocc_dmajor_data, "pct");
       } else if ($("#humanities-and-liberal-arts").hasClass("active")) {
-        docc_gmajor_data = data.filter(function (d) {
+        gocc_gmajor_data = data.filter(function (d) {
           return d["gmajor"].indexOf('Humanities and liberal arts') > -1;
         });
         renderSankey(gocc_dmajor_data, "pct");
@@ -826,7 +826,7 @@ d3.csv("gocc_gmajor_sankey2554.csv", function(error, data) {
         });
         renderSankey(gocc_dmajor_data, "pct");
       } else if ($("#social-sciences").hasClass("active")) {
-        docc_gmajor_data = data.filter(function (d) {
+        gocc_gmajor_data = data.filter(function (d) {
           return d["gmajor"].indexOf('Social sciences') > -1;
         });
         renderSankey(gocc_dmajor_data, "pct");
