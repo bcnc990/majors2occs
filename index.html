@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="m2o.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<script src="//code.jquery.com/jquery-3.1.1.min.js" type="text/javascript"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" type="text/javascript"></script>
+<title>From majors to occupations</title>
+<body>
+
+<div class="container">
+  <h1>Undergraduate majors and their occupations</h1>
+  <div class="row">
+    <div class="col-md-3">
+      <div class="btn-group btnMajor well">
+        <h4 class = "well-title">Explore majors</h4>
+        <ul class="fa-ul">
+          <button type="button" class = "btn btn-default btn-major active" name = "selMajors" id = "all-major-groups" value = "all"><li id="all-major-groups-icon"><i class="fa fa-university"></i>&nbsp All major groups</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "agriculture-and-natural-resources" value = "agr"><li id="agriculture-and-natural-resources-icon"><i class="fa fa-leaf"></i>&nbsp Agriculture and natural resources</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "architecture-and-engineering" value = "arceng"><li id="architecture-and-engineering-icon"><i class="fa fa-cogs"></i>&nbsp Architecture and engineering</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "arts" value = "arts"><li id="arts-icon"><i class="fa fa-paint-brush"></i>&nbsp Arts</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "biology-and-life-sciences" value = ""><li id="biology-and-life-sciences-icon"><i class="fa fa-eyedropper"></i>&nbsp Biology and life sciences</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "business" value = "bus"><li id="business-icon"><i class="fa fa-briefcase"></i>&nbsp Business</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "communications-and-journalism" value = "comm"><li id="communications-and-journalism-icon"><i class="fa fa-newspaper-o"></i>&nbsp Communications and journalism</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "computers-statistics-and-mathematics" value = "comp"><li id="computers-statistics-and-mathematics-icon"><i class="fa fa-bar-chart"></i>&nbsp Computers, statistics, and mathematics</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "education" value = "edu"><li id="education-icon"><i class="fa fa-graduation-cap"></i>&nbsp Education</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "health" value = "health"><li id="health-icon"><i class="fa fa-heartbeat"></i>&nbsp Health</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "humanities-and-liberal-arts" value = "hum"><li id="humanities-and-liberal-arts-icon"><i class="fa fa-fire"></i>&nbsp Humanities and liberal arts</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "industrial-arts-consumer-services-and-recreation" value = "ind"><li id="industrial-arts-consumer-services-and-recreation-icon"><i class="fa fa-trophy"></i>&nbsp Industrial arts, consumer services, and recreation</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "law-and-public-policy" value = "law"><li id="law-and-public-policy-icon"><i class="fa fa-gavel"></i>&nbsp Law and public policy</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "physical-sciences" value = "physci"><li id="physical-sciences-icon"><i class="fa fa-flask"></i>&nbsp Physical sciences</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "psychology-and-social-work" value = "psych"><li id="psychology-and-social-work-icon"><i class="fa fa-users"></i>&nbsp Psychology and social work</li></button>
+          <button type="button" class = "btn btn-default btn-major" name = "selMajors" id = "social-sciences" value = "socsci"><li id="social-sciences-icon"><i class="fa fa-globe"></i>&nbsp Social sciences</li></button>
+        </ul>
+      </div>
+      <div class = "well">
+        <h4 class = "well-title">Explore level of detail</h4>
+        <div class = "btn-group btnType">
+          <button type="button" class = "btn btn-default btn-block btn-type active" name = "dtl" id = "goccgmajor" value = "gmmo">Grouped majors and major occupations</button>
+          <button type="button" class = "btn btn-default btn-block btn-type" name = "dtl" id = "goccdmajor" value = "dmmo">Detailed majors and major occupations</button>
+          <button type="button" class = "btn btn-default btn-block btn-type" name = "dtl" id = "doccgmajor" value = "gmdo">Grouped majors and detailed occupations</button>
+          <button type="button" class = "btn btn-default btn-block btn-type" name = "dtl" id = "doccdmajor" value = "dmdo">Detailed majors and detailed occupations</button>
+        </div>
+        <p class = "notes">Notes: Percentages do not sum to 100 for detailed occupations due to sample exclusions. Detailed occupations which are less than one percent of the major or have fewer than 50 observations are excluded.
+          In these cases total percentage sum only to included data.
+        </p>
+        <p class = "notes">
+          Source: U.S. Census Bureau, American Community Survey, micro data 2009-2015. Based on full-time full-year workers ages 25 to 54.
+        </p>
+      </div>
+    </div>
+    <div class="col-md-9">
+      <div id="chart"><div>
+    </div>
+  </div>
+</div>
+
+<script src="d3.v3.min.js" type="text/javascript"></script>
+<script src="sankey.js" type="text/javascript"></script>
+<script src="m2o.js" type="text/javascript"></script>
+
+</body>
+</html>

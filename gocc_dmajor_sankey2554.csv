@@ -1,0 +1,1353 @@
+SCHL,gmajor,_FREQ_,radj_wagp,pct,pct_gmajor,source,target
+Bachelors,Business,27901,70000,0.503076653,0.0852268754,Major: Accounting,Occ: Business and financial operations
+Bachelors,Business,1504,85000,0.0281691898,0.0047721794,Major: Accounting,Occ: Computer and mathematical
+Bachelors,Business,854,45000,0.0155924756,0.0026415417,Major: Accounting,"Occ: Education, training, and library"
+Bachelors,Business,585,62000,0.0110170801,0.001866418,Major: Accounting,Occ: Healthcare practitioners and technical
+Bachelors,Business,10354,98000,0.1882467023,0.0318911207,Major: Accounting,Occ: Management
+Bachelors,Business,5234,45000,0.0973224025,0.0164875158,Major: Accounting,Occ: Office and administrative support
+Bachelors,Business,544,39000,0.0111353487,0.001886454,Major: Accounting,Occ: Production
+Bachelors,Business,572,76000,0.0111376332,0.001886841,Major: Accounting,Occ: Protective service
+Bachelors,Business,3550,60000,0.067855597,0.0114955057,Major: Accounting,Occ: Sales and related
+Bachelors,Business,522,39000,0.0112163618,0.0019001786,Major: Accounting,Occ: Transportation and material moving
+Bachelors,Business,88,74000,0.1955378838,0.0002635349,Major: Actuarial science,Occ: Business and financial operations
+Bachelors,Business,193,93000,0.4405345704,0.0005937276,Major: Actuarial science,Occ: Computer and mathematical
+Bachelors,Business,52,128000,0.1116633532,0.0001504936,Major: Actuarial science,Occ: Management
+Bachelors,Communications and journalism,624,57000,0.0966535546,0.0103739285,Major: Advertising and public relations,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Communications and journalism,814,55000,0.1284441253,0.0137860442,Major: Advertising and public relations,Occ: Business and financial operations
+Bachelors,Communications and journalism,100,40000,0.016321832,0.0017518395,Major: Advertising and public relations,Occ: Community and social service
+Bachelors,Communications and journalism,198,60000,0.029373718,0.0031527123,Major: Advertising and public relations,Occ: Computer and mathematical
+Bachelors,Communications and journalism,224,44000,0.0312502294,0.0033541203,Major: Advertising and public relations,"Occ: Education, training, and library"
+Bachelors,Communications and journalism,89,28000,0.0152631741,0.0016382127,Major: Advertising and public relations,Occ: Food preparation and serving related
+Bachelors,Communications and journalism,105,54000,0.0162660359,0.0017458509,Major: Advertising and public relations,Occ: Healthcare practitioners and technical
+Bachelors,Communications and journalism,1719,70000,0.2667333283,0.0286287711,Major: Advertising and public relations,Occ: Management
+Bachelors,Communications and journalism,866,44000,0.1366094463,0.0146624368,Major: Advertising and public relations,Occ: Office and administrative support
+Bachelors,Communications and journalism,70,74000,0.0113559777,0.0012188491,Major: Advertising and public relations,Occ: Protective service
+Bachelors,Communications and journalism,1197,63000,0.1886275771,0.0202455979,Major: Advertising and public relations,Occ: Sales and related
+Bachelors,Architecture and engineering,865,89000,0.3977486272,0.0077110764,Major: Aerospace engineering,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,94,72000,0.0506055937,0.000981081,Major: Aerospace engineering,Occ: Business and financial operations
+Bachelors,Architecture and engineering,222,103000,0.0980106167,0.0019001131,Major: Aerospace engineering,Occ: Computer and mathematical
+Bachelors,Architecture and engineering,56,63000,0.0281055823,0.0005448775,Major: Aerospace engineering,"Occ: Installation, maintenance and repair"
+Bachelors,Architecture and engineering,360,110000,0.1580578938,0.0030642381,Major: Aerospace engineering,Occ: Management
+Bachelors,Architecture and engineering,79,88000,0.0380593569,0.0007378495,Major: Aerospace engineering,Occ: Sales and related
+Bachelors,Architecture and engineering,217,90000,0.1050061497,0.0020357341,Major: Aerospace engineering,Occ: Transportation and material moving
+Bachelors,Agriculture and natural resources,202,71000,0.1552312765,0.0087619614,Major: Agricultural economics,Occ: Business and financial operations
+Bachelors,Agriculture and natural resources,424,84000,0.3181685167,0.0179588825,Major: Agricultural economics,Occ: Management
+Bachelors,Agriculture and natural resources,96,57000,0.0672759906,0.0037973638,Major: Agricultural economics,Occ: Office and administrative support
+Bachelors,Agriculture and natural resources,274,72000,0.2227316179,0.0125719886,Major: Agricultural economics,Occ: Sales and related
+Bachelors,Agriculture and natural resources,251,64000,0.0698046234,0.0116827987,Major: Animal sciences,Occ: Business and financial operations
+Bachelors,Agriculture and natural resources,56,80000,0.0175276419,0.0029335007,Major: Animal sciences,Occ: Computer and mathematical
+Bachelors,Agriculture and natural resources,60,62000,0.0173401277,0.0029021175,Major: Animal sciences,Occ: Construction and extraction
+Bachelors,Agriculture and natural resources,193,42000,0.057464874,0.0096175658,Major: Animal sciences,"Occ: Education, training, and library"
+Bachelors,Agriculture and natural resources,198,40000,0.0453488257,0.0075897724,Major: Animal sciences,"Occ: Farming, fisheries, and forestry"
+Bachelors,Agriculture and natural resources,289,41000,0.0929116348,0.0155500864,Major: Animal sciences,Occ: Healthcare practitioners and technical
+Bachelors,Agriculture and natural resources,183,53000,0.0503393349,0.0084250052,Major: Animal sciences,"Occ: Life, physical, and social sciences"
+Bachelors,Agriculture and natural resources,867,60000,0.230037141,0.0384999945,Major: Animal sciences,Occ: Management
+Bachelors,Agriculture and natural resources,352,41000,0.1041559065,0.0174319756,Major: Animal sciences,Occ: Office and administrative support
+Bachelors,Agriculture and natural resources,112,31000,0.0364106495,0.0060938412,Major: Animal sciences,Occ: Personal care and service
+Bachelors,Agriculture and natural resources,155,52000,0.0403813446,0.0067583936,Major: Animal sciences,Occ: Production
+Bachelors,Agriculture and natural resources,69,54000,0.0195508213,0.0032721086,Major: Animal sciences,Occ: Protective service
+Bachelors,Agriculture and natural resources,430,59000,0.1202821266,0.0201309284,Major: Animal sciences,Occ: Sales and related
+Bachelors,Agriculture and natural resources,73,44000,0.0219720571,0.0036773369,Major: Animal sciences,Occ: Transportation and material moving
+Bachelors,Social sciences,55,62000,0.0160077877,0.0007143824,Major: Anthropology and archeology,Occ: Architecture and engineering
+Bachelors,Social sciences,137,58000,0.0397112518,0.001772201,Major: Anthropology and archeology,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Social sciences,345,53000,0.0992265274,0.0044281997,Major: Anthropology and archeology,Occ: Business and financial operations
+Bachelors,Social sciences,127,41000,0.0369554242,0.0016492162,Major: Anthropology and archeology,Occ: Community and social service
+Bachelors,Social sciences,201,71000,0.0546116877,0.0024371654,Major: Anthropology and archeology,Occ: Computer and mathematical
+Bachelors,Social sciences,243,43000,0.0695093344,0.0031020053,Major: Anthropology and archeology,"Occ: Education, training, and library"
+Bachelors,Social sciences,96,29000,0.0265401812,0.0011844133,Major: Anthropology and archeology,Occ: Food preparation and serving related
+Bachelors,Social sciences,178,52000,0.0491000326,0.0021911958,Major: Anthropology and archeology,Occ: Healthcare practitioners and technical
+Bachelors,Social sciences,61,44000,0.0172741295,0.0007708956,Major: Anthropology and archeology,Occ: Legal
+Bachelors,Social sciences,138,47000,0.0377280601,0.0016836968,Major: Anthropology and archeology,"Occ: Life, physical, and social sciences"
+Bachelors,Social sciences,604,61000,0.1663677468,0.0074245227,Major: Anthropology and archeology,Occ: Management
+Bachelors,Social sciences,471,39000,0.1423602491,0.0063531359,Major: Anthropology and archeology,Occ: Office and administrative support
+Bachelors,Social sciences,80,33000,0.0282500216,0.0012607187,Major: Anthropology and archeology,Occ: Personal care and service
+Bachelors,Social sciences,74,38000,0.0211289409,0.000942925,Major: Anthropology and archeology,Occ: Production
+Bachelors,Social sciences,81,67000,0.0264648702,0.0011810524,Major: Anthropology and archeology,Occ: Protective service
+Bachelors,Social sciences,374,46000,0.1149219136,0.0051286405,Major: Anthropology and archeology,Occ: Sales and related
+Bachelors,"Computers, statistics, and mathematics",97,88000,0.1363052061,0.0011241403,Major: Applied mathematics,Occ: Business and financial operations
+Bachelors,"Computers, statistics, and mathematics",234,92000,0.3297217886,0.0027192913,Major: Applied mathematics,Occ: Computer and mathematical
+Bachelors,"Computers, statistics, and mathematics",116,103000,0.1732470235,0.001428808,Major: Applied mathematics,Occ: Management
+Bachelors,"Computers, statistics, and mathematics",52,54000,0.0718636183,0.0005926758,Major: Applied mathematics,Occ: Office and administrative support
+Bachelors,Architecture and engineering,231,78000,0.4131065284,0.0020579831,Major: Architectural engineering,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,170,95000,0.3066671412,0.0015277313,Major: Architectural engineering,Occ: Management
+Bachelors,Architecture and engineering,2867,68000,0.3391276434,0.0255645692,Major: Architecture,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,699,60000,0.091120748,0.0068689849,Major: Architecture,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Architecture and engineering,135,39000,0.0146666635,0.0011056219,Major: Architecture,Occ: Building and grounds cleaning and maintenance
+Bachelors,Architecture and engineering,354,65000,0.0435508071,0.0032830046,Major: Architecture,Occ: Business and financial operations
+Bachelors,Architecture and engineering,191,76000,0.025297731,0.0019070271,Major: Architecture,Occ: Computer and mathematical
+Bachelors,Architecture and engineering,185,57000,0.0239548841,0.0018057988,Major: Architecture,Occ: Construction and extraction
+Bachelors,Architecture and engineering,147,51000,0.0160800628,0.0012121686,Major: Architecture,"Occ: Education, training, and library"
+Bachelors,Architecture and engineering,68,23000,0.0105381735,0.0007944026,Major: Architecture,Occ: Food preparation and serving related
+Bachelors,Architecture and engineering,79,65000,0.0107945138,0.0008137263,Major: Architecture,Occ: Healthcare practitioners and technical
+Bachelors,Architecture and engineering,145,71000,0.0174017441,0.0013118013,Major: Architecture,"Occ: Life, physical, and social sciences"
+Bachelors,Architecture and engineering,1878,81000,0.2191603797,0.016521038,Major: Architecture,Occ: Management
+Bachelors,Architecture and engineering,428,46000,0.056399571,0.0042515872,Major: Architecture,Occ: Office and administrative support
+Bachelors,Architecture and engineering,137,53000,0.0178168272,0.0013430917,Major: Architecture,Occ: Production
+Bachelors,Architecture and engineering,534,57000,0.0687039058,0.0051791288,Major: Architecture,Occ: Sales and related
+Bachelors,Architecture and engineering,94,40000,0.01268179,0.0009559955,Major: Architecture,Occ: Transportation and material moving
+Bachelors,Humanities and liberal arts,149,61000,0.0623576706,0.0019116276,Major: Area ethnic and civilization studies,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Humanities and liberal arts,336,60000,0.1289074227,0.0039517671,Major: Area ethnic and civilization studies,Occ: Business and financial operations
+Bachelors,Humanities and liberal arts,147,38000,0.0599302906,0.0018372142,Major: Area ethnic and civilization studies,Occ: Community and social service
+Bachelors,Humanities and liberal arts,125,69000,0.0499425191,0.0015310306,Major: Area ethnic and civilization studies,Occ: Computer and mathematical
+Bachelors,Humanities and liberal arts,231,42000,0.0861079177,0.0026397117,Major: Area ethnic and civilization studies,"Occ: Education, training, and library"
+Bachelors,Humanities and liberal arts,71,56000,0.0271991037,0.0008338117,Major: Area ethnic and civilization studies,Occ: Healthcare practitioners and technical
+Bachelors,Humanities and liberal arts,543,65000,0.1930297949,0.0059174932,Major: Area ethnic and civilization studies,Occ: Management
+Bachelors,Humanities and liberal arts,363,41000,0.1378224608,0.0042250652,Major: Area ethnic and civilization studies,Occ: Office and administrative support
+Bachelors,Humanities and liberal arts,64,66000,0.0205174017,0.0006289785,Major: Area ethnic and civilization studies,Occ: Protective service
+Bachelors,Humanities and liberal arts,284,53000,0.1018877181,0.003123455,Major: Area ethnic and civilization studies,Occ: Sales and related
+Bachelors,Education,166,46000,0.0382733447,0.0018297543,Major: Art and music education,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Education,150,50000,0.0356408901,0.0017039031,Major: Art and music education,Occ: Business and financial operations
+Bachelors,Education,109,40000,0.0244309397,0.001167983,Major: Art and music education,Occ: Community and social service
+Bachelors,Education,103,63000,0.023895152,0.0011423683,Major: Art and music education,Occ: Computer and mathematical
+Bachelors,Education,2397,44000,0.5702053119,0.0272601103,Major: Art and music education,"Occ: Education, training, and library"
+Bachelors,Education,62,58000,0.0156430431,0.0007478553,Major: Art and music education,Occ: Healthcare practitioners and technical
+Bachelors,Education,302,54000,0.0717784237,0.0034315495,Major: Art and music education,Occ: Management
+Bachelors,Education,282,37000,0.0667239152,0.0031899059,Major: Art and music education,Occ: Office and administrative support
+Bachelors,Education,51,31000,0.0138742098,0.0006632918,Major: Art and music education,Occ: Personal care and service
+Bachelors,Education,234,38000,0.0571947233,0.0027343387,Major: Art and music education,Occ: Sales and related
+Bachelors,Humanities and liberal arts,167,57000,0.0925752786,0.002100411,Major: Art history and criticism,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Humanities and liberal arts,214,61000,0.1066490559,0.0024197264,Major: Art history and criticism,Occ: Business and financial operations
+Bachelors,Humanities and liberal arts,64,68000,0.0346674977,0.0007865598,Major: Art history and criticism,Occ: Computer and mathematical
+Bachelors,Humanities and liberal arts,143,41000,0.0717045348,0.0016268813,Major: Art history and criticism,"Occ: Education, training, and library"
+Bachelors,Humanities and liberal arts,427,67000,0.2112550643,0.0047930987,Major: Art history and criticism,Occ: Management
+Bachelors,Humanities and liberal arts,356,39000,0.1859024779,0.004217882,Major: Art history and criticism,Occ: Office and administrative support
+Bachelors,Humanities and liberal arts,271,46000,0.1508095514,0.0034216698,Major: Art history and criticism,Occ: Sales and related
+Bachelors,Physical sciences,173,76000,0.305277329,0.0059600512,Major: Atmospheric sciences and meteorology,"Occ: Life, physical, and social sciences"
+Bachelors,Physical sciences,58,88000,0.1057978819,0.0020655343,Major: Atmospheric sciences and meteorology,Occ: Management
+Bachelors,Biology and life sciences,69,70000,0.0313498133,0.0018109933,Major: Biochemical sciences,Occ: Architecture and engineering
+Bachelors,Biology and life sciences,143,72000,0.0706451748,0.0040809793,Major: Biochemical sciences,Occ: Business and financial operations
+Bachelors,Biology and life sciences,102,77000,0.0556746277,0.0032161716,Major: Biochemical sciences,Occ: Computer and mathematical
+Bachelors,Biology and life sciences,158,30000,0.0850438656,0.0049127524,Major: Biochemical sciences,"Occ: Education, training, and library"
+Bachelors,Biology and life sciences,248,50000,0.1195644594,0.0069069131,Major: Biochemical sciences,Occ: Healthcare practitioners and technical
+Bachelors,Biology and life sciences,399,55000,0.194696149,0.0112470662,Major: Biochemical sciences,"Occ: Life, physical, and social sciences"
+Bachelors,Biology and life sciences,334,91000,0.1580601518,0.0091307044,Major: Biochemical sciences,Occ: Management
+Bachelors,Biology and life sciences,121,40000,0.0551818085,0.0031877028,Major: Biochemical sciences,Occ: Office and administrative support
+Bachelors,Biology and life sciences,72,58000,0.0358874698,0.0020731214,Major: Biochemical sciences,Occ: Production
+Bachelors,Biology and life sciences,144,70000,0.0758337246,0.0043807077,Major: Biochemical sciences,Occ: Sales and related
+Bachelors,Biology and life sciences,535,71000,0.0246811724,0.0150084426,Major: Biology,Occ: Architecture and engineering
+Bachelors,Biology and life sciences,297,53000,0.0134933342,0.008205199,Major: Biology,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Biology and life sciences,1511,64000,0.0698251666,0.0424601792,Major: Biology,Occ: Business and financial operations
+Bachelors,Biology and life sciences,298,43000,0.0141447913,0.0086013454,Major: Biology,Occ: Community and social service
+Bachelors,Biology and life sciences,917,78000,0.0417369836,0.0253799581,Major: Biology,Occ: Computer and mathematical
+Bachelors,Biology and life sciences,1661,42000,0.0713930804,0.0434136163,Major: Biology,"Occ: Education, training, and library"
+Bachelors,Biology and life sciences,248,26000,0.0140440915,0.0085401106,Major: Biology,Occ: Food preparation and serving related
+Bachelors,Biology and life sciences,3471,55000,0.1617349519,0.0983498555,Major: Biology,Occ: Healthcare practitioners and technical
+Bachelors,Biology and life sciences,383,32000,0.019517215,0.0118682774,Major: Biology,Occ: Healthcare support
+Bachelors,Biology and life sciences,214,53000,0.0100293487,0.0060987745,Major: Biology,"Occ: Installation, maintenance and repair"
+Bachelors,Biology and life sciences,2527,52000,0.11254839,0.0684398627,Major: Biology,"Occ: Life, physical, and social sciences"
+Bachelors,Biology and life sciences,3540,79000,0.1571420685,0.0955569563,Major: Biology,Occ: Management
+Bachelors,Biology and life sciences,1815,40000,0.0842535074,0.051233949,Major: Biology,Occ: Office and administrative support
+Bachelors,Biology and life sciences,362,33000,0.0178887929,0.0108780457,Major: Biology,Occ: Personal care and service
+Bachelors,Biology and life sciences,731,52000,0.0335657232,0.0204110737,Major: Biology,Occ: Production
+Bachelors,Biology and life sciences,463,63000,0.0200167391,0.0121720344,Major: Biology,Occ: Protective service
+Bachelors,Biology and life sciences,2060,66000,0.0967999099,0.0588633257,Major: Biology,Occ: Sales and related
+Bachelors,Biology and life sciences,255,48000,0.0129637768,0.007883179,Major: Biology,Occ: Transportation and material moving
+Bachelors,Architecture and engineering,384,75000,0.2425937368,0.0033063173,Major: Biomedical engineering,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,89,80000,0.0678091769,0.0009241733,Major: Biomedical engineering,Occ: Business and financial operations
+Bachelors,Architecture and engineering,103,94000,0.0616955546,0.0008408506,Major: Biomedical engineering,Occ: Computer and mathematical
+Bachelors,Architecture and engineering,65,33000,0.0460863061,0.0006281116,Major: Biomedical engineering,"Occ: Education, training, and library"
+Bachelors,Architecture and engineering,61,49000,0.0340281617,0.0004637708,Major: Biomedical engineering,"Occ: Life, physical, and social sciences"
+Bachelors,Architecture and engineering,357,93000,0.2132158304,0.0029059249,Major: Biomedical engineering,Occ: Management
+Bachelors,Architecture and engineering,63,50000,0.0421059478,0.0005738632,Major: Biomedical engineering,Occ: Office and administrative support
+Bachelors,Architecture and engineering,129,80000,0.0790543397,0.001077434,Major: Biomedical engineering,Occ: Sales and related
+Bachelors,Business,664,77000,0.262698609,0.0019600485,Major: Business economics,Occ: Business and financial operations
+Bachelors,Business,123,88000,0.0477340015,0.0003561532,Major: Business economics,Occ: Computer and mathematical
+Bachelors,Business,739,96000,0.2635884095,0.0019666875,Major: Business economics,Occ: Management
+Bachelors,Business,270,52000,0.1087032855,0.0008110576,Major: Business economics,Occ: Office and administrative support
+Bachelors,Business,447,80000,0.175015362,0.0013058257,Major: Business economics,Occ: Sales and related
+Bachelors,Business,1301,74000,0.0127777046,0.0039114633,Major: Business management and administration,Occ: Architecture and engineering
+Bachelors,Business,1021,55000,0.0105501841,0.0032295831,Major: Business management and administration,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Business,17950,63000,0.1737912341,0.0532003254,Major: Business management and administration,Occ: Business and financial operations
+Bachelors,Business,1376,43000,0.0136414231,0.0041758616,Major: Business management and administration,Occ: Community and social service
+Bachelors,Business,5011,75000,0.048165364,0.0147442019,Major: Business management and administration,Occ: Computer and mathematical
+Bachelors,Business,2526,46000,0.0243480899,0.0074533466,Major: Business management and administration,"Occ: Education, training, and library"
+Bachelors,Business,1619,59000,0.0163849767,0.005015708,Major: Business management and administration,Occ: Healthcare practitioners and technical
+Bachelors,Business,1107,55000,0.0118253871,0.0036199434,Major: Business management and administration,"Occ: Installation, maintenance and repair"
+Bachelors,Business,26677,80000,0.261627644,0.0800884801,Major: Business management and administration,Occ: Management
+Bachelors,Business,15331,44000,0.1509568155,0.0462103382,Major: Business management and administration,Occ: Office and administrative support
+Bachelors,Business,2041,54000,0.02037232,0.0062362987,Major: Business management and administration,Occ: Production
+Bachelors,Business,1975,68000,0.0196614857,0.0060187008,Major: Business management and administration,Occ: Protective service
+Bachelors,Business,16778,66000,0.169005333,0.0517352832,Major: Business management and administration,Occ: Sales and related
+Bachelors,Business,1649,50000,0.0173878666,0.005322709,Major: Business management and administration,Occ: Transportation and material moving
+Bachelors,Architecture and engineering,2079,94000,0.3467823106,0.0181104636,Major: Chemical engineering,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,55,86000,0.010256889,0.0005356589,Major: Chemical engineering,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Architecture and engineering,306,89000,0.0539101949,0.0028154222,Major: Chemical engineering,Occ: Business and financial operations
+Bachelors,Architecture and engineering,361,95000,0.0592669286,0.0030951739,Major: Chemical engineering,Occ: Computer and mathematical
+Bachelors,Architecture and engineering,51,60000,0.0111462833,0.0005821068,Major: Chemical engineering,Occ: Construction and extraction
+Bachelors,Architecture and engineering,128,39000,0.0214252374,0.001118918,Major: Chemical engineering,"Occ: Education, training, and library"
+Bachelors,Architecture and engineering,88,61000,0.0137296004,0.0007170188,Major: Chemical engineering,Occ: Healthcare practitioners and technical
+Bachelors,Architecture and engineering,202,63000,0.0351022209,0.0018331889,Major: Chemical engineering,"Occ: Life, physical, and social sciences"
+Bachelors,Architecture and engineering,1555,119000,0.2580194003,0.0134748827,Major: Chemical engineering,Occ: Management
+Bachelors,Architecture and engineering,205,55000,0.0373562584,0.0019509045,Major: Chemical engineering,Occ: Office and administrative support
+Bachelors,Architecture and engineering,228,73000,0.0379231624,0.0019805106,Major: Chemical engineering,Occ: Production
+Bachelors,Architecture and engineering,378,99000,0.065830455,0.0034379495,Major: Chemical engineering,Occ: Sales and related
+Bachelors,Physical sciences,328,78000,0.0466131716,0.0118969728,Major: Chemistry,Occ: Architecture and engineering
+Bachelors,Physical sciences,79,68000,0.011418497,0.0029143168,Major: Chemistry,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Physical sciences,427,72000,0.0643945011,0.0164352607,Major: Chemistry,Occ: Business and financial operations
+Bachelors,Physical sciences,404,82000,0.0601654282,0.0153558841,Major: Chemistry,Occ: Computer and mathematical
+Bachelors,Physical sciences,494,39000,0.0678848594,0.0173260968,Major: Chemistry,"Occ: Education, training, and library"
+Bachelors,Physical sciences,62,30000,0.0101003444,0.0025778877,Major: Chemistry,Occ: Food preparation and serving related
+Bachelors,Physical sciences,445,54000,0.0645757471,0.0164815197,Major: Chemistry,Occ: Healthcare practitioners and technical
+Bachelors,Physical sciences,76,55000,0.0122217462,0.0031193282,Major: Chemistry,"Occ: Installation, maintenance and repair"
+Bachelors,Physical sciences,1655,60000,0.2406040434,0.0614088177,Major: Chemistry,"Occ: Life, physical, and social sciences"
+Bachelors,Physical sciences,1242,92000,0.1709012319,0.0436187291,Major: Chemistry,Occ: Management
+Bachelors,Physical sciences,337,43000,0.0511731558,0.0130608071,Major: Chemistry,Occ: Office and administrative support
+Bachelors,Physical sciences,385,55000,0.0542049068,0.0138345939,Major: Chemistry,Occ: Production
+Bachelors,Physical sciences,81,58000,0.0118057043,0.0030131428,Major: Chemistry,Occ: Protective service
+Bachelors,Physical sciences,556,74000,0.0797454867,0.0203532575,Major: Chemistry,Occ: Sales and related
+Bachelors,Physical sciences,82,45000,0.0128231534,0.003272824,Major: Chemistry,Occ: Transportation and material moving
+Bachelors,Architecture and engineering,5570,80000,0.4558254561,0.0465143882,Major: Civil engineering,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,220,66000,0.0195542761,0.0019954024,Major: Civil engineering,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Architecture and engineering,443,78000,0.0377908037,0.003856336,Major: Civil engineering,Occ: Business and financial operations
+Bachelors,Architecture and engineering,372,95000,0.0325267589,0.0033191702,Major: Civil engineering,Occ: Computer and mathematical
+Bachelors,Architecture and engineering,430,65000,0.0372661366,0.0038027967,Major: Civil engineering,Occ: Construction and extraction
+Bachelors,Architecture and engineering,131,43000,0.0118284651,0.0012070274,Major: Civil engineering,"Occ: Education, training, and library"
+Bachelors,Architecture and engineering,3200,102000,0.2660939919,0.0271533743,Major: Civil engineering,Occ: Management
+Bachelors,Architecture and engineering,340,59000,0.0308806591,0.0031511951,Major: Civil engineering,Occ: Office and administrative support
+Bachelors,Architecture and engineering,201,56000,0.0184285002,0.0018805233,Major: Civil engineering,Occ: Production
+Bachelors,Architecture and engineering,393,70000,0.033451007,0.0034134845,Major: Civil engineering,Occ: Sales and related
+Bachelors,Architecture and engineering,118,53000,0.0101980011,0.0010406478,Major: Civil engineering,Occ: Transportation and material moving
+Bachelors,Arts,349,57000,0.0227950065,0.0076340998,Major: Commercial art and graphic design,Occ: Architecture and engineering
+Bachelors,Arts,5543,53000,0.3809606472,0.1275845929,Major: Commercial art and graphic design,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Arts,762,57000,0.0548863111,0.0183815512,Major: Commercial art and graphic design,Occ: Business and financial operations
+Bachelors,Arts,735,62000,0.05075321,0.0169973662,Major: Commercial art and graphic design,Occ: Computer and mathematical
+Bachelors,Arts,473,45000,0.0338335657,0.0113309386,Major: Commercial art and graphic design,"Occ: Education, training, and library"
+Bachelors,Arts,159,30000,0.0128049831,0.0042884182,Major: Commercial art and graphic design,Occ: Food preparation and serving related
+Bachelors,Arts,223,52000,0.0161445288,0.0054068397,Major: Commercial art and graphic design,Occ: Healthcare practitioners and technical
+Bachelors,Arts,1878,65000,0.1314771258,0.0440319904,Major: Commercial art and graphic design,Occ: Management
+Bachelors,Arts,1329,37000,0.0912073679,0.0305455563,Major: Commercial art and graphic design,Occ: Office and administrative support
+Bachelors,Arts,153,31000,0.0114505977,0.0038348314,Major: Commercial art and graphic design,Occ: Personal care and service
+Bachelors,Arts,413,43000,0.0295351406,0.0098913862,Major: Commercial art and graphic design,Occ: Production
+Bachelors,Arts,1542,49000,0.1092098846,0.0365746404,Major: Commercial art and graphic design,Occ: Sales and related
+Bachelors,Arts,149,39000,0.0117831534,0.003946205,Major: Commercial art and graphic design,Occ: Transportation and material moving
+Bachelors,Health,115,57000,0.0824990608,0.00135053,Major: Communication disorders sciences and services,Occ: Business and financial operations
+Bachelors,Health,65,36000,0.0492312906,0.0008059284,Major: Communication disorders sciences and services,Occ: Community and social service
+Bachelors,Health,213,43000,0.1636205588,0.002678509,Major: Communication disorders sciences and services,"Occ: Education, training, and library"
+Bachelors,Health,255,48000,0.2040634415,0.003340569,Major: Communication disorders sciences and services,Occ: Healthcare practitioners and technical
+Bachelors,Health,146,67000,0.0997370108,0.0016327195,Major: Communication disorders sciences and services,Occ: Management
+Bachelors,Health,199,39000,0.1563496799,0.0025594829,Major: Communication disorders sciences and services,Occ: Office and administrative support
+Bachelors,Health,126,47000,0.111612043,0.0018271167,Major: Communication disorders sciences and services,Occ: Sales and related
+Bachelors,Communications and journalism,4677,57000,0.1108959839,0.0766989266,Major: Communications and mass media,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Communications and journalism,4667,59000,0.1183855871,0.0818789567,Major: Communications and mass media,Occ: Business and financial operations
+Bachelors,Communications and journalism,838,40000,0.0206361138,0.0142725437,Major: Communications and mass media,Occ: Community and social service
+Bachelors,Communications and journalism,1708,63000,0.0426772261,0.0295168258,Major: Communications and mass media,Occ: Computer and mathematical
+Bachelors,Communications and journalism,1744,45000,0.0409753232,0.0283397396,Major: Communications and mass media,"Occ: Education, training, and library"
+Bachelors,Communications and journalism,511,31000,0.0151136451,0.0104530418,Major: Communications and mass media,Occ: Food preparation and serving related
+Bachelors,Communications and journalism,698,55000,0.0175005019,0.0121038622,Major: Communications and mass media,Occ: Healthcare practitioners and technical
+Bachelors,Communications and journalism,361,54000,0.0102825104,0.0071116869,Major: Communications and mass media,"Occ: Installation, maintenance and repair"
+Bachelors,Communications and journalism,9046,71000,0.2188418356,0.151357455,Major: Communications and mass media,Occ: Management
+Bachelors,Communications and journalism,5407,42000,0.1338451271,0.0925712295,Major: Communications and mass media,Occ: Office and administrative support
+Bachelors,Communications and journalism,453,33000,0.0116387463,0.0080496995,Major: Communications and mass media,Occ: Personal care and service
+Bachelors,Communications and journalism,525,44000,0.012886292,0.0089125388,Major: Communications and mass media,Occ: Production
+Bachelors,Communications and journalism,692,65000,0.0174558409,0.0120729734,Major: Communications and mass media,Occ: Protective service
+Bachelors,Communications and journalism,7054,63000,0.1780415106,0.1231387493,Major: Communications and mass media,Occ: Sales and related
+Bachelors,Communications and journalism,527,50000,0.0142607569,0.0098631592,Major: Communications and mass media,Occ: Transportation and material moving
+Bachelors,Humanities and liberal arts,259,58000,0.1532866411,0.0029329881,Major: Composition and speech,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Humanities and liberal arts,171,51000,0.0916540551,0.0017537096,Major: Composition and speech,Occ: Business and financial operations
+Bachelors,Humanities and liberal arts,107,63000,0.0641431739,0.0012273161,Major: Composition and speech,Occ: Computer and mathematical
+Bachelors,Humanities and liberal arts,130,40000,0.0842689379,0.0016124027,Major: Composition and speech,"Occ: Education, training, and library"
+Bachelors,Humanities and liberal arts,300,64000,0.1744741257,0.0033383896,Major: Composition and speech,Occ: Management
+Bachelors,Humanities and liberal arts,252,36000,0.1614460517,0.0030891103,Major: Composition and speech,Occ: Office and administrative support
+Bachelors,Humanities and liberal arts,164,52000,0.0975609756,0.0018667327,Major: Composition and speech,Occ: Sales and related
+Bachelors,"Computers, statistics, and mathematics",332,80000,0.0269968894,0.0043419557,Major: Computer and information systems,Occ: Architecture and engineering
+Bachelors,"Computers, statistics, and mathematics",122,61000,0.0100240754,0.0016121891,Major: Computer and information systems,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,"Computers, statistics, and mathematics",781,67000,0.0687560228,0.0110581484,Major: Computer and information systems,Occ: Business and financial operations
+Bachelors,"Computers, statistics, and mathematics",5484,74000,0.4637912255,0.0745923335,Major: Computer and information systems,Occ: Computer and mathematical
+Bachelors,"Computers, statistics, and mathematics",211,48000,0.0179105602,0.0028805859,Major: Computer and information systems,"Occ: Education, training, and library"
+Bachelors,"Computers, statistics, and mathematics",282,53000,0.0266908467,0.0042927344,Major: Computer and information systems,"Occ: Installation, maintenance and repair"
+Bachelors,"Computers, statistics, and mathematics",2164,93000,0.1780501471,0.0286361087,Major: Computer and information systems,Occ: Management
+Bachelors,"Computers, statistics, and mathematics",867,45000,0.0737994494,0.0118692913,Major: Computer and information systems,Occ: Office and administrative support
+Bachelors,"Computers, statistics, and mathematics",167,55000,0.0140222485,0.0022552221,Major: Computer and information systems,Occ: Production
+Bachelors,"Computers, statistics, and mathematics",150,55000,0.0132869613,0.0021369646,Major: Computer and information systems,Occ: Protective service
+Bachelors,"Computers, statistics, and mathematics",562,63000,0.0470199289,0.0075622953,Major: Computer and information systems,Occ: Sales and related
+Bachelors,"Computers, statistics, and mathematics",122,46000,0.0108339114,0.0017424364,Major: Computer and information systems,Occ: Transportation and material moving
+Bachelors,"Computers, statistics, and mathematics",845,88000,0.1121501489,0.0109479682,Major: Computer engineering,Occ: Architecture and engineering
+Bachelors,"Computers, statistics, and mathematics",77,60000,0.0113772703,0.001110636,Major: Computer engineering,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,"Computers, statistics, and mathematics",266,78000,0.0388688925,0.0037943365,Major: Computer engineering,Occ: Business and financial operations
+Bachelors,"Computers, statistics, and mathematics",3931,92000,0.5366490319,0.0523870597,Major: Computer engineering,Occ: Computer and mathematical
+Bachelors,"Computers, statistics, and mathematics",97,51000,0.0142267593,0.0013887998,Major: Computer engineering,"Occ: Installation, maintenance and repair"
+Bachelors,"Computers, statistics, and mathematics",1072,106000,0.14643064,0.0142943902,Major: Computer engineering,Occ: Management
+Bachelors,"Computers, statistics, and mathematics",210,60000,0.0283371602,0.0027662409,Major: Computer engineering,Occ: Office and administrative support
+Bachelors,"Computers, statistics, and mathematics",89,62000,0.0130954967,0.0012783673,Major: Computer engineering,Occ: Production
+Bachelors,"Computers, statistics, and mathematics",294,84000,0.0407500207,0.00397797,Major: Computer engineering,Occ: Sales and related
+Bachelors,"Computers, statistics, and mathematics",71,52000,0.0102292003,0.0009985627,Major: Computer engineering,Occ: Transportation and material moving
+Bachelors,"Computers, statistics, and mathematics",1119,93000,0.0339058856,0.0152510517,Major: Computer science,Occ: Architecture and engineering
+Bachelors,"Computers, statistics, and mathematics",374,66000,0.0125500037,0.0056450599,Major: Computer science,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,"Computers, statistics, and mathematics",1556,77000,0.0491009637,0.0220858804,Major: Computer science,Occ: Business and financial operations
+Bachelors,"Computers, statistics, and mathematics",17564,88000,0.5310463041,0.2388675148,Major: Computer science,Occ: Computer and mathematical
+Bachelors,"Computers, statistics, and mathematics",510,49000,0.0162570921,0.0073125284,Major: Computer science,"Occ: Education, training, and library"
+Bachelors,"Computers, statistics, and mathematics",515,55000,0.0183996388,0.0082762576,Major: Computer science,"Occ: Installation, maintenance and repair"
+Bachelors,"Computers, statistics, and mathematics",5587,109000,0.1655860873,0.0744815223,Major: Computer science,Occ: Management
+Bachelors,"Computers, statistics, and mathematics",1550,46000,0.049159606,0.022112258,Major: Computer science,Occ: Office and administrative support
+Bachelors,"Computers, statistics, and mathematics",395,54000,0.0129397362,0.0058203637,Major: Computer science,Occ: Production
+Bachelors,"Computers, statistics, and mathematics",1545,76000,0.0487996155,0.0219503324,Major: Computer science,Occ: Sales and related
+Bachelors,"Computers, statistics, and mathematics",321,49000,0.0117652076,0.0052920544,Major: Computer science,Occ: Transportation and material moving
+Bachelors,Law and public policy,1836,58000,0.0625928934,0.054746996,Major: Criminal justice and fire protection,Occ: Business and financial operations
+Bachelors,Law and public policy,2922,43000,0.0990406873,0.0866261298,Major: Criminal justice and fire protection,Occ: Community and social service
+Bachelors,Law and public policy,552,70000,0.0188717971,0.016506254,Major: Criminal justice and fire protection,Occ: Computer and mathematical
+Bachelors,Law and public policy,335,52000,0.0117174358,0.0102486781,Major: Criminal justice and fire protection,Occ: Construction and extraction
+Bachelors,Law and public policy,873,44000,0.0298809207,0.0261354054,Major: Criminal justice and fire protection,"Occ: Education, training, and library"
+Bachelors,Law and public policy,237,32000,0.0100616737,0.0088004625,Major: Criminal justice and fire protection,Occ: Food preparation and serving related
+Bachelors,Law and public policy,593,50000,0.0210993558,0.0184545926,Major: Criminal justice and fire protection,Occ: Healthcare practitioners and technical
+Bachelors,Law and public policy,337,52000,0.0120965414,0.0105802634,Major: Criminal justice and fire protection,"Occ: Installation, maintenance and repair"
+Bachelors,Law and public policy,654,51000,0.0231329681,0.0202332956,Major: Criminal justice and fire protection,Occ: Legal
+Bachelors,Law and public policy,3055,67000,0.1026553705,0.0897877195,Major: Criminal justice and fire protection,Occ: Management
+Bachelors,Law and public policy,3267,41000,0.1131943782,0.0990056831,Major: Criminal justice and fire protection,Occ: Office and administrative support
+Bachelors,Law and public policy,289,33000,0.0110932298,0.009702715,Major: Criminal justice and fire protection,Occ: Personal care and service
+Bachelors,Law and public policy,472,49000,0.0163153455,0.0142702487,Major: Criminal justice and fire protection,Occ: Production
+Bachelors,Law and public policy,10111,66000,0.3395574006,0.2969945409,Major: Criminal justice and fire protection,Occ: Protective service
+Bachelors,Law and public policy,1964,55000,0.0689567192,0.0603131286,Major: Criminal justice and fire protection,Occ: Sales and related
+Bachelors,Law and public policy,679,50000,0.0241933965,0.0211608013,Major: Criminal justice and fire protection,Occ: Transportation and material moving
+Bachelors,Social sciences,219,51000,0.0845501137,0.0028565336,Major: Criminology,Occ: Business and financial operations
+Bachelors,Social sciences,233,46000,0.0884556009,0.0029884809,Major: Criminology,Occ: Community and social service
+Bachelors,Social sciences,86,58000,0.032338171,0.0010925482,Major: Criminology,Occ: Computer and mathematical
+Bachelors,Social sciences,91,46000,0.0387527495,0.0013092653,Major: Criminology,"Occ: Education, training, and library"
+Bachelors,Social sciences,55,59000,0.0241440167,0.0008157079,Major: Criminology,Occ: Healthcare practitioners and technical
+Bachelors,Social sciences,64,50000,0.0254409332,0.0008595243,Major: Criminology,Occ: Legal
+Bachelors,Social sciences,269,60000,0.1094125926,0.0036965148,Major: Criminology,Occ: Management
+Bachelors,Social sciences,286,39000,0.1090699414,0.0036849383,Major: Criminology,Occ: Office and administrative support
+Bachelors,Social sciences,708,66000,0.2767442974,0.0093498324,Major: Criminology,Occ: Protective service
+Bachelors,Social sciences,216,66000,0.0840085036,0.0028382353,Major: Criminology,Occ: Sales and related
+Bachelors,Social sciences,53,41000,0.0218633595,0.0007386557,Major: Criminology,Occ: Transportation and material moving
+Bachelors,Arts,545,52000,0.1252487513,0.0122502504,Major: Drama and theater arts,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Arts,326,52000,0.0737697423,0.0072152242,Major: Drama and theater arts,Occ: Business and financial operations
+Bachelors,Arts,65,41000,0.0133008487,0.001300921,Major: Drama and theater arts,Occ: Community and social service
+Bachelors,Arts,171,64000,0.0408496519,0.0039953968,Major: Drama and theater arts,Occ: Computer and mathematical
+Bachelors,Arts,62,41000,0.0149076626,0.0014580792,Major: Drama and theater arts,Occ: Construction and extraction
+Bachelors,Arts,357,41000,0.0765979961,0.0074918482,Major: Drama and theater arts,"Occ: Education, training, and library"
+Bachelors,Arts,210,28000,0.0629400776,0.0061560032,Major: Drama and theater arts,Occ: Food preparation and serving related
+Bachelors,Arts,75,50000,0.0171545894,0.0016778452,Major: Drama and theater arts,Occ: Healthcare practitioners and technical
+Bachelors,Arts,825,55000,0.1909713604,0.0186784057,Major: Drama and theater arts,Occ: Management
+Bachelors,Arts,674,39000,0.158863386,0.0155380093,Major: Drama and theater arts,Occ: Office and administrative support
+Bachelors,Arts,161,33000,0.0398328739,0.0038959485,Major: Drama and theater arts,Occ: Personal care and service
+Bachelors,Arts,62,33000,0.0147617866,0.0014438115,Major: Drama and theater arts,Occ: Production
+Bachelors,Arts,439,44000,0.1001319416,0.0097936414,Major: Drama and theater arts,Occ: Sales and related
+Bachelors,Arts,58,45000,0.0149316124,0.0014604217,Major: Drama and theater arts,Occ: Transportation and material moving
+Bachelors,Education,113,53000,0.030482514,0.001392901,Major: Early childhood education,Occ: Business and financial operations
+Bachelors,Education,123,38000,0.031465408,0.0014378144,Major: Early childhood education,Occ: Community and social service
+Bachelors,Education,2479,39000,0.624905614,0.028555114,Major: Early childhood education,"Occ: Education, training, and library"
+Bachelors,Education,72,46000,0.0191485168,0.0008749931,Major: Early childhood education,Occ: Healthcare practitioners and technical
+Bachelors,Education,334,47000,0.0903213091,0.0041272397,Major: Early childhood education,Occ: Management
+Bachelors,Education,273,36000,0.0737759258,0.0033711971,Major: Early childhood education,Occ: Office and administrative support
+Bachelors,Education,131,31000,0.0376084959,0.0017185233,Major: Early childhood education,Occ: Personal care and service
+Bachelors,Education,137,41000,0.0363363648,0.0016603932,Major: Early childhood education,Occ: Sales and related
+Bachelors,Biology and life sciences,122,66000,0.0840908623,0.0032919094,Major: Ecology,Occ: Business and financial operations
+Bachelors,Biology and life sciences,52,77000,0.0338709788,0.001325949,Major: Ecology,Occ: Computer and mathematical
+Bachelors,Biology and life sciences,125,39000,0.0724003321,0.0028342596,Major: Ecology,"Occ: Education, training, and library"
+Bachelors,Biology and life sciences,85,55000,0.0581027587,0.0022745517,Major: Ecology,Occ: Healthcare practitioners and technical
+Bachelors,Biology and life sciences,205,47000,0.143298184,0.0056097015,Major: Ecology,"Occ: Life, physical, and social sciences"
+Bachelors,Biology and life sciences,277,63000,0.171756118,0.0067237458,Major: Ecology,Occ: Management
+Bachelors,Biology and life sciences,155,41000,0.1012356012,0.0039630754,Major: Ecology,Occ: Office and administrative support
+Bachelors,Biology and life sciences,50,33000,0.0310238133,0.0012144908,Major: Ecology,Occ: Personal care and service
+Bachelors,Biology and life sciences,51,62000,0.0335142255,0.0013119831,Major: Ecology,Occ: Protective service
+Bachelors,Biology and life sciences,152,51000,0.1007965203,0.0039458867,Major: Ecology,Occ: Sales and related
+Bachelors,Social sciences,365,61000,0.0161661947,0.0046996874,Major: Economics,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Social sciences,4567,77000,0.2104414221,0.0611775944,Major: Economics,Occ: Business and financial operations
+Bachelors,Social sciences,1444,83000,0.0667175067,0.0193954998,Major: Economics,Occ: Computer and mathematical
+Bachelors,Social sciences,210,52000,0.0104687404,0.0030433759,Major: Economics,Occ: Construction and extraction
+Bachelors,Social sciences,469,46000,0.0204570552,0.0059470869,Major: Economics,"Occ: Education, training, and library"
+Bachelors,Social sciences,210,32000,0.0122684098,0.0035665592,Major: Economics,Occ: Food preparation and serving related
+Bachelors,Social sciences,313,63000,0.0141725567,0.0041201153,Major: Economics,Occ: Healthcare practitioners and technical
+Bachelors,Social sciences,5865,98000,0.2636423544,0.07664368,Major: Economics,Occ: Management
+Bachelors,Social sciences,1972,50000,0.0922066139,0.0268054586,Major: Economics,Occ: Office and administrative support
+Bachelors,Social sciences,310,46000,0.0153059673,0.00444961,Major: Economics,Occ: Production
+Bachelors,Social sciences,302,80000,0.0135645314,0.0039433558,Major: Economics,Occ: Protective service
+Bachelors,Social sciences,4081,85000,0.1914830209,0.0556661824,Major: Economics,Occ: Sales and related
+Bachelors,Social sciences,324,50000,0.016189745,0.0047065337,Major: Economics,Occ: Transportation and material moving
+Bachelors,Architecture and engineering,7839,94000,0.3376948127,0.0700045757,Major: Electrical engineering,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,384,81000,0.0180864565,0.003749346,Major: Electrical engineering,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Architecture and engineering,726,94000,0.0322800788,0.0066917025,Major: Electrical engineering,Occ: Business and financial operations
+Bachelors,Architecture and engineering,4756,97000,0.2088464486,0.0432941415,Major: Electrical engineering,Occ: Computer and mathematical
+Bachelors,Architecture and engineering,416,65000,0.020805112,0.0043129269,Major: Electrical engineering,Occ: Construction and extraction
+Bachelors,Architecture and engineering,253,49000,0.0118003674,0.0024462316,Major: Electrical engineering,"Occ: Education, training, and library"
+Bachelors,Architecture and engineering,646,63000,0.0309062128,0.0064068983,Major: Electrical engineering,"Occ: Installation, maintenance and repair"
+Bachelors,Architecture and engineering,4286,121000,0.1783776665,0.0369779232,Major: Electrical engineering,Occ: Management
+Bachelors,Architecture and engineering,592,59000,0.0273032887,0.0056600074,Major: Electrical engineering,Occ: Office and administrative support
+Bachelors,Architecture and engineering,645,69000,0.028818689,0.0059741519,Major: Electrical engineering,Occ: Production
+Bachelors,Architecture and engineering,1206,98000,0.0548203755,0.0113643354,Major: Electrical engineering,Occ: Sales and related
+Bachelors,Architecture and engineering,236,52000,0.0119885096,0.0024852337,Major: Electrical engineering,Occ: Transportation and material moving
+Bachelors,Education,755,54000,0.0306311839,0.008446999,Major: Elementary education,Occ: Business and financial operations
+Bachelors,Education,533,36000,0.0212386671,0.0058568745,Major: Elementary education,Occ: Community and social service
+Bachelors,Education,18197,42000,0.6768723958,0.1866575078,Major: Elementary education,"Occ: Education, training, and library"
+Bachelors,Education,439,52000,0.0165358345,0.0045599993,Major: Elementary education,Occ: Healthcare practitioners and technical
+Bachelors,Education,1508,50000,0.0613539815,0.0169192618,Major: Elementary education,Occ: Management
+Bachelors,Education,1856,36000,0.0754399999,0.0208036883,Major: Elementary education,Occ: Office and administrative support
+Bachelors,Education,354,26000,0.0151175199,0.0041688782,Major: Elementary education,Occ: Personal care and service
+Bachelors,Education,868,44000,0.0362272493,0.0099901962,Major: Elementary education,Occ: Sales and related
+Bachelors,Architecture and engineering,93,68000,0.0843731623,0.0006994678,Major: Engineering and industrial management,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,107,68000,0.1092862871,0.0009060018,Major: Engineering and industrial management,Occ: Business and financial operations
+Bachelors,Architecture and engineering,63,96000,0.073060679,0.0006056854,Major: Engineering and industrial management,Occ: Computer and mathematical
+Bachelors,Architecture and engineering,336,100000,0.3459502807,0.0028679865,Major: Engineering and industrial management,Occ: Management
+Bachelors,Architecture and engineering,74,58000,0.0727292168,0.0006029375,Major: Engineering and industrial management,Occ: Office and administrative support
+Bachelors,Architecture and engineering,118,72000,0.1229296979,0.001019108,Major: Engineering and industrial management,Occ: Sales and related
+Bachelors,Architecture and engineering,144,90000,0.2431792657,0.0012475364,"Major: Engineering mechanics, physics, and science",Occ: Architecture and engineering
+Bachelors,Architecture and engineering,77,103000,0.1220561555,0.0006261615,"Major: Engineering mechanics, physics, and science",Occ: Computer and mathematical
+Bachelors,Architecture and engineering,107,105000,0.175775378,0.0009017471,"Major: Engineering mechanics, physics, and science",Occ: Management
+Bachelors,Architecture and engineering,235,74000,0.1465957332,0.0019345058,Major: Engineering technologies,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,75,76000,0.0505064754,0.0006664933,Major: Engineering technologies,Occ: Business and financial operations
+Bachelors,Architecture and engineering,224,73000,0.1885042184,0.0024875384,Major: Engineering technologies,Occ: Computer and mathematical
+Bachelors,Architecture and engineering,53,65000,0.0488809178,0.0006450421,Major: Engineering technologies,"Occ: Installation, maintenance and repair"
+Bachelors,Architecture and engineering,274,94000,0.1998092321,0.0026367215,Major: Engineering technologies,Occ: Management
+Bachelors,Architecture and engineering,94,40000,0.0712558439,0.000940306,Major: Engineering technologies,Occ: Office and administrative support
+Bachelors,Architecture and engineering,62,51000,0.0413979795,0.0005462958,Major: Engineering technologies,Occ: Production
+Bachelors,Architecture and engineering,93,62000,0.0780401956,0.0010298336,Major: Engineering technologies,Occ: Sales and related
+Bachelors,Humanities and liberal arts,2455,61000,0.0989513953,0.028096504,Major: English language and literature,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Humanities and liberal arts,2525,59000,0.1030619352,0.0292636608,Major: English language and literature,Occ: Business and financial operations
+Bachelors,Humanities and liberal arts,576,42000,0.0249814415,0.0070932923,Major: English language and literature,Occ: Community and social service
+Bachelors,Humanities and liberal arts,1140,71000,0.0477117507,0.0135473925,Major: English language and literature,Occ: Computer and mathematical
+Bachelors,Humanities and liberal arts,2738,44000,0.1111802416,0.0315687928,Major: English language and literature,"Occ: Education, training, and library"
+Bachelors,Humanities and liberal arts,442,32000,0.0214741023,0.0060974097,Major: English language and literature,Occ: Food preparation and serving related
+Bachelors,Humanities and liberal arts,565,57000,0.0261012761,0.0074112609,Major: English language and literature,Occ: Healthcare practitioners and technical
+Bachelors,Humanities and liberal arts,445,53000,0.0200728268,0.0056995281,Major: English language and literature,Occ: Legal
+Bachelors,Humanities and liberal arts,4749,73000,0.1940887124,0.0551100291,Major: English language and literature,Occ: Management
+Bachelors,Humanities and liberal arts,3554,40000,0.1474477812,0.0418666878,Major: English language and literature,Occ: Office and administrative support
+Bachelors,Humanities and liberal arts,273,30000,0.0113438094,0.0032209893,Major: English language and literature,Occ: Personal care and service
+Bachelors,Humanities and liberal arts,323,42000,0.013194916,0.0037465971,Major: English language and literature,Occ: Production
+Bachelors,Humanities and liberal arts,300,61000,0.0130387796,0.0037022633,Major: English language and literature,Occ: Protective service
+Bachelors,Humanities and liberal arts,2731,55000,0.1196210983,0.0339655106,Major: English language and literature,Occ: Sales and related
+Bachelors,Humanities and liberal arts,272,42000,0.0127703829,0.0036260541,Major: English language and literature,Occ: Transportation and material moving
+Bachelors,Architecture and engineering,213,75000,0.4270373728,0.0018788392,Major: Environmental engineering,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,126,95000,0.2236123703,0.0009838288,Major: Environmental engineering,Occ: Management
+Bachelors,Biology and life sciences,206,66000,0.048763929,0.0052277895,Major: Environmental science,Occ: Architecture and engineering
+Bachelors,Biology and life sciences,84,48000,0.022053371,0.0023642554,Major: Environmental science,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Biology and life sciences,57,45000,0.0167698814,0.0017978332,Major: Environmental science,Occ: Building and grounds cleaning and maintenance
+Bachelors,Biology and life sciences,381,60000,0.0914201539,0.0098007961,Major: Environmental science,Occ: Business and financial operations
+Bachelors,Biology and life sciences,64,42000,0.0135156125,0.0014489558,Major: Environmental science,Occ: Community and social service
+Bachelors,Biology and life sciences,142,64000,0.0343790083,0.0036856386,Major: Environmental science,Occ: Computer and mathematical
+Bachelors,Biology and life sciences,81,49000,0.01960578,0.0021018588,Major: Environmental science,Occ: Construction and extraction
+Bachelors,Biology and life sciences,188,42000,0.0508156966,0.0054477515,Major: Environmental science,"Occ: Education, training, and library"
+Bachelors,Biology and life sciences,209,61000,0.0497184143,0.0053301162,Major: Environmental science,Occ: Healthcare practitioners and technical
+Bachelors,Biology and life sciences,521,54000,0.1295068743,0.013883924,Major: Environmental science,"Occ: Life, physical, and social sciences"
+Bachelors,Biology and life sciences,911,72000,0.2196343394,0.023546136,Major: Environmental science,Occ: Management
+Bachelors,Biology and life sciences,301,42000,0.0733776255,0.0078665274,Major: Environmental science,Occ: Office and administrative support
+Bachelors,Biology and life sciences,167,53000,0.0417493386,0.0044757828,Major: Environmental science,Occ: Production
+Bachelors,Biology and life sciences,130,57000,0.0326078243,0.0034957569,Major: Environmental science,Occ: Protective service
+Bachelors,Biology and life sciences,335,64000,0.0871462642,0.0093426092,Major: Environmental science,Occ: Sales and related
+Bachelors,Biology and life sciences,64,56000,0.0209335418,0.0022442029,Major: Environmental science,Occ: Transportation and material moving
+Bachelors,"Industrial arts, consumer services, and recreation",163,50000,0.0195758665,0.0050099623,Major: Family and consumer sciences,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,"Industrial arts, consumer services, and recreation",674,54000,0.0850122929,0.0217568086,Major: Family and consumer sciences,Occ: Business and financial operations
+Bachelors,"Industrial arts, consumer services, and recreation",753,39000,0.0952982533,0.0243892476,Major: Family and consumer sciences,Occ: Community and social service
+Bachelors,"Industrial arts, consumer services, and recreation",119,57000,0.0149272014,0.0038202506,Major: Family and consumer sciences,Occ: Computer and mathematical
+Bachelors,"Industrial arts, consumer services, and recreation",1558,38000,0.1929585778,0.0493830093,Major: Family and consumer sciences,"Occ: Education, training, and library"
+Bachelors,"Industrial arts, consumer services, and recreation",113,31000,0.0178398865,0.0045656808,Major: Family and consumer sciences,Occ: Food preparation and serving related
+Bachelors,"Industrial arts, consumer services, and recreation",475,51000,0.0590592052,0.0151147532,Major: Family and consumer sciences,Occ: Healthcare practitioners and technical
+Bachelors,"Industrial arts, consumer services, and recreation",78,27000,0.0114020359,0.0029180711,Major: Family and consumer sciences,Occ: Healthcare support
+Bachelors,"Industrial arts, consumer services, and recreation",76,56000,0.0106274646,0.0027198386,Major: Family and consumer sciences,Occ: Legal
+Bachelors,"Industrial arts, consumer services, and recreation",1251,57000,0.1530211374,0.0391620022,Major: Family and consumer sciences,Occ: Management
+Bachelors,"Industrial arts, consumer services, and recreation",1175,39000,0.1413060559,0.0361638148,Major: Family and consumer sciences,Occ: Office and administrative support
+Bachelors,"Industrial arts, consumer services, and recreation",295,30000,0.0406390089,0.0104005563,Major: Family and consumer sciences,Occ: Personal care and service
+Bachelors,"Industrial arts, consumer services, and recreation",89,41000,0.0136589337,0.0034956687,Major: Family and consumer sciences,Occ: Production
+Bachelors,"Industrial arts, consumer services, and recreation",107,57000,0.0136898671,0.0035035853,Major: Family and consumer sciences,Occ: Protective service
+Bachelors,"Industrial arts, consumer services, and recreation",795,53000,0.1026727659,0.026276573,Major: Family and consumer sciences,Occ: Sales and related
+Bachelors,Arts,50,77000,0.012794475,0.0010920155,"Major: Film, video, and photographic arts",Occ: Architecture and engineering
+Bachelors,Arts,1019,59000,0.2935768143,0.0250569432,"Major: Film, video, and photographic arts","Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Arts,206,50000,0.0571185485,0.0048750997,"Major: Film, video, and photographic arts",Occ: Business and financial operations
+Bachelors,Arts,196,60000,0.0485506415,0.0041438241,"Major: Film, video, and photographic arts",Occ: Computer and mathematical
+Bachelors,Arts,136,40000,0.0390096757,0.0033294974,"Major: Film, video, and photographic arts","Occ: Education, training, and library"
+Bachelors,Arts,98,27000,0.0352421918,0.0030079405,"Major: Film, video, and photographic arts",Occ: Food preparation and serving related
+Bachelors,Arts,51,50000,0.0141842025,0.0012106295,"Major: Film, video, and photographic arts",Occ: Healthcare practitioners and technical
+Bachelors,Arts,547,64000,0.1491050355,0.0127261971,"Major: Film, video, and photographic arts",Occ: Management
+Bachelors,Arts,406,39000,0.1204072875,0.0102768285,"Major: Film, video, and photographic arts",Occ: Office and administrative support
+Bachelors,Arts,55,33000,0.0150300151,0.0012828201,"Major: Film, video, and photographic arts",Occ: Personal care and service
+Bachelors,Arts,106,41000,0.0284033353,0.0024242404,"Major: Film, video, and photographic arts",Occ: Production
+Bachelors,Arts,338,44000,0.10011028,0.0085444677,"Major: Film, video, and photographic arts",Occ: Sales and related
+Bachelors,Arts,50,40000,0.0172680502,0.0014738376,"Major: Film, video, and photographic arts",Occ: Transportation and material moving
+Bachelors,Business,9296,72000,0.2997197676,0.0296922176,Major: Finance,Occ: Business and financial operations
+Bachelors,Business,1389,79000,0.0449889485,0.0044569021,Major: Finance,Occ: Computer and mathematical
+Bachelors,Business,474,47000,0.015207079,0.0015065136,Major: Finance,"Occ: Education, training, and library"
+Bachelors,Business,297,63000,0.0103576307,0.0010260952,Major: Finance,Occ: Healthcare practitioners and technical
+Bachelors,Business,8245,95000,0.2596019047,0.0257178774,Major: Finance,Occ: Management
+Bachelors,Business,3274,52000,0.1052601053,0.0104277605,Major: Finance,Occ: Office and administrative support
+Bachelors,Business,369,72000,0.0120684759,0.0011955828,Major: Finance,Occ: Protective service
+Bachelors,Business,5204,81000,0.1709264499,0.0169331018,Major: Finance,Occ: Sales and related
+Bachelors,Arts,179,62000,0.0148535923,0.0042507257,Major: Fine arts,Occ: Architecture and engineering
+Bachelors,Arts,2510,56000,0.205216356,0.0587277764,Major: Fine arts,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Arts,752,55000,0.0615931838,0.0176264251,Major: Fine arts,Occ: Business and financial operations
+Bachelors,Arts,180,41000,0.0136994456,0.0039204379,Major: Fine arts,Occ: Community and social service
+Bachelors,Arts,581,66000,0.0466465751,0.0133490804,Major: Fine arts,Occ: Computer and mathematical
+Bachelors,Arts,179,48000,0.0167116866,0.0047824657,Major: Fine arts,Occ: Construction and extraction
+Bachelors,Arts,974,42000,0.078291476,0.0224050577,Major: Fine arts,"Occ: Education, training, and library"
+Bachelors,Arts,297,28000,0.0302399821,0.0086539248,Major: Fine arts,Occ: Food preparation and serving related
+Bachelors,Arts,284,52000,0.0236946088,0.006780803,Major: Fine arts,Occ: Healthcare practitioners and technical
+Bachelors,Arts,129,45000,0.0115332812,0.003300536,Major: Fine arts,"Occ: Installation, maintenance and repair"
+Bachelors,Arts,1853,66000,0.1497347174,0.0428503223,Major: Fine arts,Occ: Management
+Bachelors,Arts,1358,39000,0.1124299587,0.0321746356,Major: Fine arts,Occ: Office and administrative support
+Bachelors,Arts,228,31000,0.0215738364,0.0061738911,Major: Fine arts,Occ: Personal care and service
+Bachelors,Arts,436,36000,0.0395401272,0.0113153932,Major: Fine arts,Occ: Production
+Bachelors,Arts,146,55000,0.0126926368,0.0036323145,Major: Fine arts,Occ: Protective service
+Bachelors,Arts,1370,49000,0.1189842616,0.0340503128,Major: Fine arts,Occ: Sales and related
+Bachelors,Arts,189,39000,0.0165390483,0.004733061,Major: Fine arts,Occ: Transportation and material moving
+Bachelors,Agriculture and natural resources,78,72000,0.0998062681,0.0039994274,Major: Food science,Occ: Business and financial operations
+Bachelors,Agriculture and natural resources,80,62000,0.115813193,0.0046408554,Major: Food science,"Occ: Life, physical, and social sciences"
+Bachelors,Agriculture and natural resources,199,98000,0.2961349803,0.0118666931,Major: Food science,Occ: Management
+Bachelors,Agriculture and natural resources,53,41000,0.0782347041,0.0031350137,Major: Food science,Occ: Office and administrative support
+Bachelors,Agriculture and natural resources,52,68000,0.0593149311,0.0023768623,Major: Food science,Occ: Production
+Bachelors,Agriculture and natural resources,94,80000,0.1133537599,0.0045423012,Major: Food science,Occ: Sales and related
+Bachelors,Agriculture and natural resources,95,71000,0.0482585441,0.0045604704,Major: Forestry,Occ: Architecture and engineering
+Bachelors,Agriculture and natural resources,71,46000,0.0400377539,0.0037835993,Major: Forestry,Occ: Building and grounds cleaning and maintenance
+Bachelors,Agriculture and natural resources,115,61000,0.052657337,0.0049761598,Major: Forestry,Occ: Business and financial operations
+Bachelors,Agriculture and natural resources,95,66000,0.0414302194,0.0039151884,Major: Forestry,"Occ: Farming, fisheries, and forestry"
+Bachelors,Agriculture and natural resources,455,55000,0.210984747,0.0199382247,Major: Forestry,"Occ: Life, physical, and social sciences"
+Bachelors,Agriculture and natural resources,343,78000,0.1791794358,0.0169325978,Major: Forestry,Occ: Management
+Bachelors,Agriculture and natural resources,106,52000,0.0556927953,0.005263013,Major: Forestry,Occ: Office and administrative support
+Bachelors,Agriculture and natural resources,87,60000,0.0430440811,0.0040676996,Major: Forestry,Occ: Production
+Bachelors,Agriculture and natural resources,111,64000,0.0599459327,0.0056649378,Major: Forestry,Occ: Protective service
+Bachelors,Agriculture and natural resources,159,63000,0.0966802223,0.0091363571,Major: Forestry,Occ: Sales and related
+Bachelors,Humanities and liberal arts,210,55000,0.0483279571,0.0026080608,"Major: French, german, latin and other common foreign language studies","Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Humanities and liberal arts,550,60000,0.1161538957,0.0062683473,"Major: French, german, latin and other common foreign language studies",Occ: Business and financial operations
+Bachelors,Humanities and liberal arts,144,40000,0.0275342697,0.0014859111,"Major: French, german, latin and other common foreign language studies",Occ: Community and social service
+Bachelors,Humanities and liberal arts,231,70000,0.0513831608,0.0027729375,"Major: French, german, latin and other common foreign language studies",Occ: Computer and mathematical
+Bachelors,Humanities and liberal arts,748,45000,0.1518866767,0.0081966983,"Major: French, german, latin and other common foreign language studies","Occ: Education, training, and library"
+Bachelors,Humanities and liberal arts,90,33000,0.0225427864,0.0012165413,"Major: French, german, latin and other common foreign language studies",Occ: Food preparation and serving related
+Bachelors,Humanities and liberal arts,118,58000,0.0268666588,0.0014498829,"Major: French, german, latin and other common foreign language studies",Occ: Healthcare practitioners and technical
+Bachelors,Humanities and liberal arts,72,49000,0.0162535174,0.0008771354,"Major: French, german, latin and other common foreign language studies",Occ: Legal
+Bachelors,Humanities and liberal arts,834,69000,0.1691343312,0.0091274832,"Major: French, german, latin and other common foreign language studies",Occ: Management
+Bachelors,Humanities and liberal arts,736,40000,0.1629261739,0.0087924545,"Major: French, german, latin and other common foreign language studies",Occ: Office and administrative support
+Bachelors,Humanities and liberal arts,55,31000,0.0127927557,0.0006903723,"Major: French, german, latin and other common foreign language studies",Occ: Personal care and service
+Bachelors,Humanities and liberal arts,60,52000,0.0145647323,0.0007859986,"Major: French, german, latin and other common foreign language studies",Occ: Production
+Bachelors,Humanities and liberal arts,80,70000,0.0166611552,0.0008991339,"Major: French, german, latin and other common foreign language studies",Occ: Protective service
+Bachelors,Humanities and liberal arts,507,60000,0.1113745505,0.0060104257,"Major: French, german, latin and other common foreign language studies",Occ: Sales and related
+Bachelors,Humanities and liberal arts,70,41000,0.0145896897,0.0007873455,"Major: French, german, latin and other common foreign language studies",Occ: Transportation and material moving
+Bachelors,Agriculture and natural resources,58,66000,0.0243494462,0.003943268,Major: General agriculture,Occ: Architecture and engineering
+Bachelors,Agriculture and natural resources,97,39000,0.0380880823,0.0061681698,Major: General agriculture,Occ: Building and grounds cleaning and maintenance
+Bachelors,Agriculture and natural resources,227,56000,0.0715626211,0.0115891998,Major: General agriculture,Occ: Business and financial operations
+Bachelors,Agriculture and natural resources,90,43000,0.0310198753,0.0050235098,Major: General agriculture,Occ: Construction and extraction
+Bachelors,Agriculture and natural resources,154,46000,0.0457036589,0.0074014734,Major: General agriculture,"Occ: Education, training, and library"
+Bachelors,Agriculture and natural resources,156,44000,0.0511025587,0.0082757975,Major: General agriculture,"Occ: Farming, fisheries, and forestry"
+Bachelors,Agriculture and natural resources,95,54000,0.0358442071,0.0058047857,Major: General agriculture,Occ: Healthcare practitioners and technical
+Bachelors,Agriculture and natural resources,57,50000,0.0204940605,0.0033189081,Major: General agriculture,"Occ: Installation, maintenance and repair"
+Bachelors,Agriculture and natural resources,170,55000,0.0527956646,0.0085499873,Major: General agriculture,"Occ: Life, physical, and social sciences"
+Bachelors,Agriculture and natural resources,777,65000,0.2211883019,0.0358203121,Major: General agriculture,Occ: Management
+Bachelors,Agriculture and natural resources,233,43000,0.0724295729,0.0117295982,Major: General agriculture,Occ: Office and administrative support
+Bachelors,Agriculture and natural resources,131,54000,0.046169433,0.0074769031,Major: General agriculture,Occ: Production
+Bachelors,Agriculture and natural resources,75,55000,0.0254101872,0.0041150496,Major: General agriculture,Occ: Protective service
+Bachelors,Agriculture and natural resources,478,55000,0.1560751222,0.0252755663,Major: General agriculture,Occ: Sales and related
+Bachelors,Agriculture and natural resources,119,40000,0.0380234859,0.0061577087,Major: General agriculture,Occ: Transportation and material moving
+Bachelors,Business,678,77000,0.0117440423,0.0023945298,Major: General business,Occ: Architecture and engineering
+Bachelors,Business,786,60000,0.0150184036,0.0030621497,Major: General business,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Business,9049,66000,0.1581879327,0.0322534365,Major: General business,Occ: Business and financial operations
+Bachelors,Business,744,44000,0.0130705784,0.0026650015,Major: General business,Occ: Community and social service
+Bachelors,Business,2597,78000,0.0453357034,0.0092436396,Major: General business,Occ: Computer and mathematical
+Bachelors,Business,751,55000,0.0136141881,0.0027758398,Major: General business,Occ: Construction and extraction
+Bachelors,Business,1541,49000,0.0261887574,0.0053397083,Major: General business,"Occ: Education, training, and library"
+Bachelors,Business,571,31000,0.0122197556,0.0024915245,Major: General business,Occ: Food preparation and serving related
+Bachelors,Business,1047,60000,0.0186686046,0.0038064007,Major: General business,Occ: Healthcare practitioners and technical
+Bachelors,Business,613,55000,0.0109053386,0.0022235239,Major: General business,"Occ: Installation, maintenance and repair"
+Bachelors,Business,14437,84000,0.2479940613,0.0505642913,Major: General business,Occ: Management
+Bachelors,Business,6887,44000,0.1217406782,0.0248220908,Major: General business,Occ: Office and administrative support
+Bachelors,Business,552,34000,0.0106035279,0.0021619868,Major: General business,Occ: Personal care and service
+Bachelors,Business,1196,53000,0.0204269037,0.0041649058,Major: General business,Occ: Production
+Bachelors,Business,1029,68000,0.0184011071,0.0037518598,Major: General business,Occ: Protective service
+Bachelors,Business,11985,71000,0.2122208069,0.0432703697,Major: General business,Occ: Sales and related
+Bachelors,Business,1069,50000,0.0195521345,0.0039865464,Major: General business,Occ: Transportation and material moving
+Bachelors,Education,238,47000,0.0112308588,0.003701264,Major: General education,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Education,196,30000,0.0100401642,0.0033088563,Major: General education,Occ: Building and grounds cleaning and maintenance
+Bachelors,Education,831,57000,0.0344648422,0.0113583013,Major: General education,Occ: Business and financial operations
+Bachelors,Education,560,41000,0.0244069329,0.0080435969,Major: General education,Occ: Community and social service
+Bachelors,Education,261,67000,0.0102037738,0.0033627758,Major: General education,Occ: Computer and mathematical
+Bachelors,Education,12533,44000,0.5616749649,0.185106708,Major: General education,"Occ: Education, training, and library"
+Bachelors,Education,269,26000,0.0149828778,0.0049377867,Major: General education,Occ: Food preparation and serving related
+Bachelors,Education,494,57000,0.0208302353,0.0068648534,Major: General education,Occ: Healthcare practitioners and technical
+Bachelors,Education,1956,63000,0.0829589418,0.0273401123,Major: General education,Occ: Management
+Bachelors,Education,1626,38000,0.071810775,0.0236661005,Major: General education,Occ: Office and administrative support
+Bachelors,Education,366,28000,0.0167925207,0.0055341762,Major: General education,Occ: Personal care and service
+Bachelors,Education,343,32000,0.0157338494,0.0051852784,Major: General education,Occ: Production
+Bachelors,Education,279,63000,0.0114732566,0.003781149,Major: General education,Occ: Protective service
+Bachelors,Education,1374,51000,0.061694307,0.0203320974,Major: General education,Occ: Sales and related
+Bachelors,Education,308,36000,0.0151596187,0.0049960338,Major: General education,Occ: Transportation and material moving
+Bachelors,Architecture and engineering,4161,84000,0.3072021485,0.0487088787,Major: General engineering,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,235,64000,0.0176900663,0.0028048739,Major: General engineering,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Architecture and engineering,623,85000,0.0442919725,0.0070227774,Major: General engineering,Occ: Business and financial operations
+Bachelors,Architecture and engineering,1414,85000,0.11785644,0.0186868974,Major: General engineering,Occ: Computer and mathematical
+Bachelors,Architecture and engineering,356,52000,0.0282997455,0.0044871069,Major: General engineering,Occ: Construction and extraction
+Bachelors,Architecture and engineering,242,50000,0.0142804113,0.0022642512,Major: General engineering,"Occ: Education, training, and library"
+Bachelors,Architecture and engineering,160,63000,0.0102664216,0.0016278072,Major: General engineering,Occ: Healthcare practitioners and technical
+Bachelors,Architecture and engineering,373,52000,0.0287900337,0.0045648452,Major: General engineering,"Occ: Installation, maintenance and repair"
+Bachelors,Architecture and engineering,2935,102000,0.1993885095,0.031614332,Major: General engineering,Occ: Management
+Bachelors,Architecture and engineering,521,52000,0.0394595314,0.0062565628,Major: General engineering,Occ: Office and administrative support
+Bachelors,Architecture and engineering,543,69000,0.03953109,0.0062679088,Major: General engineering,Occ: Production
+Bachelors,Architecture and engineering,149,75000,0.0103111457,0.0016348985,Major: General engineering,Occ: Protective service
+Bachelors,Architecture and engineering,1045,76000,0.0727974489,0.0115425043,Major: General engineering,Occ: Sales and related
+Bachelors,Architecture and engineering,353,60000,0.0274656407,0.0043548542,Major: General engineering,Occ: Transportation and material moving
+Bachelors,Social sciences,51,45000,0.0191906535,0.0006882419,Major: General social sciences,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Social sciences,279,61000,0.100458507,0.0036027825,Major: General social sciences,Occ: Business and financial operations
+Bachelors,Social sciences,284,41000,0.0963454804,0.0034552754,Major: General social sciences,Occ: Community and social service
+Bachelors,Social sciences,93,71000,0.0348444512,0.0012496401,Major: General social sciences,Occ: Computer and mathematical
+Bachelors,Social sciences,337,46000,0.1217837693,0.0043675787,Major: General social sciences,"Occ: Education, training, and library"
+Bachelors,Social sciences,84,60000,0.0284197995,0.0010192303,Major: General social sciences,Occ: Healthcare practitioners and technical
+Bachelors,Social sciences,484,66000,0.1731428036,0.0062094877,Major: General social sciences,Occ: Management
+Bachelors,Social sciences,392,40000,0.1421753572,0.0050988901,Major: General social sciences,Occ: Office and administrative support
+Bachelors,Social sciences,55,41000,0.0159037031,0.0005703607,Major: General social sciences,Occ: Production
+Bachelors,Social sciences,133,70000,0.0463123332,0.0016609172,Major: General social sciences,Occ: Protective service
+Bachelors,Social sciences,293,63000,0.105775939,0.0037934836,Major: General social sciences,Occ: Sales and related
+Bachelors,Social sciences,58,56000,0.0219187877,0.000786082,Major: General social sciences,Occ: Transportation and material moving
+Bachelors,Social sciences,427,58000,0.1085441094,0.005058808,Major: Geography,Occ: Architecture and engineering
+Bachelors,Social sciences,75,53000,0.0198231885,0.0009238798,Major: Geography,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Social sciences,307,57000,0.0870275901,0.0040560089,Major: Geography,Occ: Business and financial operations
+Bachelors,Social sciences,359,69000,0.0954328143,0.0044477428,Major: Geography,Occ: Computer and mathematical
+Bachelors,Social sciences,78,51000,0.0209182447,0.000974916,Major: Geography,Occ: Construction and extraction
+Bachelors,Social sciences,145,46000,0.0377847814,0.001760998,Major: Geography,"Occ: Education, training, and library"
+Bachelors,Social sciences,91,54000,0.0259234529,0.0012081887,Major: Geography,Occ: Healthcare practitioners and technical
+Bachelors,Social sciences,51,53000,0.0142864774,0.0006658357,Major: Geography,"Occ: Installation, maintenance and repair"
+Bachelors,Social sciences,209,55000,0.0529152533,0.0024661689,Major: Geography,"Occ: Life, physical, and social sciences"
+Bachelors,Social sciences,717,76000,0.1934537005,0.0090161054,Major: Geography,Occ: Management
+Bachelors,Social sciences,384,45000,0.1015971796,0.0047350393,Major: Geography,Occ: Office and administrative support
+Bachelors,Social sciences,100,47000,0.026572474,0.001238437,Major: Geography,Occ: Production
+Bachelors,Social sciences,99,62000,0.0249512566,0.0011628786,Major: Geography,Occ: Protective service
+Bachelors,Social sciences,369,60000,0.1013220801,0.004722218,Major: Geography,Occ: Sales and related
+Bachelors,Social sciences,125,55000,0.0346064475,0.0016128685,Major: Geography,Occ: Transportation and material moving
+Bachelors,Architecture and engineering,60,89000,0.434399118,0.0005937188,Major: Geological and geophysical engineering,Occ: Architecture and engineering
+Bachelors,Physical sciences,184,72000,0.0554421054,0.0059179975,Major: Geology and earth science,Occ: Architecture and engineering
+Bachelors,Physical sciences,50,58000,0.0177978121,0.0018997729,Major: Geology and earth science,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Physical sciences,219,71000,0.0673926747,0.0071936244,Major: Geology and earth science,Occ: Business and financial operations
+Bachelors,Physical sciences,197,79000,0.0629013618,0.006714213,Major: Geology and earth science,Occ: Computer and mathematical
+Bachelors,Physical sciences,83,60000,0.0264948061,0.0028281068,Major: Geology and earth science,Occ: Construction and extraction
+Bachelors,Physical sciences,125,42000,0.0398899497,0.0042579304,Major: Geology and earth science,"Occ: Education, training, and library"
+Bachelors,Physical sciences,67,64000,0.0211662968,0.0022593314,Major: Geology and earth science,Occ: Healthcare practitioners and technical
+Bachelors,Physical sciences,643,66000,0.1948730744,0.0208011287,Major: Geology and earth science,"Occ: Life, physical, and social sciences"
+Bachelors,Physical sciences,683,82000,0.2269623229,0.0242263971,Major: Geology and earth science,Occ: Management
+Bachelors,Physical sciences,204,43000,0.0618113649,0.0065978646,Major: Geology and earth science,Occ: Office and administrative support
+Bachelors,Physical sciences,95,55000,0.0287503119,0.0030688639,Major: Geology and earth science,Occ: Production
+Bachelors,Physical sciences,73,66000,0.0271087502,0.0028936404,Major: Geology and earth science,Occ: Protective service
+Bachelors,Physical sciences,243,71000,0.075354249,0.0080434582,Major: Geology and earth science,Occ: Sales and related
+Bachelors,Physical sciences,68,50000,0.0230245446,0.0024576844,Major: Geology and earth science,Occ: Transportation and material moving
+Bachelors,Physical sciences,57,66000,0.228220417,0.0019985989,Major: Geosciences,"Occ: Life, physical, and social sciences"
+Bachelors,Physical sciences,52,77000,0.1856416823,0.0016257234,Major: Geosciences,Occ: Management
+Bachelors,Health,410,55000,0.1176023545,0.0058596529,Major: Health and medical administrative services,Occ: Business and financial operations
+Bachelors,Health,98,39000,0.0259746546,0.0012942127,Major: Health and medical administrative services,Occ: Community and social service
+Bachelors,Health,149,68000,0.038315762,0.0019091205,Major: Health and medical administrative services,Occ: Computer and mathematical
+Bachelors,Health,107,45000,0.0273977908,0.0013651219,Major: Health and medical administrative services,"Occ: Education, training, and library"
+Bachelors,Health,621,59000,0.1505426312,0.0075009346,Major: Health and medical administrative services,Occ: Healthcare practitioners and technical
+Bachelors,Health,112,35000,0.0307620071,0.0015327472,Major: Health and medical administrative services,Occ: Healthcare support
+Bachelors,Health,991,75000,0.2442590495,0.0121704473,Major: Health and medical administrative services,Occ: Management
+Bachelors,Health,816,39000,0.2129306923,0.0106094811,Major: Health and medical administrative services,Occ: Office and administrative support
+Bachelors,Health,289,61000,0.0759925648,0.0037864043,Major: Health and medical administrative services,Occ: Sales and related
+Bachelors,Health,113,59000,0.240986154,0.0016644357,Major: Health and medical preparatory programs,Occ: Healthcare practitioners and technical
+Bachelors,Health,83,83000,0.1549770398,0.0010703906,Major: Health and medical preparatory programs,Occ: Management
+Bachelors,Health,52,61000,0.0971312835,0.0006708633,Major: Health and medical preparatory programs,Occ: Sales and related
+Bachelors,Humanities and liberal arts,180,65000,0.0108593818,0.0022207295,Major: History,Occ: Architecture and engineering
+Bachelors,Humanities and liberal arts,659,59000,0.0391132035,0.0079985993,Major: History,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Humanities and liberal arts,1896,61000,0.1059237033,0.0216612596,Major: History,Occ: Business and financial operations
+Bachelors,Humanities and liberal arts,404,42000,0.0216545492,0.0044283272,Major: History,Occ: Community and social service
+Bachelors,Humanities and liberal arts,875,72000,0.0479325408,0.0098021423,Major: History,Occ: Computer and mathematical
+Bachelors,Humanities and liberal arts,237,53000,0.0137748289,0.0028169346,Major: History,Occ: Construction and extraction
+Bachelors,Humanities and liberal arts,1845,44000,0.1056520267,0.0216057021,Major: History,"Occ: Education, training, and library"
+Bachelors,Humanities and liberal arts,294,28000,0.0197050634,0.0040296599,Major: History,Occ: Food preparation and serving related
+Bachelors,Humanities and liberal arts,326,54000,0.0200782758,0.0041059813,Major: History,Occ: Healthcare practitioners and technical
+Bachelors,Humanities and liberal arts,190,53000,0.0117128307,0.0023952586,Major: History,"Occ: Installation, maintenance and repair"
+Bachelors,Humanities and liberal arts,311,53000,0.0181309855,0.003707763,Major: History,Occ: Legal
+Bachelors,Humanities and liberal arts,3453,76000,0.1960083841,0.0400834597,Major: History,Occ: Management
+Bachelors,Humanities and liberal arts,2196,40000,0.1257017627,0.0257058471,Major: History,Occ: Office and administrative support
+Bachelors,Humanities and liberal arts,193,36000,0.0127468484,0.0026067139,Major: History,Occ: Personal care and service
+Bachelors,Humanities and liberal arts,328,41000,0.0190332812,0.0038922813,Major: History,Occ: Production
+Bachelors,Humanities and liberal arts,667,66000,0.0397295528,0.0081246419,Major: History,Occ: Protective service
+Bachelors,Humanities and liberal arts,2566,61000,0.1494616686,0.0305647169,Major: History,Occ: Sales and related
+Bachelors,Humanities and liberal arts,403,48000,0.0222088793,0.0045416869,Major: History,Occ: Transportation and material moving
+Bachelors,Business,105,36000,0.0150170948,0.0003363256,Major: Hospitality management,Occ: Building and grounds cleaning and maintenance
+Bachelors,Business,719,55000,0.1000204712,0.0022400767,Major: Hospitality management,Occ: Business and financial operations
+Bachelors,Business,139,59000,0.0180013718,0.000403162,Major: Hospitality management,Occ: Computer and mathematical
+Bachelors,Business,204,43000,0.0294851889,0.0006603557,Major: Hospitality management,"Occ: Education, training, and library"
+Bachelors,Business,533,37000,0.084499572,0.0018924678,Major: Hospitality management,Occ: Food preparation and serving related
+Bachelors,Business,117,60000,0.0156152795,0.0003497226,Major: Hospitality management,Occ: Healthcare practitioners and technical
+Bachelors,Business,2334,63000,0.3374904955,0.0075584986,Major: Hospitality management,Occ: Management
+Bachelors,Business,927,41000,0.1372993423,0.0030749811,Major: Hospitality management,Occ: Office and administrative support
+Bachelors,Business,152,43000,0.0217845578,0.0004878909,Major: Hospitality management,Occ: Personal care and service
+Bachelors,Business,85,43000,0.0131879789,0.0002953604,Major: Hospitality management,Occ: Production
+Bachelors,Business,70,55000,0.0102901063,0.0002304591,Major: Hospitality management,Occ: Protective service
+Bachelors,Business,1082,58000,0.1506175925,0.003373259,Major: Hospitality management,Occ: Sales and related
+Bachelors,Business,103,36000,0.0138898489,0.0003110796,Major: Hospitality management,Occ: Transportation and material moving
+Bachelors,Business,1587,61000,0.2667153042,0.0051589374,Major: Human resources and personnel management,Occ: Business and financial operations
+Bachelors,Business,178,42000,0.0343541059,0.0006644939,Major: Human resources and personnel management,Occ: Community and social service
+Bachelors,Business,171,75000,0.0272955069,0.000527963,Major: Human resources and personnel management,Occ: Computer and mathematical
+Bachelors,Business,183,50000,0.0264258801,0.0005111423,Major: Human resources and personnel management,"Occ: Education, training, and library"
+Bachelors,Business,115,63000,0.0213081649,0.0004121529,Major: Human resources and personnel management,Occ: Healthcare practitioners and technical
+Bachelors,Business,63,57000,0.0114144287,0.0002207834,Major: Human resources and personnel management,Occ: Legal
+Bachelors,Business,1534,75000,0.2454071393,0.0047467845,Major: Human resources and personnel management,Occ: Management
+Bachelors,Business,977,41000,0.157119242,0.003039077,Major: Human resources and personnel management,Occ: Office and administrative support
+Bachelors,Business,105,53000,0.0173709874,0.0003359981,Major: Human resources and personnel management,Occ: Production
+Bachelors,Business,128,60000,0.0203785108,0.0003941711,Major: Human resources and personnel management,Occ: Protective service
+Bachelors,Business,631,60000,0.1021911517,0.0019766311,Major: Human resources and personnel management,Occ: Sales and related
+Bachelors,Business,90,53000,0.0167106867,0.0003232262,Major: Human resources and personnel management,Occ: Transportation and material moving
+Bachelors,Psychology and social work,177,48000,0.0720012527,0.0033745037,Major: Human services and community organization,Occ: Business and financial operations
+Bachelors,Psychology and social work,607,39000,0.2439242092,0.0114320669,Major: Human services and community organization,Occ: Community and social service
+Bachelors,Psychology and social work,205,35000,0.0833777012,0.003907687,Major: Human services and community organization,"Occ: Education, training, and library"
+Bachelors,Psychology and social work,101,40000,0.0449812089,0.0021081474,Major: Human services and community organization,Occ: Healthcare practitioners and technical
+Bachelors,Psychology and social work,365,55000,0.1397627623,0.0065503021,Major: Human services and community organization,Occ: Management
+Bachelors,Psychology and social work,376,36000,0.1601276229,0.0075047479,Major: Human services and community organization,Occ: Office and administrative support
+Bachelors,Psychology and social work,80,31000,0.0346186972,0.0016224846,Major: Human services and community organization,Occ: Personal care and service
+Bachelors,Psychology and social work,91,61000,0.0356600376,0.0016712894,Major: Human services and community organization,Occ: Protective service
+Bachelors,Psychology and social work,136,43000,0.0613881929,0.0028770983,Major: Human services and community organization,Occ: Sales and related
+Bachelors,Humanities and liberal arts,50,55000,0.0458563326,0.0005426679,Major: Humanities,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Humanities and liberal arts,119,55000,0.1084902976,0.0012838838,Major: Humanities,Occ: Business and financial operations
+Bachelors,Humanities and liberal arts,102,45000,0.0890570762,0.0010539093,Major: Humanities,"Occ: Education, training, and library"
+Bachelors,Humanities and liberal arts,194,66000,0.1864128682,0.0022060264,Major: Humanities,Occ: Management
+Bachelors,Humanities and liberal arts,175,42000,0.1689523701,0.0019993973,Major: Humanities,Occ: Office and administrative support
+Bachelors,Humanities and liberal arts,118,51000,0.1276769286,0.0015109401,Major: Humanities,Occ: Sales and related
+Bachelors,Architecture and engineering,1196,78000,0.2485137602,0.0103529392,Major: Industrial and manufacturing engineering,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,394,81000,0.0833719876,0.0034732287,Major: Industrial and manufacturing engineering,Occ: Business and financial operations
+Bachelors,Architecture and engineering,317,92000,0.0677691296,0.0028232227,Major: Industrial and manufacturing engineering,Occ: Computer and mathematical
+Bachelors,Architecture and engineering,55,56000,0.0111196694,0.000463239,Major: Industrial and manufacturing engineering,Occ: Construction and extraction
+Bachelors,Architecture and engineering,85,50000,0.016813553,0.0007004429,Major: Industrial and manufacturing engineering,"Occ: Education, training, and library"
+Bachelors,Architecture and engineering,64,58000,0.0151411343,0.0006307709,Major: Industrial and manufacturing engineering,"Occ: Installation, maintenance and repair"
+Bachelors,Architecture and engineering,1463,102000,0.3033929248,0.0126391734,Major: Industrial and manufacturing engineering,Occ: Management
+Bachelors,Architecture and engineering,236,56000,0.0517322087,0.0021551338,Major: Industrial and manufacturing engineering,Occ: Office and administrative support
+Bachelors,Architecture and engineering,208,65000,0.0436169353,0.0018170562,Major: Industrial and manufacturing engineering,Occ: Production
+Bachelors,Architecture and engineering,410,87000,0.0884637153,0.0036853471,Major: Industrial and manufacturing engineering,Occ: Sales and related
+Bachelors,Architecture and engineering,73,55000,0.0163475737,0.0006810304,Major: Industrial and manufacturing engineering,Occ: Transportation and material moving
+Bachelors,Psychology and social work,92,77000,0.187522023,0.0016599138,Major: Industrial and organizational psychology,Occ: Business and financial operations
+Bachelors,Psychology and social work,126,79000,0.2748264069,0.0024327177,Major: Industrial and organizational psychology,Occ: Management
+Bachelors,Psychology and social work,77,44000,0.1541506892,0.0013645163,Major: Industrial and organizational psychology,Occ: Office and administrative support
+Bachelors,Psychology and social work,58,55000,0.131619857,0.0011650771,Major: Industrial and organizational psychology,Occ: Sales and related
+Bachelors,Architecture and engineering,603,75000,0.1905500906,0.0047562216,Major: Industrial production technologies,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,156,72000,0.0538371391,0.0013438008,Major: Industrial production technologies,Occ: Business and financial operations
+Bachelors,Architecture and engineering,167,82000,0.0686388011,0.0017132574,Major: Industrial production technologies,Occ: Computer and mathematical
+Bachelors,Architecture and engineering,84,61000,0.0265954047,0.000663834,Major: Industrial production technologies,Occ: Construction and extraction
+Bachelors,Architecture and engineering,65,55000,0.0251322845,0.0006273139,Major: Industrial production technologies,"Occ: Education, training, and library"
+Bachelors,Architecture and engineering,120,66000,0.0393692958,0.0009826765,Major: Industrial production technologies,"Occ: Installation, maintenance and repair"
+Bachelors,Architecture and engineering,735,97000,0.2556731418,0.0063817242,Major: Industrial production technologies,Occ: Management
+Bachelors,Architecture and engineering,159,54000,0.0556127703,0.0013881214,Major: Industrial production technologies,Occ: Office and administrative support
+Bachelors,Architecture and engineering,218,68000,0.0702936894,0.0017545642,Major: Industrial production technologies,Occ: Production
+Bachelors,Architecture and engineering,289,81000,0.1112788096,0.0027775724,Major: Industrial production technologies,Occ: Sales and related
+Bachelors,Architecture and engineering,72,78000,0.025043503,0.0006250978,Major: Industrial production technologies,Occ: Transportation and material moving
+Bachelors,"Computers, statistics, and mathematics",108,78000,0.0308087835,0.0014700782,Major: Information sciences,Occ: Architecture and engineering
+Bachelors,"Computers, statistics, and mathematics",59,50000,0.0186603681,0.0008904019,Major: Information sciences,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,"Computers, statistics, and mathematics",303,71000,0.0810820104,0.0038689258,Major: Information sciences,Occ: Business and financial operations
+Bachelors,"Computers, statistics, and mathematics",1633,79000,0.4529192698,0.0216115884,Major: Information sciences,Occ: Computer and mathematical
+Bachelors,"Computers, statistics, and mathematics",61,43000,0.0159280987,0.0007600284,Major: Information sciences,"Occ: Education, training, and library"
+Bachelors,"Computers, statistics, and mathematics",83,54000,0.0261430302,0.0012474462,Major: Information sciences,"Occ: Installation, maintenance and repair"
+Bachelors,"Computers, statistics, and mathematics",689,94000,0.1833873792,0.0087505496,Major: Information sciences,Occ: Management
+Bachelors,"Computers, statistics, and mathematics",241,49000,0.0645931749,0.0030821411,Major: Information sciences,Occ: Office and administrative support
+Bachelors,"Computers, statistics, and mathematics",180,68000,0.0540343954,0.0025783162,Major: Information sciences,Occ: Sales and related
+Bachelors,Humanities and liberal arts,69,58000,0.039776979,0.0007278596,Major: Intercultural and international studies,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Humanities and liberal arts,219,60000,0.1336285683,0.0024452043,Major: Intercultural and international studies,Occ: Business and financial operations
+Bachelors,Humanities and liberal arts,54,35000,0.0342934603,0.0006275194,Major: Intercultural and international studies,Occ: Community and social service
+Bachelors,Humanities and liberal arts,85,80000,0.0527620006,0.0009654662,Major: Intercultural and international studies,Occ: Computer and mathematical
+Bachelors,Humanities and liberal arts,101,44000,0.0594293215,0.0010874683,Major: Intercultural and international studies,"Occ: Education, training, and library"
+Bachelors,Humanities and liberal arts,339,68000,0.2063741305,0.00377634,Major: Intercultural and international studies,Occ: Management
+Bachelors,Humanities and liberal arts,236,38000,0.1499257824,0.0027434191,Major: Intercultural and international studies,Occ: Office and administrative support
+Bachelors,Humanities and liberal arts,196,54000,0.1282309212,0.0023464354,Major: Intercultural and international studies,Occ: Sales and related
+Bachelors,Social sciences,151,55000,0.0984073837,0.0019682547,Major: Interdisciplinary social sciences,Occ: Business and financial operations
+Bachelors,Social sciences,250,38000,0.151718644,0.0030345379,Major: Interdisciplinary social sciences,Occ: Community and social service
+Bachelors,Social sciences,55,71000,0.0354122194,0.0007082829,Major: Interdisciplinary social sciences,Occ: Computer and mathematical
+Bachelors,Social sciences,119,40000,0.0720691565,0.0014414615,Major: Interdisciplinary social sciences,"Occ: Education, training, and library"
+Bachelors,Social sciences,90,51000,0.0611218641,0.0012225038,Major: Interdisciplinary social sciences,Occ: Healthcare practitioners and technical
+Bachelors,Social sciences,255,64000,0.1573260974,0.0031466931,Major: Interdisciplinary social sciences,Occ: Management
+Bachelors,Social sciences,245,41000,0.140522408,0.002810601,Major: Interdisciplinary social sciences,Occ: Office and administrative support
+Bachelors,Social sciences,96,65000,0.0621798742,0.0012436651,Major: Interdisciplinary social sciences,Occ: Protective service
+Bachelors,Social sciences,134,55000,0.0796059224,0.0015922051,Major: Interdisciplinary social sciences,Occ: Sales and related
+Bachelors,Business,603,60000,0.1854249039,0.0018806486,Major: International business,Occ: Business and financial operations
+Bachelors,Business,128,66000,0.0439125623,0.0004453776,Major: International business,Occ: Computer and mathematical
+Bachelors,Business,90,49000,0.0316428758,0.0003209339,Major: International business,"Occ: Education, training, and library"
+Bachelors,Business,831,75000,0.2694693214,0.0027330585,Major: International business,Occ: Management
+Bachelors,Business,435,43000,0.1445621512,0.0014662033,Major: International business,Occ: Office and administrative support
+Bachelors,Business,600,66000,0.1928747758,0.001956208,Major: International business,Occ: Sales and related
+Bachelors,Social sciences,96,76000,0.0410662142,0.0012954482,Major: International relations,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Social sciences,371,68000,0.1603070002,0.0050569408,Major: International relations,Occ: Business and financial operations
+Bachelors,Social sciences,59,44000,0.0291413464,0.000919274,Major: International relations,Occ: Community and social service
+Bachelors,Social sciences,150,77000,0.0573080262,0.0018078019,Major: International relations,Occ: Computer and mathematical
+Bachelors,Social sciences,98,46000,0.0402375503,0.0012693077,Major: International relations,"Occ: Education, training, and library"
+Bachelors,Social sciences,55,51000,0.0276063452,0.0008708519,Major: International relations,Occ: Legal
+Bachelors,Social sciences,620,83000,0.2452371557,0.0077360925,Major: International relations,Occ: Management
+Bachelors,Social sciences,311,44000,0.1389314182,0.0043826406,Major: International relations,Occ: Office and administrative support
+Bachelors,Social sciences,54,66000,0.0224133849,0.0007070381,Major: International relations,Occ: Protective service
+Bachelors,Social sciences,283,59000,0.1325230842,0.0041804874,Major: International relations,Occ: Sales and related
+Bachelors,Communications and journalism,3309,55000,0.2698073628,0.0542419386,Major: Journalism,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Communications and journalism,1094,58000,0.0887711635,0.0178465107,Major: Journalism,Occ: Business and financial operations
+Bachelors,Communications and journalism,192,43000,0.0181051093,0.0036398422,Major: Journalism,Occ: Community and social service
+Bachelors,Communications and journalism,438,66000,0.0364108988,0.0073200291,Major: Journalism,Occ: Computer and mathematical
+Bachelors,Communications and journalism,492,44000,0.0403280806,0.0081075374,Major: Journalism,"Occ: Education, training, and library"
+Bachelors,Communications and journalism,141,30000,0.0146316187,0.0029415334,Major: Journalism,Occ: Food preparation and serving related
+Bachelors,Communications and journalism,179,57000,0.0151105857,0.0030378247,Major: Journalism,Occ: Healthcare practitioners and technical
+Bachelors,Communications and journalism,2605,75000,0.2125171088,0.0427243343,Major: Journalism,Occ: Management
+Bachelors,Communications and journalism,1268,42000,0.1061480235,0.0213399461,Major: Journalism,Occ: Office and administrative support
+Bachelors,Communications and journalism,127,51000,0.0102801526,0.0020667168,Major: Journalism,Occ: Production
+Bachelors,Communications and journalism,129,61000,0.0103177801,0.0020742814,Major: Journalism,Occ: Protective service
+Bachelors,Communications and journalism,1523,64000,0.1264904026,0.0254295679,Major: Journalism,Occ: Sales and related
+Bachelors,Education,73,48000,0.0238884021,0.0008163951,Major: Language and drama education,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Education,140,52000,0.0469691162,0.0016051871,Major: Language and drama education,Occ: Business and financial operations
+Bachelors,Education,65,39000,0.0175021903,0.0005981439,Major: Language and drama education,Occ: Community and social service
+Bachelors,Education,1767,44000,0.5581843445,0.0190761589,Major: Language and drama education,"Occ: Education, training, and library"
+Bachelors,Education,57,51000,0.0221155952,0.0007558087,Major: Language and drama education,Occ: Healthcare practitioners and technical
+Bachelors,Education,227,60000,0.0803136294,0.0027447483,Major: Language and drama education,Occ: Management
+Bachelors,Education,276,39000,0.0962620469,0.0032897915,Major: Language and drama education,Occ: Office and administrative support
+Bachelors,Education,152,43000,0.0490191381,0.0016752474,Major: Language and drama education,Occ: Sales and related
+Bachelors,Humanities and liberal arts,177,75000,0.0104958258,0.0019501251,Major: Liberal arts,Occ: Architecture and engineering
+Bachelors,Humanities and liberal arts,539,57000,0.038347368,0.0071249432,Major: Liberal arts,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Humanities and liberal arts,1341,60000,0.0897464088,0.0166748881,Major: Liberal arts,Occ: Business and financial operations
+Bachelors,Humanities and liberal arts,504,41000,0.0324902442,0.0060366893,Major: Liberal arts,Occ: Community and social service
+Bachelors,Humanities and liberal arts,611,75000,0.0398503099,0.0074041899,Major: Liberal arts,Occ: Computer and mathematical
+Bachelors,Humanities and liberal arts,162,48000,0.0109210956,0.0020291402,Major: Liberal arts,Occ: Construction and extraction
+Bachelors,Humanities and liberal arts,2019,47000,0.1278805379,0.0237602115,Major: Liberal arts,"Occ: Education, training, and library"
+Bachelors,Humanities and liberal arts,225,28000,0.0193757475,0.003600015,Major: Liberal arts,Occ: Food preparation and serving related
+Bachelors,Humanities and liberal arts,518,56000,0.034927088,0.006489455,Major: Liberal arts,Occ: Healthcare practitioners and technical
+Bachelors,Humanities and liberal arts,188,54000,0.0119528579,0.0022208417,Major: Liberal arts,"Occ: Installation, maintenance and repair"
+Bachelors,Humanities and liberal arts,178,55000,0.0124488045,0.0023129886,Major: Liberal arts,Occ: Legal
+Bachelors,Humanities and liberal arts,2554,72000,0.1762199321,0.0327416738,Major: Liberal arts,Occ: Management
+Bachelors,Humanities and liberal arts,2096,40000,0.1398478936,0.0259837469,Major: Liberal arts,Occ: Office and administrative support
+Bachelors,Humanities and liberal arts,226,33000,0.0181168525,0.0033661123,Major: Liberal arts,Occ: Personal care and service
+Bachelors,Humanities and liberal arts,330,45000,0.0221484578,0.0041151848,Major: Liberal arts,Occ: Production
+Bachelors,Humanities and liberal arts,488,69000,0.0322661319,0.0059950492,Major: Liberal arts,Occ: Protective service
+Bachelors,Humanities and liberal arts,1990,58000,0.1361920238,0.0253044861,Major: Liberal arts,Occ: Sales and related
+Bachelors,Humanities and liberal arts,303,50000,0.0228093173,0.0042379725,Major: Liberal arts,Occ: Transportation and material moving
+Bachelors,Humanities and liberal arts,100,56000,0.0709237811,0.0011635653,Major: Linguistics and comparative language and literature,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Humanities and liberal arts,140,48000,0.0930690766,0.0015268778,Major: Linguistics and comparative language and literature,Occ: Business and financial operations
+Bachelors,Humanities and liberal arts,94,89000,0.0654986283,0.001074561,Major: Linguistics and comparative language and literature,Occ: Computer and mathematical
+Bachelors,Humanities and liberal arts,127,43000,0.0976595905,0.0016021891,Major: Linguistics and comparative language and literature,"Occ: Education, training, and library"
+Bachelors,Humanities and liberal arts,265,66000,0.1867265053,0.003063408,Major: Linguistics and comparative language and literature,Occ: Management
+Bachelors,Humanities and liberal arts,193,42000,0.1462670434,0.0023996359,Major: Linguistics and comparative language and literature,Occ: Office and administrative support
+Bachelors,Humanities and liberal arts,145,43000,0.1041998755,0.001709488,Major: Linguistics and comparative language and literature,Occ: Sales and related
+Bachelors,Business,171,83000,0.0239220944,0.0005449921,Major: Management information systems and statistics,Occ: Architecture and engineering
+Bachelors,Business,818,72000,0.1016473392,0.0023157254,Major: Management information systems and statistics,Occ: Business and financial operations
+Bachelors,Business,2769,81000,0.3564805014,0.0081213237,Major: Management information systems and statistics,Occ: Computer and mathematical
+Bachelors,Business,109,48000,0.0151731366,0.0003456738,Major: Management information systems and statistics,"Occ: Education, training, and library"
+Bachelors,Business,116,50000,0.0153469396,0.0003496333,Major: Management information systems and statistics,"Occ: Installation, maintenance and repair"
+Bachelors,Business,1901,99000,0.2510369377,0.0057191129,Major: Management information systems and statistics,Occ: Management
+Bachelors,Business,603,49000,0.0781643262,0.0017807364,Major: Management information systems and statistics,Occ: Office and administrative support
+Bachelors,Business,88,51000,0.012372686,0.000281874,Major: Management information systems and statistics,Occ: Production
+Bachelors,Business,78,72000,0.0107653345,0.0002452554,Major: Management information systems and statistics,Occ: Protective service
+Bachelors,Business,584,77000,0.0779591602,0.0017760623,Major: Management information systems and statistics,Occ: Sales and related
+Bachelors,Business,736,53000,0.0220552154,0.0026508006,Major: Marketing and marketing research,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Business,5309,61000,0.1438425402,0.0172883321,Major: Marketing and marketing research,Occ: Business and financial operations
+Bachelors,Business,1144,71000,0.0303475643,0.0036474521,Major: Marketing and marketing research,Occ: Computer and mathematical
+Bachelors,Business,933,44000,0.024323926,0.0029234753,Major: Marketing and marketing research,"Occ: Education, training, and library"
+Bachelors,Business,354,30000,0.0113482591,0.0013639392,Major: Marketing and marketing research,Occ: Food preparation and serving related
+Bachelors,Business,486,59000,0.0128272929,0.0015417032,Major: Marketing and marketing research,Occ: Healthcare practitioners and technical
+Bachelors,Business,9773,77000,0.261471677,0.031426094,Major: Marketing and marketing research,Occ: Management
+Bachelors,Business,4514,46000,0.1204361057,0.0144751295,Major: Marketing and marketing research,Occ: Office and administrative support
+Bachelors,Business,472,52000,0.0125159304,0.0015042807,Major: Marketing and marketing research,Occ: Production
+Bachelors,Business,357,66000,0.0100106636,0.0012031745,Major: Marketing and marketing research,Occ: Protective service
+Bachelors,Business,10742,72000,0.28716862,0.0345145913,Major: Marketing and marketing research,Occ: Sales and related
+Bachelors,"Computers, statistics, and mathematics",318,87000,0.0324986033,0.0042139802,Major: Mathematics,Occ: Architecture and engineering
+Bachelors,"Computers, statistics, and mathematics",110,66000,0.0102336193,0.0013269576,Major: Mathematics,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,"Computers, statistics, and mathematics",1156,74000,0.1135431449,0.0147227423,Major: Mathematics,Occ: Business and financial operations
+Bachelors,"Computers, statistics, and mathematics",2566,94000,0.2503499131,0.0324619973,Major: Mathematics,Occ: Computer and mathematical
+Bachelors,"Computers, statistics, and mathematics",1319,47000,0.1264991756,0.0164027055,Major: Mathematics,"Occ: Education, training, and library"
+Bachelors,"Computers, statistics, and mathematics",158,60000,0.0164502948,0.0021330522,Major: Mathematics,Occ: Healthcare practitioners and technical
+Bachelors,"Computers, statistics, and mathematics",1820,101000,0.1771942324,0.0229761562,Major: Mathematics,Occ: Management
+Bachelors,"Computers, statistics, and mathematics",855,45000,0.0838000463,0.0108660588,Major: Mathematics,Occ: Office and administrative support
+Bachelors,"Computers, statistics, and mathematics",188,50000,0.0218824642,0.0028374226,Major: Mathematics,Occ: Production
+Bachelors,"Computers, statistics, and mathematics",115,63000,0.0117286582,0.0015208141,Major: Mathematics,Occ: Protective service
+Bachelors,"Computers, statistics, and mathematics",759,69000,0.0814426347,0.0105603815,Major: Mathematics,Occ: Sales and related
+Bachelors,"Computers, statistics, and mathematics",162,50000,0.0173467342,0.0022492903,Major: Mathematics,Occ: Transportation and material moving
+Bachelors,Education,75,53000,0.0605875288,0.0009617789,Major: Mathematics teacher education,Occ: Business and financial operations
+Bachelors,Education,50,80000,0.0344677684,0.0005471485,Major: Mathematics teacher education,Occ: Computer and mathematical
+Bachelors,Education,955,44000,0.6167652758,0.009790659,Major: Mathematics teacher education,"Occ: Education, training, and library"
+Bachelors,Education,103,76000,0.074432107,0.0011815506,Major: Mathematics teacher education,Occ: Management
+Bachelors,Education,90,40000,0.0535141946,0.0008494953,Major: Mathematics teacher education,Occ: Office and administrative support
+Bachelors,Education,57,62000,0.0396917205,0.0006300745,Major: Mathematics teacher education,Occ: Sales and related
+Bachelors,Architecture and engineering,8685,84000,0.4344228089,0.0750202501,Major: Mechanical engineering,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,311,72000,0.0174957717,0.0030213358,Major: Mechanical engineering,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Architecture and engineering,646,86000,0.0332499224,0.0057419119,Major: Mechanical engineering,Occ: Business and financial operations
+Bachelors,Architecture and engineering,1334,94000,0.0728354853,0.0125779223,Major: Mechanical engineering,Occ: Computer and mathematical
+Bachelors,Architecture and engineering,270,57000,0.0147126685,0.0025407231,Major: Mechanical engineering,Occ: Construction and extraction
+Bachelors,Architecture and engineering,206,48000,0.0106406732,0.0018375324,Major: Mechanical engineering,"Occ: Education, training, and library"
+Bachelors,Architecture and engineering,408,61000,0.0221339349,0.0038222978,Major: Mechanical engineering,"Occ: Installation, maintenance and repair"
+Bachelors,Architecture and engineering,4454,112000,0.2240875482,0.0386975627,Major: Mechanical engineering,Occ: Management
+Bachelors,Architecture and engineering,409,61000,0.0218978177,0.0037815228,Major: Mechanical engineering,Occ: Office and administrative support
+Bachelors,Architecture and engineering,678,67000,0.0363225258,0.0062725182,Major: Mechanical engineering,Occ: Production
+Bachelors,Architecture and engineering,1211,92000,0.0623436686,0.0107660959,Major: Mechanical engineering,Occ: Sales and related
+Bachelors,Architecture and engineering,261,66000,0.014479631,0.00250048,Major: Mechanical engineering,Occ: Transportation and material moving
+Bachelors,Architecture and engineering,417,73000,0.3046406249,0.0032359361,Major: Mechanical engineering related technologies,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,134,54000,0.1264676675,0.0013433576,Major: Mechanical engineering related technologies,"Occ: Installation, maintenance and repair"
+Bachelors,Architecture and engineering,227,90000,0.1881702035,0.0019987707,Major: Mechanical engineering related technologies,Occ: Management
+Bachelors,Architecture and engineering,64,60000,0.0519389484,0.0005517029,Major: Mechanical engineering related technologies,Occ: Production
+Bachelors,Architecture and engineering,96,65000,0.0843340315,0.0008958081,Major: Mechanical engineering related technologies,Occ: Sales and related
+Bachelors,Architecture and engineering,95,92000,0.3641764176,0.0007172847,Major: Metallurgical engineering,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,63,112000,0.250810081,0.0004939975,Major: Metallurgical engineering,Occ: Management
+Bachelors,Biology and life sciences,120,63000,0.075467499,0.0035518889,Major: Microbiology,Occ: Business and financial operations
+Bachelors,Biology and life sciences,73,81000,0.0405841099,0.0019100971,Major: Microbiology,Occ: Computer and mathematical
+Bachelors,Biology and life sciences,103,42000,0.0602826964,0.0028372139,Major: Microbiology,"Occ: Education, training, and library"
+Bachelors,Biology and life sciences,303,57000,0.1871993426,0.0088105644,Major: Microbiology,Occ: Healthcare practitioners and technical
+Bachelors,Biology and life sciences,282,60000,0.1599055016,0.0075259758,Major: Microbiology,"Occ: Life, physical, and social sciences"
+Bachelors,Biology and life sciences,319,80000,0.1767794066,0.0083201486,Major: Microbiology,Occ: Management
+Bachelors,Biology and life sciences,93,44000,0.0509755137,0.00239917,Major: Microbiology,Occ: Office and administrative support
+Bachelors,Biology and life sciences,84,55000,0.0498228154,0.0023449181,Major: Microbiology,Occ: Production
+Bachelors,Biology and life sciences,139,71000,0.0918278257,0.00432189,Major: Microbiology,Occ: Sales and related
+Bachelors,Architecture and engineering,89,96000,0.252347294,0.0006360893,Major: Mining and mineral engineering,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,106,130000,0.3127967085,0.0007884636,Major: Mining and mineral engineering,Occ: Management
+Bachelors,Agriculture and natural resources,60,65000,0.0165283567,0.0031724533,Major: Miscellaneous agriculture,Occ: Architecture and engineering
+Bachelors,Agriculture and natural resources,58,47000,0.0152891602,0.0029346019,Major: Miscellaneous agriculture,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Agriculture and natural resources,181,46000,0.0485581433,0.0093202515,Major: Miscellaneous agriculture,Occ: Building and grounds cleaning and maintenance
+Bachelors,Agriculture and natural resources,432,67000,0.095438208,0.0183184126,Major: Miscellaneous agriculture,Occ: Business and financial operations
+Bachelors,Agriculture and natural resources,70,59000,0.0204610844,0.0039273012,Major: Miscellaneous agriculture,Occ: Computer and mathematical
+Bachelors,Agriculture and natural resources,78,46000,0.020779489,0.0039884158,Major: Miscellaneous agriculture,Occ: Construction and extraction
+Bachelors,Agriculture and natural resources,168,48000,0.0397718961,0.0076338189,Major: Miscellaneous agriculture,"Occ: Education, training, and library"
+Bachelors,Agriculture and natural resources,157,43000,0.0327956789,0.0062948036,Major: Miscellaneous agriculture,"Occ: Farming, fisheries, and forestry"
+Bachelors,Agriculture and natural resources,61,54000,0.0152203159,0.0029213879,Major: Miscellaneous agriculture,Occ: Healthcare practitioners and technical
+Bachelors,Agriculture and natural resources,83,49000,0.020369292,0.0039096825,Major: Miscellaneous agriculture,"Occ: Installation, maintenance and repair"
+Bachelors,Agriculture and natural resources,116,52000,0.0251338877,0.0048241992,Major: Miscellaneous agriculture,"Occ: Life, physical, and social sciences"
+Bachelors,Agriculture and natural resources,1130,67000,0.2629477386,0.050470197,Major: Miscellaneous agriculture,Occ: Management
+Bachelors,Agriculture and natural resources,340,43000,0.0837863189,0.0160819486,Major: Miscellaneous agriculture,Occ: Office and administrative support
+Bachelors,Agriculture and natural resources,166,57000,0.0386302289,0.0074146873,Major: Miscellaneous agriculture,Occ: Production
+Bachelors,Agriculture and natural resources,73,60000,0.0188862722,0.0036250317,Major: Miscellaneous agriculture,Occ: Protective service
+Bachelors,Agriculture and natural resources,786,66000,0.1873309372,0.0359563058,Major: Miscellaneous agriculture,Occ: Sales and related
+Bachelors,Agriculture and natural resources,98,54000,0.0307074033,0.0058939799,Major: Miscellaneous agriculture,Occ: Transportation and material moving
+Bachelors,Biology and life sciences,52,67000,0.0177290512,0.0012851258,Major: Miscellaneous biology,Occ: Architecture and engineering
+Bachelors,Biology and life sciences,144,57000,0.0606270563,0.0043946735,Major: Miscellaneous biology,Occ: Business and financial operations
+Bachelors,Biology and life sciences,62,43000,0.0258655186,0.0018749139,Major: Miscellaneous biology,Occ: Community and social service
+Bachelors,Biology and life sciences,95,76000,0.0356692948,0.0025855602,Major: Miscellaneous biology,Occ: Computer and mathematical
+Bachelors,Biology and life sciences,156,37000,0.0598563891,0.0043388102,Major: Miscellaneous biology,"Occ: Education, training, and library"
+Bachelors,Biology and life sciences,458,61000,0.1782056792,0.0129175954,Major: Miscellaneous biology,Occ: Healthcare practitioners and technical
+Bachelors,Biology and life sciences,299,52000,0.1053442808,0.0076360911,Major: Miscellaneous biology,"Occ: Life, physical, and social sciences"
+Bachelors,Biology and life sciences,427,72000,0.1529959688,0.0110902191,Major: Miscellaneous biology,Occ: Management
+Bachelors,Biology and life sciences,191,42000,0.078934108,0.0057216968,Major: Miscellaneous biology,Occ: Office and administrative support
+Bachelors,Biology and life sciences,82,36000,0.0333832291,0.0024198502,Major: Miscellaneous biology,Occ: Personal care and service
+Bachelors,Biology and life sciences,65,50000,0.0239870172,0.001738747,Major: Miscellaneous biology,Occ: Production
+Bachelors,Biology and life sciences,113,55000,0.0442355574,0.0032065029,Major: Miscellaneous biology,Occ: Protective service
+Bachelors,Biology and life sciences,232,68000,0.0890787563,0.006457052,Major: Miscellaneous biology,Occ: Sales and related
+Bachelors,Business,77,75000,0.0217114771,0.0002240881,Major: Miscellaneous business and medical administration,Occ: Architecture and engineering
+Bachelors,Business,77,61000,0.0237883023,0.0002455233,Major: Miscellaneous business and medical administration,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Business,452,60000,0.123005743,0.0012695644,Major: Miscellaneous business and medical administration,Occ: Business and financial operations
+Bachelors,Business,231,71000,0.0646844524,0.0006676198,Major: Miscellaneous business and medical administration,Occ: Computer and mathematical
+Bachelors,Business,71,38000,0.0199461756,0.0002058681,Major: Miscellaneous business and medical administration,"Occ: Education, training, and library"
+Bachelors,Business,60,54000,0.0166088329,0.0001714227,Major: Miscellaneous business and medical administration,Occ: Healthcare practitioners and technical
+Bachelors,Business,74,60000,0.0198769481,0.0002051535,Major: Miscellaneous business and medical administration,"Occ: Installation, maintenance and repair"
+Bachelors,Business,863,74000,0.2457374604,0.0025363004,Major: Miscellaneous business and medical administration,Occ: Management
+Bachelors,Business,446,43000,0.1342061768,0.001385166,Major: Miscellaneous business and medical administration,Occ: Office and administrative support
+Bachelors,Business,77,44000,0.027552548,0.0002843748,Major: Miscellaneous business and medical administration,Occ: Production
+Bachelors,Business,641,66000,0.1978406787,0.0020419492,Major: Miscellaneous business and medical administration,Occ: Sales and related
+Bachelors,"Computers, statistics, and mathematics",206,75000,0.0270527205,0.0026181982,Major: Miscellaneous computer,Occ: Architecture and engineering
+Bachelors,"Computers, statistics, and mathematics",843,55000,0.1172897464,0.0113514572,Major: Miscellaneous computer,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,"Computers, statistics, and mathematics",458,63000,0.0616729001,0.0059687851,Major: Miscellaneous computer,Occ: Business and financial operations
+Bachelors,"Computers, statistics, and mathematics",1962,68000,0.2711140322,0.0262387756,Major: Miscellaneous computer,Occ: Computer and mathematical
+Bachelors,"Computers, statistics, and mathematics",72,46000,0.010729804,0.0010384447,Major: Miscellaneous computer,Occ: Construction and extraction
+Bachelors,"Computers, statistics, and mathematics",167,43000,0.0214713446,0.0020780252,Major: Miscellaneous computer,"Occ: Education, training, and library"
+Bachelors,"Computers, statistics, and mathematics",78,29000,0.0136782832,0.0013238024,Major: Miscellaneous computer,Occ: Food preparation and serving related
+Bachelors,"Computers, statistics, and mathematics",91,54000,0.014108623,0.0013654512,Major: Miscellaneous computer,Occ: Healthcare practitioners and technical
+Bachelors,"Computers, statistics, and mathematics",229,50000,0.034694511,0.0033577808,Major: Miscellaneous computer,"Occ: Installation, maintenance and repair"
+Bachelors,"Computers, statistics, and mathematics",1203,76000,0.1614856371,0.0156287941,Major: Miscellaneous computer,Occ: Management
+Bachelors,"Computers, statistics, and mathematics",669,41000,0.0882926727,0.008545082,Major: Miscellaneous computer,Occ: Office and administrative support
+Bachelors,"Computers, statistics, and mathematics",195,50000,0.0284950107,0.0027577849,Major: Miscellaneous computer,Occ: Production
+Bachelors,"Computers, statistics, and mathematics",87,66000,0.0136156884,0.0013177444,Major: Miscellaneous computer,Occ: Protective service
+Bachelors,"Computers, statistics, and mathematics",630,53000,0.0903843847,0.0087475206,Major: Miscellaneous computer,Occ: Sales and related
+Bachelors,"Computers, statistics, and mathematics",101,40000,0.0149901674,0.0014507683,Major: Miscellaneous computer,Occ: Transportation and material moving
+Bachelors,Education,65,69000,0.0175882539,0.0006910118,Major: Miscellaneous education,Occ: Architecture and engineering
+Bachelors,Education,57,53000,0.0199103321,0.0007822422,Major: Miscellaneous education,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Education,316,61000,0.0830738361,0.0032638259,Major: Miscellaneous education,Occ: Business and financial operations
+Bachelors,Education,119,40000,0.0334051788,0.0013124311,Major: Miscellaneous education,Occ: Community and social service
+Bachelors,Education,125,68000,0.0332027412,0.0013044777,Major: Miscellaneous education,Occ: Computer and mathematical
+Bachelors,Education,60,50000,0.0134710306,0.0005292533,Major: Miscellaneous education,Occ: Construction and extraction
+Bachelors,Education,1146,48000,0.2826266872,0.0111039088,Major: Miscellaneous education,"Occ: Education, training, and library"
+Bachelors,Education,85,59000,0.0214047978,0.0008409571,Major: Miscellaneous education,Occ: Healthcare practitioners and technical
+Bachelors,Education,78,60000,0.0192464559,0.0007561596,Major: Miscellaneous education,"Occ: Installation, maintenance and repair"
+Bachelors,Education,590,69000,0.1538942442,0.006046236,Major: Miscellaneous education,Occ: Management
+Bachelors,Education,418,39000,0.1127101034,0.0044281831,Major: Miscellaneous education,Occ: Office and administrative support
+Bachelors,Education,102,47000,0.0254208022,0.0009987389,Major: Miscellaneous education,Occ: Production
+Bachelors,Education,102,68000,0.0356736706,0.0014015562,Major: Miscellaneous education,Occ: Protective service
+Bachelors,Education,277,55000,0.0772984109,0.0030369195,Major: Miscellaneous education,Occ: Sales and related
+Bachelors,Education,73,52000,0.0182819003,0.0007182639,Major: Miscellaneous education,Occ: Transportation and material moving
+Bachelors,Architecture and engineering,504,79000,0.228772681,0.0043385442,Major: Miscellaneous engineering,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,57,65000,0.0291662382,0.0005531212,Major: Miscellaneous engineering,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Architecture and engineering,150,81000,0.0708029129,0.0013427371,Major: Miscellaneous engineering,Occ: Business and financial operations
+Bachelors,Architecture and engineering,133,92000,0.0631607976,0.0011978087,Major: Miscellaneous engineering,Occ: Computer and mathematical
+Bachelors,Architecture and engineering,93,60000,0.0487272489,0.0009240847,Major: Miscellaneous engineering,Occ: Construction and extraction
+Bachelors,Architecture and engineering,53,61000,0.0272405186,0.000516601,Major: Miscellaneous engineering,"Occ: Installation, maintenance and repair"
+Bachelors,Architecture and engineering,602,92000,0.2728071569,0.0051736331,Major: Miscellaneous engineering,Occ: Management
+Bachelors,Architecture and engineering,98,49000,0.0443149206,0.0008404073,Major: Miscellaneous engineering,Occ: Office and administrative support
+Bachelors,Architecture and engineering,78,60000,0.0399773775,0.0007581483,Major: Miscellaneous engineering,Occ: Production
+Bachelors,Architecture and engineering,169,81000,0.0703168089,0.0013335184,Major: Miscellaneous engineering,Occ: Sales and related
+Bachelors,Architecture and engineering,62,51000,0.0339478186,0.0006438011,Major: Miscellaneous engineering,Occ: Transportation and material moving
+Bachelors,Architecture and engineering,1107,77000,0.1677473439,0.0092943858,Major: Miscellaneous engineering technologies,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,107,70000,0.0193961966,0.0010746861,Major: Miscellaneous engineering technologies,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Architecture and engineering,283,72000,0.0472378338,0.0026173091,Major: Miscellaneous engineering technologies,Occ: Business and financial operations
+Bachelors,Architecture and engineering,1121,81000,0.2023306152,0.0112105429,Major: Miscellaneous engineering technologies,Occ: Computer and mathematical
+Bachelors,Architecture and engineering,204,58000,0.0351224101,0.0019460292,Major: Miscellaneous engineering technologies,Occ: Construction and extraction
+Bachelors,Architecture and engineering,96,46000,0.0146735331,0.0008130172,Major: Miscellaneous engineering technologies,"Occ: Education, training, and library"
+Bachelors,Architecture and engineering,95,70000,0.0147615231,0.0008178925,Major: Miscellaneous engineering technologies,Occ: Healthcare practitioners and technical
+Bachelors,Architecture and engineering,377,54000,0.0655045587,0.0036294145,Major: Miscellaneous engineering technologies,"Occ: Installation, maintenance and repair"
+Bachelors,Architecture and engineering,1174,92000,0.1894536781,0.0104970698,Major: Miscellaneous engineering technologies,Occ: Management
+Bachelors,Architecture and engineering,273,51000,0.0483497075,0.0026789148,Major: Miscellaneous engineering technologies,Occ: Office and administrative support
+Bachelors,Architecture and engineering,311,58000,0.0495655694,0.0027462821,Major: Miscellaneous engineering technologies,Occ: Production
+Bachelors,Architecture and engineering,115,72000,0.0179243638,0.0009931362,Major: Miscellaneous engineering technologies,Occ: Protective service
+Bachelors,Architecture and engineering,419,77000,0.0717662474,0.0039763562,Major: Miscellaneous engineering technologies,Occ: Sales and related
+Bachelors,Architecture and engineering,125,50000,0.0224438504,0.0012435476,Major: Miscellaneous engineering technologies,Occ: Transportation and material moving
+Bachelors,Health,576,55000,0.0493354732,0.0075810089,Major: Miscellaneous health medical professions,Occ: Business and financial operations
+Bachelors,Health,524,40000,0.0460220606,0.0070718618,Major: Miscellaneous health medical professions,Occ: Community and social service
+Bachelors,Health,260,72000,0.0222631189,0.003421005,Major: Miscellaneous health medical professions,Occ: Computer and mathematical
+Bachelors,Health,514,41000,0.0399681372,0.0061416012,Major: Miscellaneous health medical professions,"Occ: Education, training, and library"
+Bachelors,Health,4919,60000,0.407465773,0.0626121824,Major: Miscellaneous health medical professions,Occ: Healthcare practitioners and technical
+Bachelors,Health,414,39000,0.0404421546,0.0062144399,Major: Miscellaneous health medical professions,Occ: Healthcare support
+Bachelors,Health,374,65000,0.0287235671,0.0044137332,Major: Miscellaneous health medical professions,"Occ: Life, physical, and social sciences"
+Bachelors,Health,1553,67000,0.1274549428,0.0195850367,Major: Miscellaneous health medical professions,Occ: Management
+Bachelors,Health,996,39000,0.0857006078,0.013168964,Major: Miscellaneous health medical professions,Occ: Office and administrative support
+Bachelors,Health,181,32000,0.0162123347,0.0024912268,Major: Miscellaneous health medical professions,Occ: Personal care and service
+Bachelors,Health,164,44000,0.0139191581,0.0021388517,Major: Miscellaneous health medical professions,Occ: Production
+Bachelors,Health,161,62000,0.0133078013,0.0020449091,Major: Miscellaneous health medical professions,Occ: Protective service
+Bachelors,Health,637,58000,0.055700961,0.0085591452,Major: Miscellaneous health medical professions,Occ: Sales and related
+Bachelors,"Industrial arts, consumer services, and recreation",297,68000,0.0523648897,0.0101611573,Major: Miscellaneous industrial arts and consumer services,Occ: Architecture and engineering
+Bachelors,"Industrial arts, consumer services, and recreation",392,70000,0.0644900184,0.0125139808,Major: Miscellaneous industrial arts and consumer services,Occ: Business and financial operations
+Bachelors,"Industrial arts, consumer services, and recreation",67,74000,0.0102549541,0.001989925,Major: Miscellaneous industrial arts and consumer services,Occ: Computer and mathematical
+Bachelors,"Industrial arts, consumer services, and recreation",479,54000,0.0888186077,0.0172348276,Major: Miscellaneous industrial arts and consumer services,Occ: Construction and extraction
+Bachelors,"Industrial arts, consumer services, and recreation",76,52000,0.0140230459,0.0027211052,Major: Miscellaneous industrial arts and consumer services,"Occ: Education, training, and library"
+Bachelors,"Industrial arts, consumer services, and recreation",421,39000,0.0931807166,0.0180812741,Major: Miscellaneous industrial arts and consumer services,Occ: Food preparation and serving related
+Bachelors,"Industrial arts, consumer services, and recreation",190,55000,0.0418374058,0.0081183492,Major: Miscellaneous industrial arts and consumer services,"Occ: Installation, maintenance and repair"
+Bachelors,"Industrial arts, consumer services, and recreation",2270,83000,0.3895919723,0.0755984658,Major: Miscellaneous industrial arts and consumer services,Occ: Management
+Bachelors,"Industrial arts, consumer services, and recreation",200,41000,0.0389799225,0.0075638682,Major: Miscellaneous industrial arts and consumer services,Occ: Office and administrative support
+Bachelors,"Industrial arts, consumer services, and recreation",182,51000,0.0324457347,0.0062959402,Major: Miscellaneous industrial arts and consumer services,Occ: Personal care and service
+Bachelors,"Industrial arts, consumer services, and recreation",196,46000,0.0353831818,0.0068659378,Major: Miscellaneous industrial arts and consumer services,Occ: Production
+Bachelors,"Industrial arts, consumer services, and recreation",59,48000,0.0129084479,0.0025048228,Major: Miscellaneous industrial arts and consumer services,Occ: Protective service
+Bachelors,"Industrial arts, consumer services, and recreation",333,57000,0.06096345,0.011829667,Major: Miscellaneous industrial arts and consumer services,Occ: Sales and related
+Bachelors,"Industrial arts, consumer services, and recreation",113,45000,0.0226101828,0.0043873982,Major: Miscellaneous industrial arts and consumer services,Occ: Transportation and material moving
+Bachelors,Social sciences,112,74000,0.2426941275,0.0014110888,Major: Miscellaneous social sciences,Occ: Management
+Bachelors,Social sciences,62,46000,0.136205014,0.0007919325,Major: Miscellaneous social sciences,Occ: Office and administrative support
+Bachelors,Biology and life sciences,56,69000,0.0755817493,0.0016670377,Major: Molecular biology,Occ: Business and financial operations
+Bachelors,Biology and life sciences,89,34000,0.1100422537,0.0024271017,Major: Molecular biology,"Occ: Education, training, and library"
+Bachelors,Biology and life sciences,126,50000,0.1521376472,0.0033555614,Major: Molecular biology,Occ: Healthcare practitioners and technical
+Bachelors,Biology and life sciences,173,53000,0.218671992,0.0048230488,Major: Molecular biology,"Occ: Life, physical, and social sciences"
+Bachelors,Biology and life sciences,123,68000,0.1308525017,0.0028860943,Major: Molecular biology,Occ: Management
+Bachelors,Humanities and liberal arts,116,61000,0.0722525643,0.0012175515,Major: Multi/interdisciplinary studies,Occ: Business and financial operations
+Bachelors,Humanities and liberal arts,58,41000,0.0381443986,0.0006427837,Major: Multi/interdisciplinary studies,Occ: Community and social service
+Bachelors,Humanities and liberal arts,54,77000,0.0324563741,0.0005469329,Major: Multi/interdisciplinary studies,Occ: Computer and mathematical
+Bachelors,Humanities and liberal arts,571,46000,0.3570134541,0.0060161498,Major: Multi/interdisciplinary studies,"Occ: Education, training, and library"
+Bachelors,Humanities and liberal arts,193,61000,0.129852138,0.0021881806,Major: Multi/interdisciplinary studies,Occ: Management
+Bachelors,Humanities and liberal arts,176,35000,0.1137471693,0.0019167905,Major: Multi/interdisciplinary studies,Occ: Office and administrative support
+Bachelors,Humanities and liberal arts,121,49000,0.0723724524,0.0012195717,Major: Multi/interdisciplinary studies,Occ: Sales and related
+Bachelors,Physical sciences,412,84000,0.0425909876,0.0194427964,Major: Multidisciplinary or general science,Occ: Architecture and engineering
+Bachelors,Physical sciences,183,55000,0.0173281141,0.0079102884,Major: Multidisciplinary or general science,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Physical sciences,825,64000,0.0803440443,0.0366770761,Major: Multidisciplinary or general science,Occ: Business and financial operations
+Bachelors,Physical sciences,261,42000,0.0269640564,0.0123090984,Major: Multidisciplinary or general science,Occ: Community and social service
+Bachelors,Physical sciences,602,83000,0.05841291,0.0266655079,Major: Multidisciplinary or general science,Occ: Computer and mathematical
+Bachelors,Physical sciences,156,50000,0.0158702863,0.0072447896,Major: Multidisciplinary or general science,Occ: Construction and extraction
+Bachelors,Physical sciences,769,46000,0.068495643,0.031268278,Major: Multidisciplinary or general science,"Occ: Education, training, and library"
+Bachelors,Physical sciences,89,26000,0.0110999115,0.0050671123,Major: Multidisciplinary or general science,Occ: Food preparation and serving related
+Bachelors,Physical sciences,1335,63000,0.1266536826,0.0578174375,Major: Multidisciplinary or general science,Occ: Healthcare practitioners and technical
+Bachelors,Physical sciences,152,40000,0.0159370747,0.0072752785,Major: Multidisciplinary or general science,Occ: Healthcare support
+Bachelors,Physical sciences,171,61000,0.0161758237,0.0073842675,Major: Multidisciplinary or general science,"Occ: Installation, maintenance and repair"
+Bachelors,Physical sciences,326,60000,0.029645569,0.0135332096,Major: Multidisciplinary or general science,"Occ: Life, physical, and social sciences"
+Bachelors,Physical sciences,1810,79000,0.175079052,0.0799236306,Major: Multidisciplinary or general science,Occ: Management
+Bachelors,Physical sciences,925,42000,0.0940571447,0.0429371098,Major: Multidisciplinary or general science,Occ: Office and administrative support
+Bachelors,Physical sciences,124,42000,0.0133423101,0.0060907679,Major: Multidisciplinary or general science,Occ: Personal care and service
+Bachelors,Physical sciences,246,52000,0.0209615522,0.0095689538,Major: Multidisciplinary or general science,Occ: Production
+Bachelors,Physical sciences,279,70000,0.0277463241,0.0126662038,Major: Multidisciplinary or general science,Occ: Protective service
+Bachelors,Physical sciences,1176,65000,0.1166600006,0.0532553192,Major: Multidisciplinary or general science,Occ: Sales and related
+Bachelors,Physical sciences,233,51000,0.0242879175,0.0110874404,Major: Multidisciplinary or general science,Occ: Transportation and material moving
+Bachelors,Arts,63,60000,0.0110843916,0.0014046284,Major: Music,Occ: Architecture and engineering
+Bachelors,Arts,584,51000,0.1090508528,0.0138190644,Major: Music,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Arts,464,51000,0.0842588531,0.0106773903,Major: Music,Occ: Business and financial operations
+Bachelors,Arts,179,41000,0.0315306913,0.0039956098,Major: Music,Occ: Community and social service
+Bachelors,Arts,337,76000,0.0597760603,0.0075748993,Major: Music,Occ: Computer and mathematical
+Bachelors,Arts,711,44000,0.1301911873,0.0164979948,Major: Music,"Occ: Education, training, and library"
+Bachelors,Arts,125,31000,0.031426502,0.0039824068,Major: Music,Occ: Food preparation and serving related
+Bachelors,Arts,139,51000,0.0243786036,0.003089288,Major: Music,Occ: Healthcare practitioners and technical
+Bachelors,Arts,80,38000,0.0157695468,0.0019983373,Major: Music,"Occ: Installation, maintenance and repair"
+Bachelors,Arts,864,63000,0.1662322647,0.0210651666,Major: Music,Occ: Management
+Bachelors,Arts,706,39000,0.1315674936,0.0166724022,Major: Music,Occ: Office and administrative support
+Bachelors,Arts,91,29000,0.0162417594,0.0020581767,Major: Music,Occ: Personal care and service
+Bachelors,Arts,97,36000,0.0173458293,0.0021980858,Major: Music,Occ: Production
+Bachelors,Arts,82,53000,0.0133530285,0.001692113,Major: Music,Occ: Protective service
+Bachelors,Arts,545,49000,0.1023222439,0.0129664065,Major: Music,Occ: Sales and related
+Bachelors,Arts,100,46000,0.0210983227,0.0026736066,Major: Music,Occ: Transportation and material moving
+Bachelors,Agriculture and natural resources,168,65000,0.0538663983,0.0081926596,Major: Natural resources management,Occ: Architecture and engineering
+Bachelors,Agriculture and natural resources,63,38000,0.0236208501,0.0035925473,Major: Natural resources management,Occ: Building and grounds cleaning and maintenance
+Bachelors,Agriculture and natural resources,209,59000,0.0630613346,0.0095911378,Major: Natural resources management,Occ: Business and financial operations
+Bachelors,Agriculture and natural resources,72,66000,0.0240697367,0.0036608195,Major: Natural resources management,Occ: Computer and mathematical
+Bachelors,Agriculture and natural resources,87,55000,0.0261874681,0.0039829099,Major: Natural resources management,Occ: Construction and extraction
+Bachelors,Agriculture and natural resources,121,44000,0.0387237139,0.0058895753,Major: Natural resources management,"Occ: Education, training, and library"
+Bachelors,Agriculture and natural resources,60,40000,0.0180966482,0.0027523592,Major: Natural resources management,"Occ: Farming, fisheries, and forestry"
+Bachelors,Agriculture and natural resources,103,53000,0.032185897,0.0048952243,Major: Natural resources management,Occ: Healthcare practitioners and technical
+Bachelors,Agriculture and natural resources,467,52000,0.1461777664,0.0222324998,Major: Natural resources management,"Occ: Life, physical, and social sciences"
+Bachelors,Agriculture and natural resources,630,67000,0.1990595101,0.0302754011,Major: Natural resources management,Occ: Management
+Bachelors,Agriculture and natural resources,231,46000,0.0766618761,0.0116596743,Major: Natural resources management,Occ: Office and administrative support
+Bachelors,Agriculture and natural resources,64,35000,0.0217167018,0.0033029412,Major: Natural resources management,Occ: Personal care and service
+Bachelors,Agriculture and natural resources,104,50000,0.0314293058,0.0047801526,Major: Natural resources management,Occ: Production
+Bachelors,Agriculture and natural resources,244,60000,0.080433972,0.0122333807,Major: Natural resources management,Occ: Protective service
+Bachelors,Agriculture and natural resources,237,54000,0.0835508382,0.0127074318,Major: Natural resources management,Occ: Sales and related
+Bachelors,Agriculture and natural resources,70,50000,0.0243448608,0.0037026637,Major: Natural resources management,Occ: Transportation and material moving
+Bachelors,Physical sciences,100,82000,0.1313422094,0.0033257415,"Major: Nuclear, industrial radiology, and biological technologies",Occ: Architecture and engineering
+Bachelors,Physical sciences,250,61000,0.3305422537,0.0083697243,"Major: Nuclear, industrial radiology, and biological technologies",Occ: Healthcare practitioners and technical
+Bachelors,Physical sciences,118,90000,0.1872283887,0.0047408462,"Major: Nuclear, industrial radiology, and biological technologies",Occ: Management
+Bachelors,Health,556,66000,0.0119109459,0.0073692462,Major: Nursing,Occ: Business and financial operations
+Bachelors,Health,513,61000,0.0108979658,0.0067425202,Major: Nursing,Occ: Community and social service
+Bachelors,Health,731,52000,0.0152837777,0.0094560014,Major: Nursing,"Occ: Education, training, and library"
+Bachelors,Health,38563,66000,0.8176797669,0.5058946251,Major: Nursing,Occ: Healthcare practitioners and technical
+Bachelors,Health,968,36000,0.0239885452,0.0148416,Major: Nursing,Occ: Healthcare support
+Bachelors,Health,2600,80000,0.0528531167,0.0326999747,Major: Nursing,Occ: Management
+Bachelors,Health,916,43000,0.0212513354,0.0131481013,Major: Nursing,Occ: Office and administrative support
+Bachelors,Health,622,72000,0.0131966138,0.0081646829,Major: Nursing,Occ: Sales and related
+Bachelors,Health,108,54000,0.0721562842,0.0014391665,Major: Nutrition sciences,Occ: Business and financial operations
+Bachelors,Health,59,45000,0.037922257,0.0007563643,Major: Nutrition sciences,"Occ: Education, training, and library"
+Bachelors,Health,65,31000,0.0456856782,0.0009112068,Major: Nutrition sciences,Occ: Food preparation and serving related
+Bachelors,Health,545,53000,0.3436039446,0.0068532253,Major: Nutrition sciences,Occ: Healthcare practitioners and technical
+Bachelors,Health,221,67000,0.1370933122,0.0027343439,Major: Nutrition sciences,Occ: Management
+Bachelors,Health,153,37000,0.098796186,0.0019705028,Major: Nutrition sciences,Occ: Office and administrative support
+Bachelors,Health,136,66000,0.0958335097,0.0019114118,Major: Nutrition sciences,Occ: Sales and related
+Bachelors,Physical sciences,61,88000,0.1860206866,0.0020546704,Major: Oceanography,Occ: Management
+Bachelors,Business,80,72000,0.0332256649,0.0002501974,Major: Operations logistics and e-commerce,Occ: Architecture and engineering
+Bachelors,Business,415,69000,0.1700660639,0.0012806392,Major: Operations logistics and e-commerce,Occ: Business and financial operations
+Bachelors,Business,171,74000,0.0718993267,0.0005414196,Major: Operations logistics and e-commerce,Occ: Computer and mathematical
+Bachelors,Business,751,85000,0.3060920308,0.0023049482,Major: Operations logistics and e-commerce,Occ: Management
+Bachelors,Business,338,53000,0.1442572656,0.0010862927,Major: Operations logistics and e-commerce,Occ: Office and administrative support
+Bachelors,Business,66,67000,0.0249548306,0.000187916,Major: Operations logistics and e-commerce,Occ: Production
+Bachelors,Business,273,62000,0.1214768895,0.0009147508,Major: Operations logistics and e-commerce,Occ: Sales and related
+Bachelors,Business,74,59000,0.0273862661,0.0002062253,Major: Operations logistics and e-commerce,Occ: Transportation and material moving
+Bachelors,Humanities and liberal arts,51,55000,0.0505204305,0.0007038408,Major: Other foreign languages,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Humanities and liberal arts,109,63000,0.0902374968,0.0012571713,Major: Other foreign languages,Occ: Business and financial operations
+Bachelors,Humanities and liberal arts,55,42000,0.0410946765,0.000572523,Major: Other foreign languages,Occ: Community and social service
+Bachelors,Humanities and liberal arts,90,76000,0.0816093065,0.001136965,Major: Other foreign languages,Occ: Computer and mathematical
+Bachelors,Humanities and liberal arts,101,44000,0.0783384893,0.0010913966,Major: Other foreign languages,"Occ: Education, training, and library"
+Bachelors,Humanities and liberal arts,205,81000,0.1727490977,0.0024067069,Major: Other foreign languages,Occ: Management
+Bachelors,Humanities and liberal arts,176,42000,0.155283256,0.0021633761,Major: Other foreign languages,Occ: Office and administrative support
+Bachelors,Humanities and liberal arts,140,46000,0.1091212297,0.0015202558,Major: Other foreign languages,Occ: Sales and related
+Bachelors,Architecture and engineering,273,139000,0.4657541098,0.0024761923,Major: Petroleum engineering,Occ: Architecture and engineering
+Bachelors,Architecture and engineering,157,177000,0.2588115642,0.0013759776,Major: Petroleum engineering,Occ: Management
+Bachelors,Health,69,80000,0.0194156861,0.0009272458,Major: Pharmacy and pharmaceutical sciences and administration,Occ: Business and financial operations
+Bachelors,Health,2847,117000,0.7114034645,0.0339748924,Major: Pharmacy and pharmaceutical sciences and administration,Occ: Healthcare practitioners and technical
+Bachelors,Health,105,76000,0.0319832332,0.0015274411,Major: Pharmacy and pharmaceutical sciences and administration,Occ: Healthcare support
+Bachelors,Health,232,117000,0.0562673602,0.0026871917,Major: Pharmacy and pharmaceutical sciences and administration,Occ: Management
+Bachelors,Health,80,51000,0.0254002323,0.0012130531,Major: Pharmacy and pharmaceutical sciences and administration,Occ: Office and administrative support
+Bachelors,Health,262,127000,0.0728397556,0.0034786489,Major: Pharmacy and pharmaceutical sciences and administration,Occ: Sales and related
+Bachelors,Humanities and liberal arts,55,66000,0.011394633,0.0006423347,Major: Philosophy and religious studies,Occ: Architecture and engineering
+Bachelors,Humanities and liberal arts,210,55000,0.0496183206,0.0027970686,Major: Philosophy and religious studies,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Humanities and liberal arts,460,60000,0.1039533782,0.0058600276,Major: Philosophy and religious studies,Occ: Business and financial operations
+Bachelors,Humanities and liberal arts,461,39000,0.0909639346,0.0051277907,Major: Philosophy and religious studies,Occ: Community and social service
+Bachelors,Humanities and liberal arts,341,68000,0.0692299116,0.0039026071,Major: Philosophy and religious studies,Occ: Computer and mathematical
+Bachelors,Humanities and liberal arts,61,41000,0.0120058775,0.0006767916,Major: Philosophy and religious studies,Occ: Construction and extraction
+Bachelors,Humanities and liberal arts,323,36000,0.0641926197,0.0036186465,Major: Philosophy and religious studies,"Occ: Education, training, and library"
+Bachelors,Humanities and liberal arts,113,31000,0.0249574916,0.001406896,Major: Philosophy and religious studies,Occ: Food preparation and serving related
+Bachelors,Humanities and liberal arts,135,50000,0.0304347999,0.0017156611,Major: Philosophy and religious studies,Occ: Healthcare practitioners and technical
+Bachelors,Humanities and liberal arts,66,76000,0.012862018,0.0007250537,Major: Philosophy and religious studies,Occ: Legal
+Bachelors,Humanities and liberal arts,909,67000,0.1879487271,0.0105949874,Major: Philosophy and religious studies,Occ: Management
+Bachelors,Humanities and liberal arts,486,39000,0.1056178746,0.0059538581,Major: Philosophy and religious studies,Occ: Office and administrative support
+Bachelors,Humanities and liberal arts,59,30000,0.014084507,0.0007939675,Major: Philosophy and religious studies,Occ: Personal care and service
+Bachelors,Humanities and liberal arts,94,36000,0.0188350914,0.0010617659,Major: Philosophy and religious studies,Occ: Production
+Bachelors,Humanities and liberal arts,131,54000,0.0312650571,0.0017624641,Major: Philosophy and religious studies,Occ: Protective service
+Bachelors,Humanities and liberal arts,548,57000,0.1132733637,0.0063854109,Major: Philosophy and religious studies,Occ: Sales and related
+Bachelors,Humanities and liberal arts,81,39000,0.0207066544,0.0011672691,Major: Philosophy and religious studies,Occ: Transportation and material moving
+Bachelors,Education,159,49000,0.0291001618,0.0020104606,Major: Physical and health education teaching,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Education,67,33000,0.0108585978,0.0007501946,Major: Physical and health education teaching,Occ: Building and grounds cleaning and maintenance
+Bachelors,Education,281,58000,0.0477074036,0.0032959905,Major: Physical and health education teaching,Occ: Business and financial operations
+Bachelors,Education,173,44000,0.0260325318,0.0017985254,Major: Physical and health education teaching,Occ: Community and social service
+Bachelors,Education,87,76000,0.0146829777,0.0010144118,Major: Physical and health education teaching,Occ: Computer and mathematical
+Bachelors,Education,88,47000,0.0155260681,0.0010726589,Major: Physical and health education teaching,Occ: Construction and extraction
+Bachelors,Education,2155,47000,0.336785828,0.0232677278,Major: Physical and health education teaching,"Occ: Education, training, and library"
+Bachelors,Education,54,21000,0.0104658328,0.0007230594,Major: Physical and health education teaching,Occ: Food preparation and serving related
+Bachelors,Education,283,59000,0.0477158684,0.0032965753,Major: Physical and health education teaching,Occ: Healthcare practitioners and technical
+Bachelors,Education,71,34000,0.0103287037,0.0007135854,Major: Physical and health education teaching,Occ: Healthcare support
+Bachelors,Education,71,52000,0.0123551679,0.000853589,Major: Physical and health education teaching,"Occ: Installation, maintenance and repair"
+Bachelors,Education,653,61000,0.1134362874,0.0078370419,Major: Physical and health education teaching,Occ: Management
+Bachelors,Education,516,42000,0.0887174868,0.0061292791,Major: Physical and health education teaching,Occ: Office and administrative support
+Bachelors,Education,191,40000,0.0341688619,0.002360645,Major: Physical and health education teaching,Occ: Personal care and service
+Bachelors,Education,136,46000,0.0218357023,0.0015085765,Major: Physical and health education teaching,Occ: Production
+Bachelors,Education,257,65000,0.0441928341,0.0030531773,Major: Physical and health education teaching,Occ: Protective service
+Bachelors,Education,511,56000,0.0931344001,0.0064344331,Major: Physical and health education teaching,Occ: Sales and related
+Bachelors,Education,144,45000,0.0253519648,0.0017515066,Major: Physical and health education teaching,Occ: Transportation and material moving
+Bachelors,"Industrial arts, consumer services, and recreation",403,46000,0.0351525811,0.0139494247,"Major: Physical fitness, parks, recreation, and leisure","Occ: Arts, design, entertainment, sports, and media"
+Bachelors,"Industrial arts, consumer services, and recreation",821,53000,0.068844827,0.0273193519,"Major: Physical fitness, parks, recreation, and leisure",Occ: Business and financial operations
+Bachelors,"Industrial arts, consumer services, and recreation",316,41000,0.0263019925,0.0104372895,"Major: Physical fitness, parks, recreation, and leisure",Occ: Community and social service
+Bachelors,"Industrial arts, consumer services, and recreation",237,56000,0.0201677869,0.0080030831,"Major: Physical fitness, parks, recreation, and leisure",Occ: Computer and mathematical
+Bachelors,"Industrial arts, consumer services, and recreation",173,51000,0.0136098447,0.0054007273,"Major: Physical fitness, parks, recreation, and leisure",Occ: Construction and extraction
+Bachelors,"Industrial arts, consumer services, and recreation",1380,47000,0.1098579006,0.0435943669,"Major: Physical fitness, parks, recreation, and leisure","Occ: Education, training, and library"
+Bachelors,"Industrial arts, consumer services, and recreation",162,26000,0.0167547523,0.0066487054,"Major: Physical fitness, parks, recreation, and leisure",Occ: Food preparation and serving related
+Bachelors,"Industrial arts, consumer services, and recreation",915,51000,0.0794526057,0.0315287842,"Major: Physical fitness, parks, recreation, and leisure",Occ: Healthcare practitioners and technical
+Bachelors,"Industrial arts, consumer services, and recreation",275,37000,0.0268845306,0.0106684552,"Major: Physical fitness, parks, recreation, and leisure",Occ: Healthcare support
+Bachelors,"Industrial arts, consumer services, and recreation",1954,60000,0.1619918652,0.06428243,"Major: Physical fitness, parks, recreation, and leisure",Occ: Management
+Bachelors,"Industrial arts, consumer services, and recreation",1134,40000,0.098001256,0.0388893533,"Major: Physical fitness, parks, recreation, and leisure",Occ: Office and administrative support
+Bachelors,"Industrial arts, consumer services, and recreation",846,38000,0.0757443121,0.0300572404,"Major: Physical fitness, parks, recreation, and leisure",Occ: Personal care and service
+Bachelors,"Industrial arts, consumer services, and recreation",220,46000,0.0180866098,0.0071772199,"Major: Physical fitness, parks, recreation, and leisure",Occ: Production
+Bachelors,"Industrial arts, consumer services, and recreation",526,55000,0.0428189416,0.0169916286,"Major: Physical fitness, parks, recreation, and leisure",Occ: Protective service
+Bachelors,"Industrial arts, consumer services, and recreation",1670,54000,0.1407467819,0.0558518488,"Major: Physical fitness, parks, recreation, and leisure",Occ: Sales and related
+Bachelors,"Industrial arts, consumer services, and recreation",253,41000,0.0236159335,0.009371394,"Major: Physical fitness, parks, recreation, and leisure",Occ: Transportation and material moving
+Bachelors,Physical sciences,373,88000,0.1271529462,0.0132437404,Major: Physics,Occ: Architecture and engineering
+Bachelors,Physical sciences,51,83000,0.016096417,0.0016765382,Major: Physics,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Physical sciences,152,80000,0.0530502105,0.0055254969,Major: Physics,Occ: Business and financial operations
+Bachelors,Physical sciences,627,100000,0.211931671,0.022073952,Major: Physics,Occ: Computer and mathematical
+Bachelors,Physical sciences,224,37000,0.0771881067,0.0080396033,Major: Physics,"Occ: Education, training, and library"
+Bachelors,Physical sciences,63,51000,0.0255207615,0.0026581401,Major: Physics,Occ: Healthcare practitioners and technical
+Bachelors,Physical sciences,149,62000,0.0511390974,0.0053264431,Major: Physics,"Occ: Life, physical, and social sciences"
+Bachelors,Physical sciences,560,110000,0.2034494245,0.0211904753,Major: Physics,Occ: Management
+Bachelors,Physical sciences,128,41000,0.0471856505,0.0049146679,Major: Physics,Occ: Office and administrative support
+Bachelors,Physical sciences,82,63000,0.0261600423,0.002724725,Major: Physics,Occ: Production
+Bachelors,Physical sciences,199,76000,0.0695537484,0.0072444392,Major: Physics,Occ: Sales and related
+Bachelors,Physical sciences,57,69000,0.0240773328,0.0025077983,Major: Physics,Occ: Transportation and material moving
+Bachelors,Agriculture and natural resources,65,55000,0.0328161615,0.0041480845,Major: Plant science and agronomy,Occ: Architecture and engineering
+Bachelors,Agriculture and natural resources,305,45000,0.1304631896,0.016491031,Major: Plant science and agronomy,Occ: Building and grounds cleaning and maintenance
+Bachelors,Agriculture and natural resources,128,68000,0.0494115392,0.0062458018,Major: Plant science and agronomy,Occ: Business and financial operations
+Bachelors,Agriculture and natural resources,57,48000,0.0242179265,0.0030612357,Major: Plant science and agronomy,Occ: Construction and extraction
+Bachelors,Agriculture and natural resources,93,43000,0.0365446768,0.0046193827,Major: Plant science and agronomy,"Occ: Education, training, and library"
+Bachelors,Agriculture and natural resources,97,42000,0.0325112596,0.0041095438,Major: Plant science and agronomy,"Occ: Farming, fisheries, and forestry"
+Bachelors,Agriculture and natural resources,254,55000,0.0923896473,0.0116783941,Major: Plant science and agronomy,"Occ: Life, physical, and social sciences"
+Bachelors,Agriculture and natural resources,594,65000,0.2096462266,0.0265000606,Major: Plant science and agronomy,Occ: Management
+Bachelors,Agriculture and natural resources,153,42000,0.0573869032,0.0072539174,Major: Plant science and agronomy,Occ: Office and administrative support
+Bachelors,Agriculture and natural resources,84,51000,0.034784957,0.0043969476,Major: Plant science and agronomy,Occ: Production
+Bachelors,Agriculture and natural resources,50,74000,0.0214128285,0.0027066609,Major: Plant science and agronomy,Occ: Protective service
+Bachelors,Agriculture and natural resources,383,55000,0.1402374751,0.0177265369,Major: Plant science and agronomy,Occ: Sales and related
+Bachelors,Agriculture and natural resources,50,49000,0.0189692572,0.0023977845,Major: Plant science and agronomy,Occ: Transportation and material moving
+Bachelors,Social sciences,835,71000,0.0383670901,0.0107783482,Major: Political science and government,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Social sciences,2730,66000,0.129677468,0.0364298906,Major: Political science and government,Occ: Business and financial operations
+Bachelors,Social sciences,562,43000,0.0279507096,0.0078521065,Major: Political science and government,Occ: Community and social service
+Bachelors,Social sciences,971,77000,0.0434250697,0.0121992707,Major: Political science and government,Occ: Computer and mathematical
+Bachelors,Social sciences,889,47000,0.0408790206,0.011484017,Major: Political science and government,"Occ: Education, training, and library"
+Bachelors,Social sciences,219,30000,0.0136580956,0.0038369266,Major: Political science and government,Occ: Food preparation and serving related
+Bachelors,Social sciences,337,61000,0.0168710093,0.0047395206,Major: Political science and government,Occ: Healthcare practitioners and technical
+Bachelors,Social sciences,739,54000,0.0350571377,0.0098484934,Major: Political science and government,Occ: Legal
+Bachelors,Social sciences,5157,83000,0.2422561735,0.0680562787,Major: Political science and government,Occ: Management
+Bachelors,Social sciences,2500,44000,0.1196527873,0.0336136881,Major: Political science and government,Occ: Office and administrative support
+Bachelors,Social sciences,198,33000,0.0113779062,0.00319636,Major: Political science and government,Occ: Personal care and service
+Bachelors,Social sciences,270,47000,0.0139549722,0.0039203273,Major: Political science and government,Occ: Production
+Bachelors,Social sciences,997,73000,0.0492021995,0.013822222,Major: Political science and government,Occ: Protective service
+Bachelors,Social sciences,3213,76000,0.1556466371,0.0437253291,Major: Political science and government,Occ: Sales and related
+Bachelors,Social sciences,393,51000,0.0195632812,0.0054958522,Major: Political science and government,Occ: Transportation and material moving
+Bachelors,Law and public policy,189,59000,0.0827210806,0.0055104109,Major: Pre-law and legal studies,Occ: Business and financial operations
+Bachelors,Law and public policy,73,41000,0.0348273262,0.0023199996,Major: Pre-law and legal studies,Occ: Community and social service
+Bachelors,Law and public policy,50,72000,0.0279129564,0.0018594034,Major: Pre-law and legal studies,Occ: Computer and mathematical
+Bachelors,Law and public policy,56,45000,0.024233259,0.0016142828,Major: Pre-law and legal studies,"Occ: Education, training, and library"
+Bachelors,Law and public policy,588,51000,0.2701054462,0.0179928984,Major: Pre-law and legal studies,Occ: Legal
+Bachelors,Law and public policy,273,68000,0.1279941323,0.0085262458,Major: Pre-law and legal studies,Occ: Management
+Bachelors,Law and public policy,393,43000,0.160963067,0.0107224499,Major: Pre-law and legal studies,Occ: Office and administrative support
+Bachelors,Law and public policy,134,68000,0.065146714,0.0043397059,Major: Pre-law and legal studies,Occ: Protective service
+Bachelors,Law and public policy,194,52000,0.0901587668,0.0060058675,Major: Pre-law and legal studies,Occ: Sales and related
+Bachelors,Psychology and social work,776,55000,0.0202035862,0.0158522044,Major: Psychology,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Psychology and social work,4169,57000,0.1043807915,0.0818996004,Major: Psychology,Occ: Business and financial operations
+Bachelors,Psychology and social work,4764,39000,0.1207260093,0.0947244391,Major: Psychology,Occ: Community and social service
+Bachelors,Psychology and social work,1470,72000,0.0367765647,0.0288557493,Major: Psychology,Occ: Computer and mathematical
+Bachelors,Psychology and social work,3168,41000,0.0797704809,0.0625897774,Major: Psychology,"Occ: Education, training, and library"
+Bachelors,Psychology and social work,585,28000,0.0171414447,0.0134495768,Major: Psychology,Occ: Food preparation and serving related
+Bachelors,Psychology and social work,2425,53000,0.0603077014,0.0473188273,Major: Psychology,Occ: Healthcare practitioners and technical
+Bachelors,Psychology and social work,497,32000,0.0135047571,0.010596147,Major: Psychology,Occ: Healthcare support
+Bachelors,Psychology and social work,509,49000,0.0124068759,0.0097347239,Major: Psychology,Occ: Legal
+Bachelors,Psychology and social work,447,46000,0.011947847,0.0093745591,Major: Psychology,"Occ: Life, physical, and social sciences"
+Bachelors,Psychology and social work,6783,64000,0.1654816799,0.1298407807,Major: Psychology,Occ: Management
+Bachelors,Psychology and social work,5779,40000,0.1446946616,0.113530802,Major: Psychology,Occ: Office and administrative support
+Bachelors,Psychology and social work,849,30000,0.023086372,0.0181141053,Major: Psychology,Occ: Personal care and service
+Bachelors,Psychology and social work,487,42000,0.0119429364,0.0093707061,Major: Psychology,Occ: Production
+Bachelors,Psychology and social work,1223,64000,0.031453887,0.0246794524,Major: Psychology,Occ: Protective service
+Bachelors,Psychology and social work,4127,56000,0.1073313911,0.0842147096,Major: Psychology,Occ: Sales and related
+Bachelors,Psychology and social work,498,44000,0.0135438085,0.0106267876,Major: Psychology,Occ: Transportation and material moving
+Bachelors,Law and public policy,215,61000,0.1297036853,0.005866975,Major: Public administration,Occ: Business and financial operations
+Bachelors,Law and public policy,58,43000,0.0362580481,0.0016400849,Major: Public administration,Occ: Community and social service
+Bachelors,Law and public policy,52,80000,0.0350990042,0.0015876571,Major: Public administration,Occ: Computer and mathematical
+Bachelors,Law and public policy,368,75000,0.2205035469,0.0099741868,Major: Public administration,Occ: Management
+Bachelors,Law and public policy,270,44000,0.1690929723,0.0076486974,Major: Public administration,Occ: Office and administrative support
+Bachelors,Law and public policy,194,78000,0.1301102609,0.0058853659,Major: Public administration,Occ: Protective service
+Bachelors,Law and public policy,168,61000,0.1018380858,0.0046065114,Major: Public administration,Occ: Sales and related
+Bachelors,Law and public policy,63,71000,0.1189662885,0.001606048,Major: Public policy,Occ: Business and financial operations
+Bachelors,Law and public policy,127,87000,0.2537513725,0.0034256502,Major: Public policy,Occ: Management
+Bachelors,Law and public policy,80,45000,0.1721768127,0.0023243915,Major: Public policy,Occ: Office and administrative support
+Bachelors,Law and public policy,74,81000,0.130352568,0.0017597631,Major: Public policy,Occ: Sales and related
+Bachelors,Education,717,45000,0.5439891624,0.007420774,Major: Science and computer teacher education,"Occ: Education, training, and library"
+Bachelors,Education,109,65000,0.0873781413,0.0011919602,Major: Science and computer teacher education,Occ: Management
+Bachelors,Education,83,41000,0.0620589723,0.0008465713,Major: Science and computer teacher education,Occ: Office and administrative support
+Bachelors,Education,56,68000,0.047706013,0.0006507768,Major: Science and computer teacher education,Occ: Sales and related
+Bachelors,Education,162,56000,0.0435575795,0.0018235553,Major: Secondary teacher education,Occ: Business and financial operations
+Bachelors,Education,74,39000,0.0200508465,0.0008394366,Major: Secondary teacher education,Occ: Community and social service
+Bachelors,Education,70,69000,0.0177934849,0.0007449313,Major: Secondary teacher education,Occ: Computer and mathematical
+Bachelors,Education,2106,45000,0.5419707213,0.0226898183,Major: Secondary teacher education,"Occ: Education, training, and library"
+Bachelors,Education,80,60000,0.0226602224,0.0009486792,Major: Secondary teacher education,Occ: Healthcare practitioners and technical
+Bachelors,Education,340,66000,0.0872017657,0.0036507364,Major: Secondary teacher education,Occ: Management
+Bachelors,Education,291,38000,0.0740179918,0.0030987925,Major: Secondary teacher education,Occ: Office and administrative support
+Bachelors,Education,80,46000,0.0200173213,0.0008380331,Major: Secondary teacher education,Occ: Production
+Bachelors,Education,65,57000,0.0170000559,0.0007117141,Major: Secondary teacher education,Occ: Protective service
+Bachelors,Education,237,55000,0.065267922,0.0027324673,Major: Secondary teacher education,Occ: Sales and related
+Bachelors,Education,129,57000,0.0542952155,0.0014589846,Major: Social science or history teacher education,Occ: Business and financial operations
+Bachelors,Education,96,37000,0.0402360889,0.0010811972,Major: Social science or history teacher education,Occ: Community and social service
+Bachelors,Education,51,73000,0.0215370151,0.0005787282,Major: Social science or history teacher education,Occ: Computer and mathematical
+Bachelors,Education,1155,44000,0.4495177241,0.0120791384,Major: Social science or history teacher education,"Occ: Education, training, and library"
+Bachelors,Education,275,62000,0.1080811686,0.0029042846,Major: Social science or history teacher education,Occ: Management
+Bachelors,Education,205,37000,0.0813949439,0.0021871903,Major: Social science or history teacher education,Occ: Office and administrative support
+Bachelors,Education,63,71000,0.0255240616,0.0006858654,Major: Social science or history teacher education,Occ: Protective service
+Bachelors,Education,168,44000,0.0711574622,0.0019120955,Major: Social science or history teacher education,Occ: Sales and related
+Bachelors,Psychology and social work,394,50000,0.0476157436,0.0074287886,Major: Social work,Occ: Business and financial operations
+Bachelors,Psychology and social work,3673,41000,0.4632247791,0.0722701922,Major: Social work,Occ: Community and social service
+Bachelors,Psychology and social work,423,40000,0.0542061416,0.008456992,Major: Social work,"Occ: Education, training, and library"
+Bachelors,Psychology and social work,290,44000,0.0334106368,0.0052125734,Major: Social work,Occ: Healthcare practitioners and technical
+Bachelors,Psychology and social work,85,31000,0.011699015,0.0018252263,Major: Social work,Occ: Healthcare support
+Bachelors,Psychology and social work,951,54000,0.1093119361,0.0170543438,Major: Social work,Occ: Management
+Bachelors,Psychology and social work,961,39000,0.1208180843,0.0188494799,Major: Social work,Occ: Office and administrative support
+Bachelors,Psychology and social work,190,30000,0.0247539773,0.0038620013,Major: Social work,Occ: Personal care and service
+Bachelors,Psychology and social work,187,52000,0.0218833203,0.0034141346,Major: Social work,Occ: Protective service
+Bachelors,Psychology and social work,336,51000,0.0443064323,0.0069124851,Major: Social work,Occ: Sales and related
+Bachelors,Social sciences,331,55000,0.0209555563,0.0044031795,Major: Sociology,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Social sciences,1741,57000,0.1072540834,0.022536218,Major: Sociology,Occ: Business and financial operations
+Bachelors,Social sciences,2170,42000,0.1347108207,0.028305425,Major: Sociology,Occ: Community and social service
+Bachelors,Social sciences,504,70000,0.0322073269,0.0067674005,Major: Sociology,Occ: Computer and mathematical
+Bachelors,Social sciences,1058,42000,0.0649199852,0.0136409812,Major: Sociology,"Occ: Education, training, and library"
+Bachelors,Social sciences,191,30000,0.013748807,0.002888898,Major: Sociology,Occ: Food preparation and serving related
+Bachelors,Social sciences,498,50000,0.0312043654,0.0065566583,Major: Sociology,Occ: Healthcare practitioners and technical
+Bachelors,Social sciences,258,52000,0.0159851801,0.0033588045,Major: Sociology,Occ: Legal
+Bachelors,Social sciences,2732,65000,0.1686539285,0.0354375477,Major: Sociology,Occ: Management
+Bachelors,Social sciences,2343,41000,0.1444483741,0.0303514789,Major: Sociology,Occ: Office and administrative support
+Bachelors,Social sciences,298,33000,0.0193027137,0.0040558844,Major: Sociology,Occ: Personal care and service
+Bachelors,Social sciences,198,47000,0.0122956088,0.0025835522,Major: Sociology,Occ: Production
+Bachelors,Social sciences,1126,66000,0.0669904816,0.0140760337,Major: Sociology,Occ: Protective service
+Bachelors,Social sciences,1752,61000,0.1139714965,0.0239476802,Major: Sociology,Occ: Sales and related
+Bachelors,Social sciences,221,42000,0.0137138544,0.0028815538,Major: Sociology,Occ: Transportation and material moving
+Bachelors,Education,85,51000,0.0296558446,0.0011565207,Major: Special needs education,Occ: Business and financial operations
+Bachelors,Education,115,40000,0.0370578091,0.001445183,Major: Special needs education,Occ: Community and social service
+Bachelors,Education,2497,44000,0.6935772663,0.027048175,Major: Special needs education,"Occ: Education, training, and library"
+Bachelors,Education,67,55000,0.0180430382,0.0007036437,Major: Special needs education,Occ: Healthcare practitioners and technical
+Bachelors,Education,204,57000,0.0625208068,0.0024381908,Major: Special needs education,Occ: Management
+Bachelors,Education,176,36000,0.0466521707,0.0018193446,Major: Special needs education,Occ: Office and administrative support
+Bachelors,Education,59,33000,0.0190537602,0.0007430599,Major: Special needs education,Occ: Personal care and service
+Bachelors,Education,90,43000,0.0320191947,0.0012486868,Major: Special needs education,Occ: Sales and related
+Bachelors,"Computers, statistics, and mathematics",112,65000,0.1594114704,0.0014877474,Major: Statistics and decision science,Occ: Business and financial operations
+Bachelors,"Computers, statistics, and mathematics",202,94000,0.2831352185,0.0026424302,Major: Statistics and decision science,Occ: Computer and mathematical
+Bachelors,"Computers, statistics, and mathematics",157,102000,0.2100558508,0.0019603988,Major: Statistics and decision science,Occ: Management
+Bachelors,"Computers, statistics, and mathematics",54,45000,0.0827755014,0.0007725231,Major: Statistics and decision science,Occ: Office and administrative support
+Bachelors,"Computers, statistics, and mathematics",58,81000,0.0737690508,0.0006884681,Major: Statistics and decision science,Occ: Sales and related
+Bachelors,Arts,352,49000,0.1689677463,0.0068463921,Major: Studio arts,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Arts,128,53000,0.0704724265,0.0028554672,Major: Studio arts,Occ: Business and financial operations
+Bachelors,Arts,100,58000,0.0475842605,0.0019280633,Major: Studio arts,Occ: Computer and mathematical
+Bachelors,Arts,202,41000,0.1022583341,0.0041433982,Major: Studio arts,"Occ: Education, training, and library"
+Bachelors,Arts,73,26000,0.0420868962,0.001705316,Major: Studio arts,Occ: Food preparation and serving related
+Bachelors,Arts,259,57000,0.1345382687,0.0054513465,Major: Studio arts,Occ: Management
+Bachelors,Arts,237,35000,0.1130953945,0.0045825042,Major: Studio arts,Occ: Office and administrative support
+Bachelors,Arts,108,29000,0.0561193653,0.0022738966,Major: Studio arts,Occ: Production
+Bachelors,Arts,196,36000,0.101391159,0.0041082612,Major: Studio arts,Occ: Sales and related
+Bachelors,Education,1368,41000,0.6867450096,0.014675111,Major: Teacher education: multiple levels,"Occ: Education, training, and library"
+Bachelors,Education,134,54000,0.0673942671,0.0014401537,Major: Teacher education: multiple levels,Occ: Management
+Bachelors,Education,134,33000,0.0704210705,0.0015048337,Major: Teacher education: multiple levels,Occ: Office and administrative support
+Bachelors,Education,70,56000,0.0404704955,0.0008648174,Major: Teacher education: multiple levels,Occ: Sales and related
+Bachelors,Humanities and liberal arts,113,41000,0.0210172356,0.0013791733,Major: Theology and religious vocations,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Humanities and liberal arts,92,32000,0.0170696624,0.0011201294,Major: Theology and religious vocations,Occ: Building and grounds cleaning and maintenance
+Bachelors,Humanities and liberal arts,284,52000,0.045003703,0.0029531908,Major: Theology and religious vocations,Occ: Business and financial operations
+Bachelors,Humanities and liberal arts,1901,42000,0.3072710262,0.0201634513,Major: Theology and religious vocations,Occ: Community and social service
+Bachelors,Humanities and liberal arts,191,64000,0.0323160522,0.0021206137,Major: Theology and religious vocations,Occ: Computer and mathematical
+Bachelors,Humanities and liberal arts,120,48000,0.0194744665,0.0012779352,Major: Theology and religious vocations,Occ: Construction and extraction
+Bachelors,Humanities and liberal arts,381,38000,0.0641771414,0.0042113722,Major: Theology and religious vocations,"Occ: Education, training, and library"
+Bachelors,Humanities and liberal arts,72,27000,0.0138165063,0.0009066538,Major: Theology and religious vocations,Occ: Food preparation and serving related
+Bachelors,Humanities and liberal arts,127,55000,0.0225411904,0.0014791769,Major: Theology and religious vocations,Occ: Healthcare practitioners and technical
+Bachelors,Humanities and liberal arts,104,49000,0.0179265662,0.0011763603,Major: Theology and religious vocations,"Occ: Installation, maintenance and repair"
+Bachelors,Humanities and liberal arts,620,54000,0.1090696692,0.0071572676,Major: Theology and religious vocations,Occ: Management
+Bachelors,Humanities and liberal arts,587,37000,0.1063279188,0.0069773511,Major: Theology and religious vocations,Occ: Office and administrative support
+Bachelors,Humanities and liberal arts,111,31000,0.0164111634,0.001076918,Major: Theology and religious vocations,Occ: Personal care and service
+Bachelors,Humanities and liberal arts,194,39000,0.0318730619,0.0020915442,Major: Theology and religious vocations,Occ: Production
+Bachelors,Humanities and liberal arts,207,50000,0.0371444747,0.0024374599,Major: Theology and religious vocations,Occ: Protective service
+Bachelors,Humanities and liberal arts,418,44000,0.0725888247,0.0047633558,Major: Theology and religious vocations,Occ: Sales and related
+Bachelors,Humanities and liberal arts,216,40000,0.0387949981,0.002545769,Major: Theology and religious vocations,Occ: Transportation and material moving
+Bachelors,"Industrial arts, consumer services, and recreation",173,81000,0.0399049651,0.0059941582,Major: Transportation sciences and technologies,Occ: Architecture and engineering
+Bachelors,"Industrial arts, consumer services, and recreation",225,72000,0.049511755,0.0074372021,Major: Transportation sciences and technologies,Occ: Business and financial operations
+Bachelors,"Industrial arts, consumer services, and recreation",144,83000,0.0299418997,0.0044975978,Major: Transportation sciences and technologies,Occ: Computer and mathematical
+Bachelors,"Industrial arts, consumer services, and recreation",76,67000,0.0182691335,0.0027442218,Major: Transportation sciences and technologies,Occ: Construction and extraction
+Bachelors,"Industrial arts, consumer services, and recreation",130,51000,0.0320795527,0.0048186964,Major: Transportation sciences and technologies,"Occ: Education, training, and library"
+Bachelors,"Industrial arts, consumer services, and recreation",328,65000,0.0731966978,0.0109949372,Major: Transportation sciences and technologies,"Occ: Installation, maintenance and repair"
+Bachelors,"Industrial arts, consumer services, and recreation",688,82000,0.1500109623,0.022533272,Major: Transportation sciences and technologies,Occ: Management
+Bachelors,"Industrial arts, consumer services, and recreation",292,46000,0.072532634,0.0108951876,Major: Transportation sciences and technologies,Occ: Office and administrative support
+Bachelors,"Industrial arts, consumer services, and recreation",129,54000,0.0298090869,0.0044776479,Major: Transportation sciences and technologies,Occ: Production
+Bachelors,"Industrial arts, consumer services, and recreation",153,67000,0.0398058826,0.0059792749,Major: Transportation sciences and technologies,Occ: Protective service
+Bachelors,"Industrial arts, consumer services, and recreation",268,70000,0.059030003,0.0088669461,Major: Transportation sciences and technologies,Occ: Sales and related
+Bachelors,"Industrial arts, consumer services, and recreation",1637,86000,0.3533114649,0.0530712104,Major: Transportation sciences and technologies,Occ: Transportation and material moving
+Bachelors,Health,188,54000,0.0292594521,0.0025407909,Major: Treatment therapy professions,Occ: Business and financial operations
+Bachelors,Health,275,41000,0.038447384,0.0033386395,Major: Treatment therapy professions,Occ: Community and social service
+Bachelors,Health,246,43000,0.038425164,0.00333671,Major: Treatment therapy professions,"Occ: Education, training, and library"
+Bachelors,Health,4162,74000,0.5787952644,0.0502606032,Major: Treatment therapy professions,Occ: Healthcare practitioners and technical
+Bachelors,Health,279,42000,0.0442467798,0.0038422392,Major: Treatment therapy professions,Occ: Healthcare support
+Bachelors,Health,646,74000,0.0861701906,0.0074827249,Major: Treatment therapy professions,Occ: Management
+Bachelors,Health,368,38000,0.0517598861,0.0044946517,Major: Treatment therapy professions,Occ: Office and administrative support
+Bachelors,Health,154,34000,0.0225351526,0.0019568757,Major: Treatment therapy professions,Occ: Personal care and service
+Bachelors,Health,81,53000,0.0125611915,0.001090771,Major: Treatment therapy professions,Occ: Protective service
+Bachelors,Health,251,64000,0.0364475923,0.0031649844,Major: Treatment therapy professions,Occ: Sales and related
+Bachelors,Arts,175,50000,0.1331850182,0.0037990555,Major: Visual and performing arts,"Occ: Arts, design, entertainment, sports, and media"
+Bachelors,Arts,106,55000,0.0770367827,0.002197447,Major: Visual and performing arts,Occ: Business and financial operations
+Bachelors,Arts,202,41000,0.1477651942,0.0042149499,Major: Visual and performing arts,"Occ: Education, training, and library"
+Bachelors,Arts,194,60000,0.1583737094,0.004517554,Major: Visual and performing arts,Occ: Management
+Bachelors,Arts,167,38000,0.1251745067,0.0035705585,Major: Visual and performing arts,Occ: Office and administrative support
+Bachelors,Arts,118,48000,0.0949465841,0.0027083177,Major: Visual and performing arts,Occ: Sales and related
+Bachelors,Biology and life sciences,69,59000,0.0578886389,0.0018518165,Major: Zoology,Occ: Business and financial operations
+Bachelors,Biology and life sciences,65,81000,0.0510964839,0.0016345403,Major: Zoology,Occ: Computer and mathematical
+Bachelors,Biology and life sciences,95,39000,0.0826560768,0.0026441093,Major: Zoology,"Occ: Education, training, and library"
+Bachelors,Biology and life sciences,150,56000,0.1201010847,0.0038419486,Major: Zoology,Occ: Healthcare practitioners and technical
+Bachelors,Biology and life sciences,116,60000,0.1067770427,0.0034157219,Major: Zoology,"Occ: Life, physical, and social sciences"
+Bachelors,Biology and life sciences,214,68000,0.1841941767,0.0058922412,Major: Zoology,Occ: Management
+Bachelors,Biology and life sciences,95,39000,0.0837139403,0.0026779496,Major: Zoology,Occ: Office and administrative support
+Bachelors,Biology and life sciences,62,36000,0.0452530477,0.0014476129,Major: Zoology,Occ: Personal care and service
+Bachelors,Biology and life sciences,111,61000,0.0872317561,0.0027904821,Major: Zoology,Occ: Sales and related

@@ -1,0 +1,91 @@
+#all-major-groups-icon {
+  color: #800000;
+}
+#agriculture-and-natural-resources-icon {
+  color: #BD226B;
+}
+#architecture-and-engineering-icon {
+  color: #D92423;
+}
+#arts-icon {
+  color: #D96637;
+}
+#biology-and-life-sciences-icon {
+  color: #F38C3B;
+}
+#business-icon {
+  color: #FBAF31;
+}
+#communications-and-journalism-icon {
+  color: #A6BE43;
+}
+#computers-statistics-and-mathematics-icon {
+  color: #53B64E;
+}
+#education-icon {
+  color: #0D723D;
+}
+#health-icon {
+  color: #169882;
+}
+#humanities-and-liberal-arts-icon {
+  color: #55C4D5;
+}
+#industrial-arts-consumer-services-and-recreation-icon {
+  color: #25A0D8;
+}
+#law-and-public-policy-icon {
+  color: #147FE0;
+}
+#physical-sciences-icon {
+  color: #0B5D92;
+}
+#psychology-and-social-work-icon {
+  color: #7D7BA4;
+}
+#social-sciences-icon {
+  color: #8C65A9;
+}
+
+ul.fa-ul {
+  margin-left: -5px;
+}
+.well-title {
+ margin-top: 0px;
+}
+.btn-major, .btn-type {
+  white-space: normal !important;
+  text-align: left !important;
+  width: 100%;
+}
+.notes {
+  padding-top: 5px;
+  font-size: 0.8em;
+}
+#chart {
+  height: 0px;
+}
+
+.node rect {
+  cursor: default;
+  fill-opacity: .9;
+  shape-rendering: crispEdges;
+}
+
+.node text {
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff;
+  font-family: sans-serif;
+  font-size: 0.8em;
+  font-weight: bolder;
+}
+
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .2;
+}
+
+.link:hover {
+  stroke-opacity: .5;
+}
