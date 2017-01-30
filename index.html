@@ -44,7 +44,7 @@
           <button type="button" class = "btn btn-default btn-block btn-type" name = "dtl" id = "doccdmajor" value = "dmdo">Detailed majors and detailed occupations</button>
         </div>
         <p class = "notes">Notes: Percentages do not sum to 100 for detailed occupations due to sample exclusions. Detailed occupations which are less than one percent of the major or have fewer than 50 observations are excluded.
-          In these cases total percentage sum only to included data.
+          In these cases the total percent sum only to included data. <span id = "morenotes" title = "Click for more information" class="glyphicon glyphicon-info-sign" data-toggle = "modal" data-target = "#notesModal"></span>
         </p>
         <p class = "notes">
           Source: U.S. Census Bureau, American Community Survey, micro data 2009-2015. Based on full-time full-year workers ages 25 to 54.
@@ -52,7 +52,31 @@
       </div>
     </div>
     <div class="col-md-9">
+      <h3 id = "chartitle"></h3>
       <div id="chart"><div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal" id="notesModal" tabindex="-1" role="dialog" aria-labelledby="notesModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h5 class="modal-title" id="notesModalLabel"><em><strong>Sample exclusion notes</strong></em></h5>
+      </div>
+      <div class="modal-body small">
+      <p>When viewing detailed majors within each major group, if all occupations were included each detailed major would sum to 100 percent. Due to these exclusions however, the percentage could sum to
+        a number considerably less than 100 percent.</p><p>For example, when viewing <strong>detailed majors and detailed occupations</strong> for <em>actuarial science</em> (within business majors), the total occupations sum to less than 40
+        percent. This means that 60 percent of actuarial science majors are working in occupations that are less than one percent of that major or in an occupation with a sample size less than 50.</p>
+        <p>An alternate presentation is to view occupations as a percentage of the major group instead of the detailed major. The percentages would then be relative to the group instead of the detailed major.
+          Click on the <strong>alternate view</strong> button to see this chart.
+      </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
     </div>
   </div>
 </div>

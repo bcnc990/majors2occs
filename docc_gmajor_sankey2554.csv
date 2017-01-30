@@ -1,312 +1,312 @@
-SCHL,gmajor,_FREQ_,radj_wagp,pct,major_occ,source,target
-Bachelors,Agriculture and natural resources,249,55000,0.0116497638,Business and financial operations,Major: Agriculture and natural resources,Occ: Accountants and auditors
-Bachelors,Agriculture and natural resources,334,55000,0.0154608922,"Life, physical, and social sciences",Major: Agriculture and natural resources,Occ: Agricultural and food scientists
-Bachelors,Agriculture and natural resources,248,52000,0.0122603592,"Life, physical, and social sciences",Major: Agriculture and natural resources,Occ: Biological scientists
-Bachelors,Agriculture and natural resources,298,110000,0.0134787971,Management,Major: Agriculture and natural resources,Occ: Chief executives
-Bachelors,Agriculture and natural resources,595,57000,0.0252491383,"Life, physical, and social sciences",Major: Agriculture and natural resources,Occ: Conservation scientists and foresters
-Bachelors,Agriculture and natural resources,308,71000,0.0129684076,Business and financial operations,Major: Agriculture and natural resources,Occ: Credit counselors and loan officers
-Bachelors,Agriculture and natural resources,223,50000,0.0121133538,Office and administrative support,Major: Agriculture and natural resources,Occ: Customer service representatives
-Bachelors,Agriculture and natural resources,343,46000,0.01528856,"Education, training, and library",Major: Agriculture and natural resources,Occ: Elementary and middle school teachers
-Bachelors,Agriculture and natural resources,1425,51000,0.0546661822,Management,Major: Agriculture and natural resources,"Occ: Farmers, ranchers, and other agricultural managers"
-Bachelors,Agriculture and natural resources,228,76000,0.0116618766,Management,Major: Agriculture and natural resources,Occ: Financial managers
-Bachelors,Agriculture and natural resources,338,52000,0.0182870294,Building and grounds cleaning and maintenance,Major: Agriculture and natural resources,"Occ: First-line supervisors of landscaping, lawn service, and groundskeeping workers"
-Bachelors,Agriculture and natural resources,464,72000,0.0212634755,Sales and related,Major: Agriculture and natural resources,Occ: First-line supervisors of non-retail sales workers
-Bachelors,Agriculture and natural resources,312,64000,0.0154983317,Office and administrative support,Major: Agriculture and natural resources,Occ: First-line supervisors of office and administrative support workers
-Bachelors,Agriculture and natural resources,266,64000,0.0118160396,Production,Major: Agriculture and natural resources,Occ: First-line supervisors of production and operating workers
-Bachelors,Agriculture and natural resources,506,49000,0.0266889102,Sales and related,Major: Agriculture and natural resources,Occ: First-line supervisors of retail sales workers
-Bachelors,Agriculture and natural resources,381,76000,0.019147589,Management,Major: Agriculture and natural resources,Occ: General and operations managers
-Bachelors,Agriculture and natural resources,277,40000,0.0153392135,Building and grounds cleaning and maintenance,Major: Agriculture and natural resources,Occ: Grounds maintenance workers
-Bachelors,Agriculture and natural resources,1225,74000,0.0577791726,Management,Major: Agriculture and natural resources,"Occ: Managers, all other"
-Bachelors,Agriculture and natural resources,330,84000,0.0175784304,Management,Major: Agriculture and natural resources,Occ: Marketing and sales managers
-Bachelors,Agriculture and natural resources,460,37000,0.0187864072,"Farming, fisheries, and forestry",Major: Agriculture and natural resources,Occ: Miscellaneous agricultural workers
-Bachelors,Agriculture and natural resources,216,62000,0.0105959499,Protective service,Major: Agriculture and natural resources,Occ: Police and sheriff's patrol officers
-Bachelors,Agriculture and natural resources,443,53000,0.0191591512,Sales and related,Major: Agriculture and natural resources,Occ: Retail salespersons
-Bachelors,Agriculture and natural resources,785,77000,0.0371037186,Sales and related,Major: Agriculture and natural resources,"Occ: Sales representatives, wholesale and manufacturing"
-Bachelors,Agriculture and natural resources,258,36000,0.0103608514,Office and administrative support,Major: Agriculture and natural resources,Occ: Secretaries and administrative assistants
-Bachelors,Architecture and engineering,2477,98000,0.0213840723,Architecture and engineering,Major: Architecture and engineering,Occ: Aerospace engineers
-Bachelors,Architecture and engineering,2585,72000,0.0231661152,Architecture and engineering,Major: Architecture and engineering,"Occ: Architects, except naval"
-Bachelors,Architecture and engineering,2725,120000,0.022984578,Management,Major: Architecture and engineering,Occ: Architectural and engineering managers
-Bachelors,Architecture and engineering,1318,99000,0.0119414784,Architecture and engineering,Major: Architecture and engineering,Occ: Chemical engineers
-Bachelors,Architecture and engineering,1944,143000,0.0174913047,Management,Major: Architecture and engineering,Occ: Chief executives
-Bachelors,Architecture and engineering,6702,83000,0.0597460394,Architecture and engineering,Major: Architecture and engineering,Occ: Civil engineers
-Bachelors,Architecture and engineering,1571,113000,0.0144349557,Management,Major: Architecture and engineering,Occ: Computer and information systems managers
-Bachelors,Architecture and engineering,1260,85000,0.0120996143,Computer and mathematical,Major: Architecture and engineering,Occ: Computer programmers
-Bachelors,Architecture and engineering,1136,86000,0.0113786067,Computer and mathematical,Major: Architecture and engineering,Occ: Computer systems analysts
-Bachelors,Architecture and engineering,2569,91000,0.0231018503,Management,Major: Architecture and engineering,Occ: Construction managers
-Bachelors,Architecture and engineering,1639,66000,0.0160804912,"Arts, design, entertainment, sports, and media",Major: Architecture and engineering,Occ: Designers
-Bachelors,Architecture and engineering,3989,90000,0.0377037175,Architecture and engineering,Major: Architecture and engineering,Occ: Electrical and electronics engineers
-Bachelors,Architecture and engineering,8263,88000,0.0727598991,Architecture and engineering,Major: Architecture and engineering,"Occ: Engineers, all other"
-Bachelors,Architecture and engineering,1203,80000,0.0105724148,Production,Major: Architecture and engineering,Occ: First-line supervisors of production and operating workers
-Bachelors,Architecture and engineering,1118,54000,0.010925916,Sales and related,Major: Architecture and engineering,Occ: First-line supervisors of retail sales workers
-Bachelors,Architecture and engineering,1685,114000,0.0152155302,Management,Major: Architecture and engineering,Occ: General and operations managers
-Bachelors,Architecture and engineering,2853,80000,0.0258526531,Architecture and engineering,Major: Architecture and engineering,"Occ: Industrial engineers, including health and safety"
-Bachelors,Architecture and engineering,8943,103000,0.0792624413,Management,Major: Architecture and engineering,"Occ: Managers, all other"
-Bachelors,Architecture and engineering,4822,81000,0.0442326747,Architecture and engineering,Major: Architecture and engineering,Occ: Mechanical engineers
-Bachelors,Architecture and engineering,1912,99000,0.0171762739,Sales and related,Major: Architecture and engineering,"Occ: Sales representatives, wholesale and manufacturing"
-Bachelors,Architecture and engineering,5202,98000,0.0507094222,Computer and mathematical,Major: Architecture and engineering,"Occ: Software developers, applications and systems software"
-Bachelors,Arts,494,52000,0.0114331554,Business and financial operations,Major: Arts,Occ: Accountants and auditors
-Bachelors,Arts,1260,64000,0.0278459696,"Arts, design, entertainment, sports, and media",Major: Arts,Occ: Artists and related workers
-Bachelors,Arts,453,102000,0.0114022774,Management,Major: Arts,Occ: Chief executives
-Bachelors,Arts,761,36000,0.0183261838,Office and administrative support,Major: Arts,Occ: Customer service representatives
-Bachelors,Arts,6847,52000,0.1566548209,"Arts, design, entertainment, sports, and media",Major: Arts,Occ: Designers
-Bachelors,Arts,1262,45000,0.0282765576,"Education, training, and library",Major: Arts,Occ: Elementary and middle school teachers
-Bachelors,Arts,468,46000,0.0104495322,Office and administrative support,Major: Arts,Occ: First-line supervisors of office and administrative support workers
-Bachelors,Arts,1268,44000,0.0305576945,Sales and related,Major: Arts,Occ: First-line supervisors of retail sales workers
-Bachelors,Arts,535,67000,0.0129020951,Management,Major: Arts,Occ: General and operations managers
-Bachelors,Arts,1991,66000,0.0450362699,Management,Major: Arts,"Occ: Managers, all other"
-Bachelors,Arts,756,63000,0.0179286033,Management,Major: Arts,Occ: Marketing and sales managers
-Bachelors,Arts,586,65000,0.0143723126,"Arts, design, entertainment, sports, and media",Major: Arts,Occ: Producers and directors
-Bachelors,Arts,953,38000,0.0234310582,Sales and related,Major: Arts,Occ: Retail salespersons
-Bachelors,Arts,597,63000,0.0139370396,Sales and related,Major: Arts,"Occ: Sales representatives, wholesale and manufacturing"
-Bachelors,Arts,576,45000,0.0132183281,"Education, training, and library",Major: Arts,Occ: Secondary school teachers
-Bachelors,Arts,1100,40000,0.0251747054,Office and administrative support,Major: Arts,Occ: Secretaries and administrative assistants
-Bachelors,Arts,424,80000,0.0100826167,Computer and mathematical,Major: Arts,"Occ: Software developers, applications and systems software"
-Bachelors,Arts,370,28000,0.0108786295,Food preparation and serving related,Major: Arts,Occ: Waiters and waitresses
-Bachelors,Arts,635,62000,0.0144413089,Computer and mathematical,Major: Arts,Occ: Web developers
-Bachelors,Biology and life sciences,400,60000,0.0114186848,Business and financial operations,Major: Biology and life sciences,Occ: Accountants and auditors
-Bachelors,Biology and life sciences,994,55000,0.0266594438,"Life, physical, and social sciences",Major: Biology and life sciences,Occ: Biological scientists
-Bachelors,Biology and life sciences,577,59000,0.015133598,"Life, physical, and social sciences",Major: Biology and life sciences,Occ: Chemists and materials scientists
-Bachelors,Biology and life sciences,1580,50000,0.0442209492,Healthcare practitioners and technical,Major: Biology and life sciences,Occ: Clinical laboratory technologists and technicians
-Bachelors,Biology and life sciences,409,67000,0.0100999874,Business and financial operations,Major: Biology and life sciences,Occ: Compliance officers
-Bachelors,Biology and life sciences,963,45000,0.0239162307,"Education, training, and library",Major: Biology and life sciences,Occ: Elementary and middle school teachers
-Bachelors,Biology and life sciences,442,56000,0.01168135,"Life, physical, and social sciences",Major: Biology and life sciences,Occ: Environmental scientists and geoscientists
-Bachelors,Biology and life sciences,390,73000,0.0108157366,Sales and related,Major: Biology and life sciences,Occ: First-line supervisors of non-retail sales workers
-Bachelors,Biology and life sciences,447,58000,0.0107802849,Office and administrative support,Major: Biology and life sciences,Occ: First-line supervisors of office and administrative support workers
-Bachelors,Biology and life sciences,629,50000,0.0183833413,Sales and related,Major: Biology and life sciences,Occ: First-line supervisors of retail sales workers
-Bachelors,Biology and life sciences,437,77000,0.0115226229,Management,Major: Biology and life sciences,Occ: General and operations managers
-Bachelors,Biology and life sciences,417,33000,0.011903192,Healthcare practitioners and technical,Major: Biology and life sciences,Occ: Health practitioner support technologists and technicians
-Bachelors,Biology and life sciences,436,53000,0.0116037322,Production,Major: Biology and life sciences,"Occ: Inspectors, testers, sorters, samplers, and weighers"
-Bachelors,Biology and life sciences,2243,81000,0.0583839215,Management,Major: Biology and life sciences,"Occ: Managers, all other"
-Bachelors,Biology and life sciences,409,97000,0.0117385563,Management,Major: Biology and life sciences,Occ: Marketing and sales managers
-Bachelors,Biology and life sciences,462,70000,0.0118220827,Management,Major: Biology and life sciences,Occ: Medical and health services managers
-Bachelors,Biology and life sciences,696,40000,0.0192333775,"Life, physical, and social sciences",Major: Biology and life sciences,"Occ: Miscellaneous life, physical, and social science technicians"
-Bachelors,Biology and life sciences,793,53000,0.0216615535,"Life, physical, and social sciences",Major: Biology and life sciences,"Occ: Physical scientists, all other"
-Bachelors,Biology and life sciences,764,28000,0.0213285219,"Education, training, and library",Major: Biology and life sciences,Occ: Postsecondary teachers
-Bachelors,Biology and life sciences,1454,63000,0.0398944935,Healthcare practitioners and technical,Major: Biology and life sciences,Occ: Registered nurses
-Bachelors,Biology and life sciences,449,53000,0.0131864378,Sales and related,Major: Biology and life sciences,Occ: Retail salespersons
-Bachelors,Biology and life sciences,874,95000,0.0235276044,Sales and related,Major: Biology and life sciences,"Occ: Sales representatives, wholesale and manufacturing"
-Bachelors,Biology and life sciences,443,47000,0.0119096378,"Education, training, and library",Major: Biology and life sciences,Occ: Secondary school teachers
-Bachelors,Biology and life sciences,451,39000,0.0122133948,Office and administrative support,Major: Biology and life sciences,Occ: Secretaries and administrative assistants
-Bachelors,Business,37840,66000,0.1154653057,Business and financial operations,Major: Business,Occ: Accountants and auditors
-Bachelors,Business,7946,132000,0.0252743754,Management,Major: Business,Occ: Chief executives
-Bachelors,Business,3600,102000,0.0109880848,Management,Major: Business,Occ: Computer and information systems managers
-Bachelors,Business,3322,77000,0.0105274643,Computer and mathematical,Major: Business,Occ: Computer systems analysts
-Bachelors,Business,3356,67000,0.0106259476,Business and financial operations,Major: Business,Occ: Credit counselors and loan officers
-Bachelors,Business,5922,46000,0.0196656244,Office and administrative support,Major: Business,Occ: Customer service representatives
-Bachelors,Business,3360,46000,0.0101412422,"Education, training, and library",Major: Business,Occ: Elementary and middle school teachers
-Bachelors,Business,13484,83000,0.0421787777,Management,Major: Business,Occ: Financial managers
-Bachelors,Business,7094,82000,0.0221672414,Sales and related,Major: Business,Occ: First-line supervisors of non-retail sales workers
-Bachelors,Business,5690,60000,0.0179674437,Office and administrative support,Major: Business,Occ: First-line supervisors of office and administrative support workers
-Bachelors,Business,10287,55000,0.034327747,Sales and related,Major: Business,Occ: First-line supervisors of retail sales workers
-Bachelors,Business,6106,83000,0.0194934872,Management,Major: Business,Occ: General and operations managers
-Bachelors,Business,5365,62000,0.0174602014,Business and financial operations,Major: Business,Occ: Human resources workers
-Bachelors,Business,3680,66000,0.0117259648,Sales and related,Major: Business,Occ: Insurance sales agents
-Bachelors,Business,4412,79000,0.0141046265,Business and financial operations,Major: Business,Occ: Management analysts
-Bachelors,Business,17606,85000,0.0551674594,Management,Major: Business,"Occ: Managers, all other"
-Bachelors,Business,8730,86000,0.0281990117,Management,Major: Business,Occ: Marketing and sales managers
-Bachelors,Business,4124,87000,0.0134970553,Business and financial operations,Major: Business,Occ: Personal financial advisors
-Bachelors,Business,5744,56000,0.0196698817,Sales and related,Major: Business,Occ: Retail salespersons
-Bachelors,Business,4522,83000,0.014655692,Sales and related,Major: Business,"Occ: Sales representatives, services, all other"
-Bachelors,Business,10577,82000,0.0331507712,Sales and related,Major: Business,"Occ: Sales representatives, wholesale and manufacturing"
-Bachelors,Business,6543,42000,0.0199506542,Office and administrative support,Major: Business,Occ: Secretaries and administrative assistants
-Bachelors,Business,3212,92000,0.0103499087,Sales and related,Major: Business,"Occ: Securities, commodities, and financial services sales agents"
-Bachelors,Communications and journalism,682,51000,0.0118258625,Business and financial operations,Major: Communications and journalism,Occ: Accountants and auditors
-Bachelors,Communications and journalism,1048,70000,0.0176562921,Sales and related,Major: Communications and journalism,Occ: Advertising sales agents
-Bachelors,Communications and journalism,1024,124000,0.0165512274,Management,Major: Communications and journalism,Occ: Chief executives
-Bachelors,Communications and journalism,1561,44000,0.0277747572,Office and administrative support,Major: Communications and journalism,Occ: Customer service representatives
-Bachelors,Communications and journalism,958,52000,0.0159142235,"Arts, design, entertainment, sports, and media",Major: Communications and journalism,Occ: Designers
-Bachelors,Communications and journalism,1386,55000,0.0214828858,"Arts, design, entertainment, sports, and media",Major: Communications and journalism,Occ: Editors
-Bachelors,Communications and journalism,1191,45000,0.018229312,"Education, training, and library",Major: Communications and journalism,Occ: Elementary and middle school teachers
-Bachelors,Communications and journalism,850,65000,0.0144655991,Management,Major: Communications and journalism,Occ: Financial managers
-Bachelors,Communications and journalism,954,73000,0.0157840491,Sales and related,Major: Communications and journalism,Occ: First-line supervisors of non-retail sales workers
-Bachelors,Communications and journalism,867,55000,0.0140818523,Office and administrative support,Major: Communications and journalism,Occ: First-line supervisors of office and administrative support workers
-Bachelors,Communications and journalism,1458,50000,0.0256223081,Sales and related,Major: Communications and journalism,Occ: First-line supervisors of retail sales workers
-Bachelors,Communications and journalism,925,74000,0.0145957736,Management,Major: Communications and journalism,Occ: General and operations managers
-Bachelors,Communications and journalism,1093,59000,0.0195397245,Business and financial operations,Major: Communications and journalism,Occ: Human resources workers
-Bachelors,Communications and journalism,597,77000,0.0100702406,Business and financial operations,Major: Communications and journalism,Occ: Management analysts
-Bachelors,Communications and journalism,2971,74000,0.0494718163,Management,Major: Communications and journalism,"Occ: Managers, all other"
-Bachelors,Communications and journalism,962,61000,0.0156214098,Business and financial operations,Major: Communications and journalism,Occ: Market research analysts and marketing specialists
-Bachelors,Communications and journalism,2911,73000,0.0483738434,Management,Major: Communications and journalism,Occ: Marketing and sales managers
-Bachelors,Communications and journalism,1094,51000,0.0183451452,"Arts, design, entertainment, sports, and media",Major: Communications and journalism,"Occ: News analysts, reporters and correspondents"
-Bachelors,Communications and journalism,1314,62000,0.0220043717,"Arts, design, entertainment, sports, and media",Major: Communications and journalism,Occ: Producers and directors
-Bachelors,Communications and journalism,1191,62000,0.0196576065,"Arts, design, entertainment, sports, and media",Major: Communications and journalism,Occ: Public relations specialists
-Bachelors,Communications and journalism,1168,52000,0.0212249008,Sales and related,Major: Communications and journalism,Occ: Retail salespersons
-Bachelors,Communications and journalism,1075,72000,0.0177491163,Sales and related,Major: Communications and journalism,"Occ: Sales representatives, services, all other"
-Bachelors,Communications and journalism,1916,79000,0.0324534737,Sales and related,Major: Communications and journalism,"Occ: Sales representatives, wholesale and manufacturing"
-Bachelors,Communications and journalism,1481,41000,0.024266035,Office and administrative support,Major: Communications and journalism,Occ: Secretaries and administrative assistants
-Bachelors,Communications and journalism,828,61000,0.0133565945,"Arts, design, entertainment, sports, and media",Major: Communications and journalism,Occ: Writers and authors
-Bachelors,"Computers, statistics, and mathematics",1009,63000,0.013473403,Business and financial operations,"Major: Computers, statistics, and mathematics",Occ: Accountants and auditors
-Bachelors,"Computers, statistics, and mathematics",894,138000,0.0117679457,Management,"Major: Computers, statistics, and mathematics",Occ: Chief executives
-Bachelors,"Computers, statistics, and mathematics",4004,105000,0.0523664877,Management,"Major: Computers, statistics, and mathematics",Occ: Computer and information systems managers
-Bachelors,"Computers, statistics, and mathematics",901,95000,0.01284968,Computer and mathematical,"Major: Computers, statistics, and mathematics",Occ: Computer network architects
-Bachelors,"Computers, statistics, and mathematics",2810,76000,0.0392636332,Computer and mathematical,"Major: Computers, statistics, and mathematics","Occ: Computer occupations, all other"
-Bachelors,"Computers, statistics, and mathematics",5880,83000,0.0775139372,Computer and mathematical,"Major: Computers, statistics, and mathematics",Occ: Computer programmers
-Bachelors,"Computers, statistics, and mathematics",2909,61000,0.040190257,Computer and mathematical,"Major: Computers, statistics, and mathematics",Occ: Computer support specialists
-Bachelors,"Computers, statistics, and mathematics",3052,82000,0.0428188043,Computer and mathematical,"Major: Computers, statistics, and mathematics",Occ: Computer systems analysts
-Bachelors,"Computers, statistics, and mathematics",747,44000,0.0105149464,Office and administrative support,"Major: Computers, statistics, and mathematics",Occ: Customer service representatives
-Bachelors,"Computers, statistics, and mathematics",928,89000,0.0120440902,Computer and mathematical,"Major: Computers, statistics, and mathematics",Occ: Database administrators
-Bachelors,"Computers, statistics, and mathematics",1041,49000,0.0130429054,"Education, training, and library","Major: Computers, statistics, and mathematics",Occ: Elementary and middle school teachers
-Bachelors,"Computers, statistics, and mathematics",837,94000,0.0106504945,Architecture and engineering,"Major: Computers, statistics, and mathematics","Occ: Engineers, all other"
-Bachelors,"Computers, statistics, and mathematics",895,49000,0.0133464372,Sales and related,"Major: Computers, statistics, and mathematics",Occ: First-line supervisors of retail sales workers
-Bachelors,"Computers, statistics, and mathematics",1275,90000,0.0173003013,Business and financial operations,"Major: Computers, statistics, and mathematics",Occ: Management analysts
-Bachelors,"Computers, statistics, and mathematics",3680,102000,0.0474692139,Management,"Major: Computers, statistics, and mathematics","Occ: Managers, all other"
-Bachelors,"Computers, statistics, and mathematics",1884,72000,0.0241897784,Computer and mathematical,"Major: Computers, statistics, and mathematics",Occ: Network and computer systems administrators
-Bachelors,"Computers, statistics, and mathematics",12649,95000,0.1679372511,Computer and mathematical,"Major: Computers, statistics, and mathematics","Occ: Software developers, applications and systems software"
-Bachelors,"Computers, statistics, and mathematics",995,67000,0.0140754182,Computer and mathematical,"Major: Computers, statistics, and mathematics",Occ: Web developers
-Bachelors,Education,1414,49000,0.0175583424,Management,Major: Education,Occ: Education administrators
-Bachelors,Education,35938,44000,0.4063624078,"Education, training, and library",Major: Education,Occ: Elementary and middle school teachers
-Bachelors,Education,1046,41000,0.0136258445,Sales and related,Major: Education,Occ: First-line supervisors of retail sales workers
-Bachelors,Education,1452,63000,0.0180348458,Management,Major: Education,"Occ: Managers, all other"
-Bachelors,Education,1060,42000,0.0132015062,"Education, training, and library",Major: Education,Occ: Other teachers and instructors
-Bachelors,Education,2652,35000,0.0347061481,"Education, training, and library",Major: Education,Occ: Preschool and kindergarten teachers
-Bachelors,Education,6113,46000,0.0735277227,"Education, training, and library",Major: Education,Occ: Secondary school teachers
-Bachelors,Education,1496,36000,0.0168373884,Office and administrative support,Major: Education,Occ: Secretaries and administrative assistants
-Bachelors,Education,1735,43000,0.0225333231,"Education, training, and library",Major: Education,Occ: Special education teachers
-Bachelors,Education,859,24000,0.0111490562,"Education, training, and library",Major: Education,Occ: Teacher assistants
-Bachelors,Health,1959,57000,0.0236463948,Healthcare practitioners and technical,Major: Health,Occ: Clinical laboratory technologists and technicians
-Bachelors,Health,1083,61000,0.0142333249,Healthcare practitioners and technical,Major: Health,Occ: Diagnostic related technologists and technicians
-Bachelors,Health,833,46000,0.010140733,"Education, training, and library",Major: Health,Occ: Elementary and middle school teachers
-Bachelors,Health,1107,77000,0.0130047152,Management,Major: Health,"Occ: Managers, all other"
-Bachelors,Health,3031,79000,0.0377254803,Management,Major: Health,Occ: Medical and health services managers
-Bachelors,Health,1036,37000,0.0158826863,Healthcare support,Major: Health,"Occ: Nursing, psychiatric, and home health aides"
-Bachelors,Health,1122,75000,0.0129972384,Healthcare practitioners and technical,Major: Health,Occ: Occupational therapists
-Bachelors,Health,2663,120000,0.0313751311,Healthcare practitioners and technical,Major: Health,Occ: Pharmacists
-Bachelors,Health,1879,79000,0.0226249653,Healthcare practitioners and technical,Major: Health,Occ: Physical therapists
-Bachelors,Health,37941,66000,0.4949174535,Healthcare practitioners and technical,Major: Health,Occ: Registered nurses
-Bachelors,Health,883,47000,0.011191708,Community and social service,Major: Health,Occ: Social workers
-Bachelors,Humanities and liberal arts,1398,53000,0.0166320134,Business and financial operations,Major: Humanities and liberal arts,Occ: Accountants and auditors
-Bachelors,Humanities and liberal arts,1229,116000,0.014840592,Management,Major: Humanities and liberal arts,Occ: Chief executives
-Bachelors,Humanities and liberal arts,2112,43000,0.0224115667,Community and social service,Major: Humanities and liberal arts,Occ: Clergy
-Bachelors,Humanities and liberal arts,1682,38000,0.0206453988,Office and administrative support,Major: Humanities and liberal arts,Occ: Customer service representatives
-Bachelors,Humanities and liberal arts,1126,55000,0.0128234612,"Arts, design, entertainment, sports, and media",Major: Humanities and liberal arts,Occ: Editors
-Bachelors,Humanities and liberal arts,959,51000,0.010896906,Management,Major: Humanities and liberal arts,Occ: Education administrators
-Bachelors,Humanities and liberal arts,5152,47000,0.056696505,"Education, training, and library",Major: Humanities and liberal arts,Occ: Elementary and middle school teachers
-Bachelors,Humanities and liberal arts,1188,71000,0.0134947532,Management,Major: Humanities and liberal arts,Occ: Financial managers
-Bachelors,Humanities and liberal arts,1186,70000,0.0142731196,Sales and related,Major: Humanities and liberal arts,Occ: First-line supervisors of non-retail sales workers
-Bachelors,Humanities and liberal arts,1301,51000,0.014748894,Office and administrative support,Major: Humanities and liberal arts,Occ: First-line supervisors of office and administrative support workers
-Bachelors,Humanities and liberal arts,2206,44000,0.0271054476,Sales and related,Major: Humanities and liberal arts,Occ: First-line supervisors of retail sales workers
-Bachelors,Humanities and liberal arts,1162,74000,0.0132450249,Management,Major: Humanities and liberal arts,Occ: General and operations managers
-Bachelors,Humanities and liberal arts,1134,60000,0.0135442499,Business and financial operations,Major: Humanities and liberal arts,Occ: Human resources workers
-Bachelors,Humanities and liberal arts,3981,75000,0.0463642654,Management,Major: Humanities and liberal arts,"Occ: Managers, all other"
-Bachelors,Humanities and liberal arts,1747,85000,0.0207344031,Management,Major: Humanities and liberal arts,Occ: Marketing and sales managers
-Bachelors,Humanities and liberal arts,862,50000,0.0106797266,Legal,Major: Humanities and liberal arts,Occ: Paralegals and legal assistants
-Bachelors,Humanities and liberal arts,864,61000,0.010698358,Healthcare practitioners and technical,Major: Humanities and liberal arts,Occ: Registered nurses
-Bachelors,Humanities and liberal arts,1419,42000,0.0173823205,Sales and related,Major: Humanities and liberal arts,Occ: Retail salespersons
-Bachelors,Humanities and liberal arts,1637,72000,0.018982377,Sales and related,Major: Humanities and liberal arts,"Occ: Sales representatives, wholesale and manufacturing"
-Bachelors,Humanities and liberal arts,1567,46000,0.0191266021,"Education, training, and library",Major: Humanities and liberal arts,Occ: Secondary school teachers
-Bachelors,Humanities and liberal arts,2536,40000,0.0291349245,Office and administrative support,Major: Humanities and liberal arts,Occ: Secretaries and administrative assistants
-Bachelors,Humanities and liberal arts,838,39000,0.0101715156,Community and social service,Major: Humanities and liberal arts,Occ: Social workers
-Bachelors,"Industrial arts, consumer services, and recreation",1224,88000,0.0381926896,Transportation and material moving,"Major: Industrial arts, consumer services, and recreation",Occ: Aircraft pilots and flight engineers
-Bachelors,"Industrial arts, consumer services, and recreation",316,45000,0.0113885522,"Arts, design, entertainment, sports, and media","Major: Industrial arts, consumer services, and recreation","Occ: Athletes, coaches, umpires, and related workers"
-Bachelors,"Industrial arts, consumer services, and recreation",289,46000,0.0123942813,Food preparation and serving related,"Major: Industrial arts, consumer services, and recreation",Occ: Chefs and head cooks
-Bachelors,"Industrial arts, consumer services, and recreation",339,122000,0.0106934718,Management,"Major: Industrial arts, consumer services, and recreation",Occ: Chief executives
-Bachelors,"Industrial arts, consumer services, and recreation",1298,81000,0.042786237,Management,"Major: Industrial arts, consumer services, and recreation",Occ: Construction managers
-Bachelors,"Industrial arts, consumer services, and recreation",366,41000,0.0128917625,Office and administrative support,"Major: Industrial arts, consumer services, and recreation",Occ: Customer service representatives
-Bachelors,"Industrial arts, consumer services, and recreation",397,49000,0.0126229137,Management,"Major: Industrial arts, consumer services, and recreation",Occ: Education administrators
-Bachelors,"Industrial arts, consumer services, and recreation",1590,47000,0.0476226667,"Education, training, and library","Major: Industrial arts, consumer services, and recreation",Occ: Elementary and middle school teachers
-Bachelors,"Industrial arts, consumer services, and recreation",392,60000,0.013018112,Sales and related,"Major: Industrial arts, consumer services, and recreation",Occ: First-line supervisors of non-retail sales workers
-Bachelors,"Industrial arts, consumer services, and recreation",356,51000,0.012218532,Office and administrative support,"Major: Industrial arts, consumer services, and recreation",Occ: First-line supervisors of office and administrative support workers
-Bachelors,"Industrial arts, consumer services, and recreation",654,46000,0.0218755581,Sales and related,"Major: Industrial arts, consumer services, and recreation",Occ: First-line supervisors of retail sales workers
-Bachelors,"Industrial arts, consumer services, and recreation",260,50000,0.010076291,Management,"Major: Industrial arts, consumer services, and recreation",Occ: Food service managers
-Bachelors,"Industrial arts, consumer services, and recreation",511,72000,0.0165188473,Management,"Major: Industrial arts, consumer services, and recreation",Occ: General and operations managers
-Bachelors,"Industrial arts, consumer services, and recreation",1416,76000,0.047145452,Management,"Major: Industrial arts, consumer services, and recreation","Occ: Managers, all other"
-Bachelors,"Industrial arts, consumer services, and recreation",363,64000,0.0118572169,Management,"Major: Industrial arts, consumer services, and recreation",Occ: Marketing and sales managers
-Bachelors,"Industrial arts, consumer services, and recreation",298,66000,0.0106519886,Protective service,"Major: Industrial arts, consumer services, and recreation",Occ: Police and sheriff's patrol officers
-Bachelors,"Industrial arts, consumer services, and recreation",417,30000,0.0154561184,"Education, training, and library","Major: Industrial arts, consumer services, and recreation",Occ: Preschool and kindergarten teachers
-Bachelors,"Industrial arts, consumer services, and recreation",607,39000,0.0217903751,Personal care and service,"Major: Industrial arts, consumer services, and recreation",Occ: Recreation and fitness workers
-Bachelors,"Industrial arts, consumer services, and recreation",483,60000,0.0159611996,Healthcare practitioners and technical,"Major: Industrial arts, consumer services, and recreation",Occ: Registered nurses
-Bachelors,"Industrial arts, consumer services, and recreation",457,44000,0.016187932,Sales and related,"Major: Industrial arts, consumer services, and recreation",Occ: Retail salespersons
-Bachelors,"Industrial arts, consumer services, and recreation",615,74000,0.0210547616,Sales and related,"Major: Industrial arts, consumer services, and recreation","Occ: Sales representatives, wholesale and manufacturing"
-Bachelors,"Industrial arts, consumer services, and recreation",381,49000,0.0129250124,"Education, training, and library","Major: Industrial arts, consumer services, and recreation",Occ: Secondary school teachers
-Bachelors,"Industrial arts, consumer services, and recreation",507,37000,0.0153513022,Office and administrative support,"Major: Industrial arts, consumer services, and recreation",Occ: Secretaries and administrative assistants
-Bachelors,"Industrial arts, consumer services, and recreation",593,39000,0.0187858544,Community and social service,"Major: Industrial arts, consumer services, and recreation",Occ: Social workers
-Bachelors,Law and public policy,362,53000,0.0105511674,Business and financial operations,Major: Law and public policy,Occ: Accountants and auditors
-Bachelors,Law and public policy,1017,50000,0.030234657,Protective service,Major: Law and public policy,"Occ: Bailiffs, correctional officers, and jailers"
-Bachelors,Law and public policy,415,38000,0.0130424495,Community and social service,Major: Law and public policy,Occ: Counselors
-Bachelors,Law and public policy,440,38000,0.0145837176,Office and administrative support,Major: Law and public policy,Occ: Customer service representatives
-Bachelors,Law and public policy,1099,75000,0.03366964,Protective service,Major: Law and public policy,Occ: Detectives and criminal investigators
-Bachelors,Law and public policy,420,45000,0.0120161269,"Education, training, and library",Major: Law and public policy,Occ: Elementary and middle school teachers
-Bachelors,Law and public policy,335,62000,0.0103096151,Management,Major: Law and public policy,Occ: Financial managers
-Bachelors,Law and public policy,484,72000,0.014181039,Protective service,Major: Law and public policy,Occ: Firefighters
-Bachelors,Law and public policy,690,57000,0.0187419849,Office and administrative support,Major: Law and public policy,Occ: First-line supervisors of office and administrative support workers
-Bachelors,Law and public policy,882,86000,0.0247327554,Protective service,Major: Law and public policy,Occ: First-line supervisors of police and detectives
-Bachelors,Law and public policy,580,49000,0.0178608681,Sales and related,Major: Law and public policy,Occ: First-line supervisors of retail sales workers
-Bachelors,Law and public policy,1230,72000,0.0352435725,Management,Major: Law and public policy,"Occ: Managers, all other"
-Bachelors,Law and public policy,995,51000,0.0302022671,Legal,Major: Law and public policy,Occ: Paralegals and legal assistants
-Bachelors,Law and public policy,4846,70000,0.1418381139,Protective service,Major: Law and public policy,Occ: Police and sheriff's patrol officers
-Bachelors,Law and public policy,1124,47000,0.0345123279,Community and social service,Major: Law and public policy,Occ: Probation officers and correctional treatment specialists
-Bachelors,Law and public policy,337,42000,0.0102261698,Sales and related,Major: Law and public policy,Occ: Retail salespersons
-Bachelors,Law and public policy,390,66000,0.0116441913,Sales and related,Major: Law and public policy,"Occ: Sales representatives, wholesale and manufacturing"
-Bachelors,Law and public policy,712,39000,0.02018773,Office and administrative support,Major: Law and public policy,Occ: Secretaries and administrative assistants
-Bachelors,Law and public policy,952,45000,0.0302986135,Protective service,Major: Law and public policy,Occ: Security guards and gaming surveillance officers
-Bachelors,Law and public policy,1183,40000,0.0337470465,Community and social service,Major: Law and public policy,Occ: Social workers
-Bachelors,Physical sciences,395,61000,0.0143833939,Business and financial operations,Major: Physical sciences,Occ: Accountants and auditors
-Bachelors,Physical sciences,1035,62000,0.0395451339,"Life, physical, and social sciences",Major: Physical sciences,Occ: Chemists and materials scientists
-Bachelors,Physical sciences,366,133000,0.0145884053,Management,Major: Physical sciences,Occ: Chief executives
-Bachelors,Physical sciences,344,53000,0.0142814138,Healthcare practitioners and technical,Major: Physical sciences,Occ: Clinical laboratory technologists and technicians
-Bachelors,Physical sciences,255,81000,0.0108389735,Computer and mathematical,Major: Physical sciences,Occ: Computer systems analysts
-Bachelors,Physical sciences,256,44000,0.0112570567,Office and administrative support,Major: Physical sciences,Occ: Customer service representatives
-Bachelors,Physical sciences,353,60000,0.0128936439,Healthcare practitioners and technical,Major: Physical sciences,Occ: Diagnostic related technologists and technicians
-Bachelors,Physical sciences,722,45000,0.0277017795,"Education, training, and library",Major: Physical sciences,Occ: Elementary and middle school teachers
-Bachelors,Physical sciences,334,87000,0.0126528869,Architecture and engineering,Major: Physical sciences,"Occ: Engineers, all other"
-Bachelors,Physical sciences,661,68000,0.0218650856,"Life, physical, and social sciences",Major: Physical sciences,Occ: Environmental scientists and geoscientists
-Bachelors,Physical sciences,285,77000,0.0113688493,Sales and related,Major: Physical sciences,Occ: First-line supervisors of non-retail sales workers
-Bachelors,Physical sciences,277,54000,0.0113103246,Office and administrative support,Major: Physical sciences,Occ: First-line supervisors of office and administrative support workers
-Bachelors,Physical sciences,489,49000,0.0202186859,Sales and related,Major: Physical sciences,Occ: First-line supervisors of retail sales workers
-Bachelors,Physical sciences,336,92000,0.0130376776,Management,Major: Physical sciences,Occ: General and operations managers
-Bachelors,Physical sciences,278,83000,0.011380414,Business and financial operations,Major: Physical sciences,Occ: Management analysts
-Bachelors,Physical sciences,1675,85000,0.0647836218,Management,Major: Physical sciences,"Occ: Managers, all other"
-Bachelors,Physical sciences,321,102000,0.0125971658,Management,Major: Physical sciences,Occ: Marketing and sales managers
-Bachelors,Physical sciences,394,64000,0.0143315277,"Life, physical, and social sciences",Major: Physical sciences,"Occ: Physical scientists, all other"
-Bachelors,Physical sciences,409,26000,0.0140220831,"Education, training, and library",Major: Physical sciences,Occ: Postsecondary teachers
-Bachelors,Physical sciences,739,65000,0.0294028489,Healthcare practitioners and technical,Major: Physical sciences,Occ: Registered nurses
-Bachelors,Physical sciences,289,52000,0.0120364507,Sales and related,Major: Physical sciences,Occ: Retail salespersons
-Bachelors,Physical sciences,569,94000,0.0232111523,Sales and related,Major: Physical sciences,"Occ: Sales representatives, wholesale and manufacturing"
-Bachelors,Physical sciences,308,46000,0.0117641534,"Education, training, and library",Major: Physical sciences,Occ: Secondary school teachers
-Bachelors,Physical sciences,632,100000,0.0235475814,Computer and mathematical,Major: Physical sciences,"Occ: Software developers, applications and systems software"
-Bachelors,Psychology and social work,760,51000,0.0145201634,Business and financial operations,Major: Psychology and social work,Occ: Accountants and auditors
-Bachelors,Psychology and social work,1699,38000,0.0374512663,Community and social service,Major: Psychology and social work,Occ: Counselors
-Bachelors,Psychology and social work,937,39000,0.0196147613,Office and administrative support,Major: Psychology and social work,Occ: Customer service representatives
-Bachelors,Psychology and social work,639,48000,0.0122586295,Management,Major: Psychology and social work,Occ: Education administrators
-Bachelors,Psychology and social work,1784,44000,0.0334993614,"Education, training, and library",Major: Psychology and social work,Occ: Elementary and middle school teachers
-Bachelors,Psychology and social work,624,62000,0.0127059457,Management,Major: Psychology and social work,Occ: Financial managers
-Bachelors,Psychology and social work,518,66000,0.0101647933,Sales and related,Major: Psychology and social work,Occ: First-line supervisors of non-retail sales workers
-Bachelors,Psychology and social work,886,50000,0.0165103353,Office and administrative support,Major: Psychology and social work,Occ: First-line supervisors of office and administrative support workers
-Bachelors,Psychology and social work,1053,45000,0.0212544927,Sales and related,Major: Psychology and social work,Occ: First-line supervisors of retail sales workers
-Bachelors,Psychology and social work,561,68000,0.0102833192,Management,Major: Psychology and social work,Occ: General and operations managers
-Bachelors,Psychology and social work,1148,56000,0.0225542417,Business and financial operations,Major: Psychology and social work,Occ: Human resources workers
-Bachelors,Psychology and social work,1888,66000,0.0338995241,Management,Major: Psychology and social work,"Occ: Managers, all other"
-Bachelors,Psychology and social work,685,77000,0.0130905129,Management,Major: Psychology and social work,Occ: Marketing and sales managers
-Bachelors,Psychology and social work,639,55000,0.0126466828,Management,Major: Psychology and social work,Occ: Medical and health services managers
-Bachelors,Psychology and social work,493,39000,0.0100580098,Office and administrative support,Major: Psychology and social work,"Occ: Office and administrative support workers, all other"
-Bachelors,Psychology and social work,523,68000,0.011057591,Protective service,Major: Psychology and social work,Occ: Police and sheriff's patrol officers
-Bachelors,Psychology and social work,1344,59000,0.0246801863,Healthcare practitioners and technical,Major: Psychology and social work,Occ: Registered nurses
-Bachelors,Psychology and social work,626,43000,0.0128173161,Sales and related,Major: Psychology and social work,Occ: Retail salespersons
-Bachelors,Psychology and social work,770,72000,0.015351313,Sales and related,Major: Psychology and social work,"Occ: Sales representatives, wholesale and manufacturing"
-Bachelors,Psychology and social work,1545,39000,0.0294192063,Office and administrative support,Major: Psychology and social work,Occ: Secretaries and administrative assistants
-Bachelors,Psychology and social work,807,49000,0.0147484085,Management,Major: Psychology and social work,Occ: Social and community service managers
-Bachelors,Psychology and social work,6150,40000,0.1183204615,Community and social service,Major: Psychology and social work,Occ: Social workers
-Bachelors,Social sciences,2102,62000,0.0273893874,Business and financial operations,Major: Social sciences,Occ: Accountants and auditors
-Bachelors,Social sciences,1749,126000,0.0223618235,Management,Major: Social sciences,Occ: Chief executives
-Bachelors,Social sciences,787,74000,0.0104561977,Computer and mathematical,Major: Social sciences,Occ: Computer systems analysts
-Bachelors,Social sciences,1293,42000,0.018202124,Office and administrative support,Major: Social sciences,Occ: Customer service representatives
-Bachelors,Social sciences,1665,46000,0.0200974343,"Education, training, and library",Major: Social sciences,Occ: Elementary and middle school teachers
-Bachelors,Social sciences,1990,90000,0.0263273365,Management,Major: Social sciences,Occ: Financial managers
-Bachelors,Social sciences,1392,88000,0.0181098854,Sales and related,Major: Social sciences,Occ: First-line supervisors of non-retail sales workers
-Bachelors,Social sciences,1319,60000,0.0167144809,Office and administrative support,Major: Social sciences,Occ: First-line supervisors of office and administrative support workers
-Bachelors,Social sciences,1816,53000,0.0250338799,Sales and related,Major: Social sciences,Occ: First-line supervisors of retail sales workers
-Bachelors,Social sciences,1315,82000,0.0177662002,Management,Major: Social sciences,Occ: General and operations managers
-Bachelors,Social sciences,1177,61000,0.0158183599,Business and financial operations,Major: Social sciences,Occ: Human resources workers
-Bachelors,Social sciences,738,66000,0.0100491528,Sales and related,Major: Social sciences,Occ: Insurance sales agents
-Bachelors,Social sciences,1287,80000,0.0167251861,Business and financial operations,Major: Social sciences,Occ: Management analysts
-Bachelors,Social sciences,4371,83000,0.0568871924,Management,Major: Social sciences,"Occ: Managers, all other"
-Bachelors,Social sciences,1593,98000,0.0207373785,Management,Major: Social sciences,Occ: Marketing and sales managers
-Bachelors,Social sciences,934,51000,0.0122501825,Legal,Major: Social sciences,Occ: Paralegals and legal assistants
-Bachelors,Social sciences,1096,99000,0.0148089634,Business and financial operations,Major: Social sciences,Occ: Personal financial advisors
-Bachelors,Social sciences,1535,74000,0.0207778341,Protective service,Major: Social sciences,Occ: Police and sheriff's patrol officers
-Bachelors,Social sciences,1236,51000,0.017665497,Sales and related,Major: Social sciences,Occ: Retail salespersons
-Bachelors,Social sciences,995,88000,0.0131917382,Sales and related,Major: Social sciences,"Occ: Sales representatives, services, all other"
-Bachelors,Social sciences,1802,85000,0.0230730939,Sales and related,Major: Social sciences,"Occ: Sales representatives, wholesale and manufacturing"
-Bachelors,Social sciences,1593,42000,0.0203004588,Office and administrative support,Major: Social sciences,Occ: Secretaries and administrative assistants
-Bachelors,Social sciences,1047,121000,0.0143000951,Sales and related,Major: Social sciences,"Occ: Securities, commodities, and financial services sales agents"
-Bachelors,Social sciences,2099,41000,0.0274880989,Community and social service,Major: Social sciences,Occ: Social workers
+SCHL,gmajor,_FREQ_,radj_wagp,pct,major_occ,source,target,pct_gmajor
+Bachelors,Agriculture and natural resources,249,55000,0.0116497638,Business and financial operations,Major: Agriculture and natural resources,Occ: Accountants and auditors,0.0116497638
+Bachelors,Agriculture and natural resources,334,55000,0.0154608922,"Life, physical, and social sciences",Major: Agriculture and natural resources,Occ: Agricultural and food scientists,0.0154608922
+Bachelors,Agriculture and natural resources,248,52000,0.0122603592,"Life, physical, and social sciences",Major: Agriculture and natural resources,Occ: Biological scientists,0.0122603592
+Bachelors,Agriculture and natural resources,298,110000,0.0134787971,Management,Major: Agriculture and natural resources,Occ: Chief executives,0.0134787971
+Bachelors,Agriculture and natural resources,595,57000,0.0252491383,"Life, physical, and social sciences",Major: Agriculture and natural resources,Occ: Conservation scientists and foresters,0.0252491383
+Bachelors,Agriculture and natural resources,308,71000,0.0129684076,Business and financial operations,Major: Agriculture and natural resources,Occ: Credit counselors and loan officers,0.0129684076
+Bachelors,Agriculture and natural resources,223,50000,0.0121133538,Office and administrative support,Major: Agriculture and natural resources,Occ: Customer service representatives,0.0121133538
+Bachelors,Agriculture and natural resources,343,46000,0.01528856,"Education, training, and library",Major: Agriculture and natural resources,Occ: Elementary and middle school teachers,0.01528856
+Bachelors,Agriculture and natural resources,1425,51000,0.0546661822,Management,Major: Agriculture and natural resources,"Occ: Farmers, ranchers, and other agricultural managers",0.0546661822
+Bachelors,Agriculture and natural resources,228,76000,0.0116618766,Management,Major: Agriculture and natural resources,Occ: Financial managers,0.0116618766
+Bachelors,Agriculture and natural resources,338,52000,0.0182870294,Building and grounds cleaning and maintenance,Major: Agriculture and natural resources,"Occ: First-line supervisors of landscaping, lawn service, and groundskeeping workers",0.0182870294
+Bachelors,Agriculture and natural resources,464,72000,0.0212634755,Sales and related,Major: Agriculture and natural resources,Occ: First-line supervisors of non-retail sales workers,0.0212634755
+Bachelors,Agriculture and natural resources,312,64000,0.0154983317,Office and administrative support,Major: Agriculture and natural resources,Occ: First-line supervisors of office and administrative support workers,0.0154983317
+Bachelors,Agriculture and natural resources,266,64000,0.0118160396,Production,Major: Agriculture and natural resources,Occ: First-line supervisors of production and operating workers,0.0118160396
+Bachelors,Agriculture and natural resources,506,49000,0.0266889102,Sales and related,Major: Agriculture and natural resources,Occ: First-line supervisors of retail sales workers,0.0266889102
+Bachelors,Agriculture and natural resources,381,76000,0.019147589,Management,Major: Agriculture and natural resources,Occ: General and operations managers,0.019147589
+Bachelors,Agriculture and natural resources,277,40000,0.0153392135,Building and grounds cleaning and maintenance,Major: Agriculture and natural resources,Occ: Grounds maintenance workers,0.0153392135
+Bachelors,Agriculture and natural resources,1225,74000,0.0577791726,Management,Major: Agriculture and natural resources,"Occ: Managers, all other",0.0577791726
+Bachelors,Agriculture and natural resources,330,84000,0.0175784304,Management,Major: Agriculture and natural resources,Occ: Marketing and sales managers,0.0175784304
+Bachelors,Agriculture and natural resources,460,37000,0.0187864072,"Farming, fisheries, and forestry",Major: Agriculture and natural resources,Occ: Miscellaneous agricultural workers,0.0187864072
+Bachelors,Agriculture and natural resources,216,62000,0.0105959499,Protective service,Major: Agriculture and natural resources,Occ: Police and sheriff's patrol officers,0.0105959499
+Bachelors,Agriculture and natural resources,443,53000,0.0191591512,Sales and related,Major: Agriculture and natural resources,Occ: Retail salespersons,0.0191591512
+Bachelors,Agriculture and natural resources,785,77000,0.0371037186,Sales and related,Major: Agriculture and natural resources,"Occ: Sales representatives, wholesale and manufacturing",0.0371037186
+Bachelors,Agriculture and natural resources,258,36000,0.0103608514,Office and administrative support,Major: Agriculture and natural resources,Occ: Secretaries and administrative assistants,0.0103608514
+Bachelors,Architecture and engineering,2477,98000,0.0213840723,Architecture and engineering,Major: Architecture and engineering,Occ: Aerospace engineers,0.0213840723
+Bachelors,Architecture and engineering,2585,72000,0.0231661152,Architecture and engineering,Major: Architecture and engineering,"Occ: Architects, except naval",0.0231661152
+Bachelors,Architecture and engineering,2725,120000,0.022984578,Management,Major: Architecture and engineering,Occ: Architectural and engineering managers,0.022984578
+Bachelors,Architecture and engineering,1318,99000,0.0119414784,Architecture and engineering,Major: Architecture and engineering,Occ: Chemical engineers,0.0119414784
+Bachelors,Architecture and engineering,1944,143000,0.0174913047,Management,Major: Architecture and engineering,Occ: Chief executives,0.0174913047
+Bachelors,Architecture and engineering,6702,83000,0.0597460394,Architecture and engineering,Major: Architecture and engineering,Occ: Civil engineers,0.0597460394
+Bachelors,Architecture and engineering,1571,113000,0.0144349557,Management,Major: Architecture and engineering,Occ: Computer and information systems managers,0.0144349557
+Bachelors,Architecture and engineering,1260,85000,0.0120996143,Computer and mathematical,Major: Architecture and engineering,Occ: Computer programmers,0.0120996143
+Bachelors,Architecture and engineering,1136,86000,0.0113786067,Computer and mathematical,Major: Architecture and engineering,Occ: Computer systems analysts,0.0113786067
+Bachelors,Architecture and engineering,2569,91000,0.0231018503,Management,Major: Architecture and engineering,Occ: Construction managers,0.0231018503
+Bachelors,Architecture and engineering,1639,66000,0.0160804912,"Arts, design, entertainment, sports, and media",Major: Architecture and engineering,Occ: Designers,0.0160804912
+Bachelors,Architecture and engineering,3989,90000,0.0377037175,Architecture and engineering,Major: Architecture and engineering,Occ: Electrical and electronics engineers,0.0377037175
+Bachelors,Architecture and engineering,8263,88000,0.0727598991,Architecture and engineering,Major: Architecture and engineering,"Occ: Engineers, all other",0.0727598991
+Bachelors,Architecture and engineering,1203,80000,0.0105724148,Production,Major: Architecture and engineering,Occ: First-line supervisors of production and operating workers,0.0105724148
+Bachelors,Architecture and engineering,1118,54000,0.010925916,Sales and related,Major: Architecture and engineering,Occ: First-line supervisors of retail sales workers,0.010925916
+Bachelors,Architecture and engineering,1685,114000,0.0152155302,Management,Major: Architecture and engineering,Occ: General and operations managers,0.0152155302
+Bachelors,Architecture and engineering,2853,80000,0.0258526531,Architecture and engineering,Major: Architecture and engineering,"Occ: Industrial engineers, including health and safety",0.0258526531
+Bachelors,Architecture and engineering,8943,103000,0.0792624413,Management,Major: Architecture and engineering,"Occ: Managers, all other",0.0792624413
+Bachelors,Architecture and engineering,4822,81000,0.0442326747,Architecture and engineering,Major: Architecture and engineering,Occ: Mechanical engineers,0.0442326747
+Bachelors,Architecture and engineering,1912,99000,0.0171762739,Sales and related,Major: Architecture and engineering,"Occ: Sales representatives, wholesale and manufacturing",0.0171762739
+Bachelors,Architecture and engineering,5202,98000,0.0507094222,Computer and mathematical,Major: Architecture and engineering,"Occ: Software developers, applications and systems software",0.0507094222
+Bachelors,Arts,494,52000,0.0114331554,Business and financial operations,Major: Arts,Occ: Accountants and auditors,0.0114331554
+Bachelors,Arts,1260,64000,0.0278459696,"Arts, design, entertainment, sports, and media",Major: Arts,Occ: Artists and related workers,0.0278459696
+Bachelors,Arts,453,102000,0.0114022774,Management,Major: Arts,Occ: Chief executives,0.0114022774
+Bachelors,Arts,761,36000,0.0183261838,Office and administrative support,Major: Arts,Occ: Customer service representatives,0.0183261838
+Bachelors,Arts,6847,52000,0.1566548209,"Arts, design, entertainment, sports, and media",Major: Arts,Occ: Designers,0.1566548209
+Bachelors,Arts,1262,45000,0.0282765576,"Education, training, and library",Major: Arts,Occ: Elementary and middle school teachers,0.0282765576
+Bachelors,Arts,468,46000,0.0104495322,Office and administrative support,Major: Arts,Occ: First-line supervisors of office and administrative support workers,0.0104495322
+Bachelors,Arts,1268,44000,0.0305576945,Sales and related,Major: Arts,Occ: First-line supervisors of retail sales workers,0.0305576945
+Bachelors,Arts,535,67000,0.0129020951,Management,Major: Arts,Occ: General and operations managers,0.0129020951
+Bachelors,Arts,1991,66000,0.0450362699,Management,Major: Arts,"Occ: Managers, all other",0.0450362699
+Bachelors,Arts,756,63000,0.0179286033,Management,Major: Arts,Occ: Marketing and sales managers,0.0179286033
+Bachelors,Arts,586,65000,0.0143723126,"Arts, design, entertainment, sports, and media",Major: Arts,Occ: Producers and directors,0.0143723126
+Bachelors,Arts,953,38000,0.0234310582,Sales and related,Major: Arts,Occ: Retail salespersons,0.0234310582
+Bachelors,Arts,597,63000,0.0139370396,Sales and related,Major: Arts,"Occ: Sales representatives, wholesale and manufacturing",0.0139370396
+Bachelors,Arts,576,45000,0.0132183281,"Education, training, and library",Major: Arts,Occ: Secondary school teachers,0.0132183281
+Bachelors,Arts,1100,40000,0.0251747054,Office and administrative support,Major: Arts,Occ: Secretaries and administrative assistants,0.0251747054
+Bachelors,Arts,424,80000,0.0100826167,Computer and mathematical,Major: Arts,"Occ: Software developers, applications and systems software",0.0100826167
+Bachelors,Arts,370,28000,0.0108786295,Food preparation and serving related,Major: Arts,Occ: Waiters and waitresses,0.0108786295
+Bachelors,Arts,635,62000,0.0144413089,Computer and mathematical,Major: Arts,Occ: Web developers,0.0144413089
+Bachelors,Biology and life sciences,400,60000,0.0114186848,Business and financial operations,Major: Biology and life sciences,Occ: Accountants and auditors,0.0114186848
+Bachelors,Biology and life sciences,994,55000,0.0266594438,"Life, physical, and social sciences",Major: Biology and life sciences,Occ: Biological scientists,0.0266594438
+Bachelors,Biology and life sciences,577,59000,0.015133598,"Life, physical, and social sciences",Major: Biology and life sciences,Occ: Chemists and materials scientists,0.015133598
+Bachelors,Biology and life sciences,1580,50000,0.0442209492,Healthcare practitioners and technical,Major: Biology and life sciences,Occ: Clinical laboratory technologists and technicians,0.0442209492
+Bachelors,Biology and life sciences,409,67000,0.0100999874,Business and financial operations,Major: Biology and life sciences,Occ: Compliance officers,0.0100999874
+Bachelors,Biology and life sciences,963,45000,0.0239162307,"Education, training, and library",Major: Biology and life sciences,Occ: Elementary and middle school teachers,0.0239162307
+Bachelors,Biology and life sciences,442,56000,0.01168135,"Life, physical, and social sciences",Major: Biology and life sciences,Occ: Environmental scientists and geoscientists,0.01168135
+Bachelors,Biology and life sciences,390,73000,0.0108157366,Sales and related,Major: Biology and life sciences,Occ: First-line supervisors of non-retail sales workers,0.0108157366
+Bachelors,Biology and life sciences,447,58000,0.0107802849,Office and administrative support,Major: Biology and life sciences,Occ: First-line supervisors of office and administrative support workers,0.0107802849
+Bachelors,Biology and life sciences,629,50000,0.0183833413,Sales and related,Major: Biology and life sciences,Occ: First-line supervisors of retail sales workers,0.0183833413
+Bachelors,Biology and life sciences,437,77000,0.0115226229,Management,Major: Biology and life sciences,Occ: General and operations managers,0.0115226229
+Bachelors,Biology and life sciences,417,33000,0.011903192,Healthcare practitioners and technical,Major: Biology and life sciences,Occ: Health practitioner support technologists and technicians,0.011903192
+Bachelors,Biology and life sciences,436,53000,0.0116037322,Production,Major: Biology and life sciences,"Occ: Inspectors, testers, sorters, samplers, and weighers",0.0116037322
+Bachelors,Biology and life sciences,2243,81000,0.0583839215,Management,Major: Biology and life sciences,"Occ: Managers, all other",0.0583839215
+Bachelors,Biology and life sciences,409,97000,0.0117385563,Management,Major: Biology and life sciences,Occ: Marketing and sales managers,0.0117385563
+Bachelors,Biology and life sciences,462,70000,0.0118220827,Management,Major: Biology and life sciences,Occ: Medical and health services managers,0.0118220827
+Bachelors,Biology and life sciences,696,40000,0.0192333775,"Life, physical, and social sciences",Major: Biology and life sciences,"Occ: Miscellaneous life, physical, and social science technicians",0.0192333775
+Bachelors,Biology and life sciences,793,53000,0.0216615535,"Life, physical, and social sciences",Major: Biology and life sciences,"Occ: Physical scientists, all other",0.0216615535
+Bachelors,Biology and life sciences,764,28000,0.0213285219,"Education, training, and library",Major: Biology and life sciences,Occ: Postsecondary teachers,0.0213285219
+Bachelors,Biology and life sciences,1454,63000,0.0398944935,Healthcare practitioners and technical,Major: Biology and life sciences,Occ: Registered nurses,0.0398944935
+Bachelors,Biology and life sciences,449,53000,0.0131864378,Sales and related,Major: Biology and life sciences,Occ: Retail salespersons,0.0131864378
+Bachelors,Biology and life sciences,874,95000,0.0235276044,Sales and related,Major: Biology and life sciences,"Occ: Sales representatives, wholesale and manufacturing",0.0235276044
+Bachelors,Biology and life sciences,443,47000,0.0119096378,"Education, training, and library",Major: Biology and life sciences,Occ: Secondary school teachers,0.0119096378
+Bachelors,Biology and life sciences,451,39000,0.0122133948,Office and administrative support,Major: Biology and life sciences,Occ: Secretaries and administrative assistants,0.0122133948
+Bachelors,Business,37840,66000,0.1154653057,Business and financial operations,Major: Business,Occ: Accountants and auditors,0.1154653057
+Bachelors,Business,7946,132000,0.0252743754,Management,Major: Business,Occ: Chief executives,0.0252743754
+Bachelors,Business,3600,102000,0.0109880848,Management,Major: Business,Occ: Computer and information systems managers,0.0109880848
+Bachelors,Business,3322,77000,0.0105274643,Computer and mathematical,Major: Business,Occ: Computer systems analysts,0.0105274643
+Bachelors,Business,3356,67000,0.0106259476,Business and financial operations,Major: Business,Occ: Credit counselors and loan officers,0.0106259476
+Bachelors,Business,5922,46000,0.0196656244,Office and administrative support,Major: Business,Occ: Customer service representatives,0.0196656244
+Bachelors,Business,3360,46000,0.0101412422,"Education, training, and library",Major: Business,Occ: Elementary and middle school teachers,0.0101412422
+Bachelors,Business,13484,83000,0.0421787777,Management,Major: Business,Occ: Financial managers,0.0421787777
+Bachelors,Business,7094,82000,0.0221672414,Sales and related,Major: Business,Occ: First-line supervisors of non-retail sales workers,0.0221672414
+Bachelors,Business,5690,60000,0.0179674437,Office and administrative support,Major: Business,Occ: First-line supervisors of office and administrative support workers,0.0179674437
+Bachelors,Business,10287,55000,0.034327747,Sales and related,Major: Business,Occ: First-line supervisors of retail sales workers,0.034327747
+Bachelors,Business,6106,83000,0.0194934872,Management,Major: Business,Occ: General and operations managers,0.0194934872
+Bachelors,Business,5365,62000,0.0174602014,Business and financial operations,Major: Business,Occ: Human resources workers,0.0174602014
+Bachelors,Business,3680,66000,0.0117259648,Sales and related,Major: Business,Occ: Insurance sales agents,0.0117259648
+Bachelors,Business,4412,79000,0.0141046265,Business and financial operations,Major: Business,Occ: Management analysts,0.0141046265
+Bachelors,Business,17606,85000,0.0551674594,Management,Major: Business,"Occ: Managers, all other",0.0551674594
+Bachelors,Business,8730,86000,0.0281990117,Management,Major: Business,Occ: Marketing and sales managers,0.0281990117
+Bachelors,Business,4124,87000,0.0134970553,Business and financial operations,Major: Business,Occ: Personal financial advisors,0.0134970553
+Bachelors,Business,5744,56000,0.0196698817,Sales and related,Major: Business,Occ: Retail salespersons,0.0196698817
+Bachelors,Business,4522,83000,0.014655692,Sales and related,Major: Business,"Occ: Sales representatives, services, all other",0.014655692
+Bachelors,Business,10577,82000,0.0331507712,Sales and related,Major: Business,"Occ: Sales representatives, wholesale and manufacturing",0.0331507712
+Bachelors,Business,6543,42000,0.0199506542,Office and administrative support,Major: Business,Occ: Secretaries and administrative assistants,0.0199506542
+Bachelors,Business,3212,92000,0.0103499087,Sales and related,Major: Business,"Occ: Securities, commodities, and financial services sales agents",0.0103499087
+Bachelors,Communications and journalism,682,51000,0.0118258625,Business and financial operations,Major: Communications and journalism,Occ: Accountants and auditors,0.0118258625
+Bachelors,Communications and journalism,1048,70000,0.0176562921,Sales and related,Major: Communications and journalism,Occ: Advertising sales agents,0.0176562921
+Bachelors,Communications and journalism,1024,124000,0.0165512274,Management,Major: Communications and journalism,Occ: Chief executives,0.0165512274
+Bachelors,Communications and journalism,1561,44000,0.0277747572,Office and administrative support,Major: Communications and journalism,Occ: Customer service representatives,0.0277747572
+Bachelors,Communications and journalism,958,52000,0.0159142235,"Arts, design, entertainment, sports, and media",Major: Communications and journalism,Occ: Designers,0.0159142235
+Bachelors,Communications and journalism,1386,55000,0.0214828858,"Arts, design, entertainment, sports, and media",Major: Communications and journalism,Occ: Editors,0.0214828858
+Bachelors,Communications and journalism,1191,45000,0.018229312,"Education, training, and library",Major: Communications and journalism,Occ: Elementary and middle school teachers,0.018229312
+Bachelors,Communications and journalism,850,65000,0.0144655991,Management,Major: Communications and journalism,Occ: Financial managers,0.0144655991
+Bachelors,Communications and journalism,954,73000,0.0157840491,Sales and related,Major: Communications and journalism,Occ: First-line supervisors of non-retail sales workers,0.0157840491
+Bachelors,Communications and journalism,867,55000,0.0140818523,Office and administrative support,Major: Communications and journalism,Occ: First-line supervisors of office and administrative support workers,0.0140818523
+Bachelors,Communications and journalism,1458,50000,0.0256223081,Sales and related,Major: Communications and journalism,Occ: First-line supervisors of retail sales workers,0.0256223081
+Bachelors,Communications and journalism,925,74000,0.0145957736,Management,Major: Communications and journalism,Occ: General and operations managers,0.0145957736
+Bachelors,Communications and journalism,1093,59000,0.0195397245,Business and financial operations,Major: Communications and journalism,Occ: Human resources workers,0.0195397245
+Bachelors,Communications and journalism,597,77000,0.0100702406,Business and financial operations,Major: Communications and journalism,Occ: Management analysts,0.0100702406
+Bachelors,Communications and journalism,2971,74000,0.0494718163,Management,Major: Communications and journalism,"Occ: Managers, all other",0.0494718163
+Bachelors,Communications and journalism,962,61000,0.0156214098,Business and financial operations,Major: Communications and journalism,Occ: Market research analysts and marketing specialists,0.0156214098
+Bachelors,Communications and journalism,2911,73000,0.0483738434,Management,Major: Communications and journalism,Occ: Marketing and sales managers,0.0483738434
+Bachelors,Communications and journalism,1094,51000,0.0183451452,"Arts, design, entertainment, sports, and media",Major: Communications and journalism,"Occ: News analysts, reporters and correspondents",0.0183451452
+Bachelors,Communications and journalism,1314,62000,0.0220043717,"Arts, design, entertainment, sports, and media",Major: Communications and journalism,Occ: Producers and directors,0.0220043717
+Bachelors,Communications and journalism,1191,62000,0.0196576065,"Arts, design, entertainment, sports, and media",Major: Communications and journalism,Occ: Public relations specialists,0.0196576065
+Bachelors,Communications and journalism,1168,52000,0.0212249008,Sales and related,Major: Communications and journalism,Occ: Retail salespersons,0.0212249008
+Bachelors,Communications and journalism,1075,72000,0.0177491163,Sales and related,Major: Communications and journalism,"Occ: Sales representatives, services, all other",0.0177491163
+Bachelors,Communications and journalism,1916,79000,0.0324534737,Sales and related,Major: Communications and journalism,"Occ: Sales representatives, wholesale and manufacturing",0.0324534737
+Bachelors,Communications and journalism,1481,41000,0.024266035,Office and administrative support,Major: Communications and journalism,Occ: Secretaries and administrative assistants,0.024266035
+Bachelors,Communications and journalism,828,61000,0.0133565945,"Arts, design, entertainment, sports, and media",Major: Communications and journalism,Occ: Writers and authors,0.0133565945
+Bachelors,"Computers, statistics, and mathematics",1009,63000,0.013473403,Business and financial operations,"Major: Computers, statistics, and mathematics",Occ: Accountants and auditors,0.013473403
+Bachelors,"Computers, statistics, and mathematics",894,138000,0.0117679457,Management,"Major: Computers, statistics, and mathematics",Occ: Chief executives,0.0117679457
+Bachelors,"Computers, statistics, and mathematics",4004,105000,0.0523664877,Management,"Major: Computers, statistics, and mathematics",Occ: Computer and information systems managers,0.0523664877
+Bachelors,"Computers, statistics, and mathematics",901,95000,0.01284968,Computer and mathematical,"Major: Computers, statistics, and mathematics",Occ: Computer network architects,0.01284968
+Bachelors,"Computers, statistics, and mathematics",2810,76000,0.0392636332,Computer and mathematical,"Major: Computers, statistics, and mathematics","Occ: Computer occupations, all other",0.0392636332
+Bachelors,"Computers, statistics, and mathematics",5880,83000,0.0775139372,Computer and mathematical,"Major: Computers, statistics, and mathematics",Occ: Computer programmers,0.0775139372
+Bachelors,"Computers, statistics, and mathematics",2909,61000,0.040190257,Computer and mathematical,"Major: Computers, statistics, and mathematics",Occ: Computer support specialists,0.040190257
+Bachelors,"Computers, statistics, and mathematics",3052,82000,0.0428188043,Computer and mathematical,"Major: Computers, statistics, and mathematics",Occ: Computer systems analysts,0.0428188043
+Bachelors,"Computers, statistics, and mathematics",747,44000,0.0105149464,Office and administrative support,"Major: Computers, statistics, and mathematics",Occ: Customer service representatives,0.0105149464
+Bachelors,"Computers, statistics, and mathematics",928,89000,0.0120440902,Computer and mathematical,"Major: Computers, statistics, and mathematics",Occ: Database administrators,0.0120440902
+Bachelors,"Computers, statistics, and mathematics",1041,49000,0.0130429054,"Education, training, and library","Major: Computers, statistics, and mathematics",Occ: Elementary and middle school teachers,0.0130429054
+Bachelors,"Computers, statistics, and mathematics",837,94000,0.0106504945,Architecture and engineering,"Major: Computers, statistics, and mathematics","Occ: Engineers, all other",0.0106504945
+Bachelors,"Computers, statistics, and mathematics",895,49000,0.0133464372,Sales and related,"Major: Computers, statistics, and mathematics",Occ: First-line supervisors of retail sales workers,0.0133464372
+Bachelors,"Computers, statistics, and mathematics",1275,90000,0.0173003013,Business and financial operations,"Major: Computers, statistics, and mathematics",Occ: Management analysts,0.0173003013
+Bachelors,"Computers, statistics, and mathematics",3680,102000,0.0474692139,Management,"Major: Computers, statistics, and mathematics","Occ: Managers, all other",0.0474692139
+Bachelors,"Computers, statistics, and mathematics",1884,72000,0.0241897784,Computer and mathematical,"Major: Computers, statistics, and mathematics",Occ: Network and computer systems administrators,0.0241897784
+Bachelors,"Computers, statistics, and mathematics",12649,95000,0.1679372511,Computer and mathematical,"Major: Computers, statistics, and mathematics","Occ: Software developers, applications and systems software",0.1679372511
+Bachelors,"Computers, statistics, and mathematics",995,67000,0.0140754182,Computer and mathematical,"Major: Computers, statistics, and mathematics",Occ: Web developers,0.0140754182
+Bachelors,Education,1414,49000,0.0175583424,Management,Major: Education,Occ: Education administrators,0.0175583424
+Bachelors,Education,35938,44000,0.4063624078,"Education, training, and library",Major: Education,Occ: Elementary and middle school teachers,0.4063624078
+Bachelors,Education,1046,41000,0.0136258445,Sales and related,Major: Education,Occ: First-line supervisors of retail sales workers,0.0136258445
+Bachelors,Education,1452,63000,0.0180348458,Management,Major: Education,"Occ: Managers, all other",0.0180348458
+Bachelors,Education,1060,42000,0.0132015062,"Education, training, and library",Major: Education,Occ: Other teachers and instructors,0.0132015062
+Bachelors,Education,2652,35000,0.0347061481,"Education, training, and library",Major: Education,Occ: Preschool and kindergarten teachers,0.0347061481
+Bachelors,Education,6113,46000,0.0735277227,"Education, training, and library",Major: Education,Occ: Secondary school teachers,0.0735277227
+Bachelors,Education,1496,36000,0.0168373884,Office and administrative support,Major: Education,Occ: Secretaries and administrative assistants,0.0168373884
+Bachelors,Education,1735,43000,0.0225333231,"Education, training, and library",Major: Education,Occ: Special education teachers,0.0225333231
+Bachelors,Education,859,24000,0.0111490562,"Education, training, and library",Major: Education,Occ: Teacher assistants,0.0111490562
+Bachelors,Health,1959,57000,0.0236463948,Healthcare practitioners and technical,Major: Health,Occ: Clinical laboratory technologists and technicians,0.0236463948
+Bachelors,Health,1083,61000,0.0142333249,Healthcare practitioners and technical,Major: Health,Occ: Diagnostic related technologists and technicians,0.0142333249
+Bachelors,Health,833,46000,0.010140733,"Education, training, and library",Major: Health,Occ: Elementary and middle school teachers,0.010140733
+Bachelors,Health,1107,77000,0.0130047152,Management,Major: Health,"Occ: Managers, all other",0.0130047152
+Bachelors,Health,3031,79000,0.0377254803,Management,Major: Health,Occ: Medical and health services managers,0.0377254803
+Bachelors,Health,1036,37000,0.0158826863,Healthcare support,Major: Health,"Occ: Nursing, psychiatric, and home health aides",0.0158826863
+Bachelors,Health,1122,75000,0.0129972384,Healthcare practitioners and technical,Major: Health,Occ: Occupational therapists,0.0129972384
+Bachelors,Health,2663,120000,0.0313751311,Healthcare practitioners and technical,Major: Health,Occ: Pharmacists,0.0313751311
+Bachelors,Health,1879,79000,0.0226249653,Healthcare practitioners and technical,Major: Health,Occ: Physical therapists,0.0226249653
+Bachelors,Health,37941,66000,0.4949174535,Healthcare practitioners and technical,Major: Health,Occ: Registered nurses,0.4949174535
+Bachelors,Health,883,47000,0.011191708,Community and social service,Major: Health,Occ: Social workers,0.011191708
+Bachelors,Humanities and liberal arts,1398,53000,0.0166320134,Business and financial operations,Major: Humanities and liberal arts,Occ: Accountants and auditors,0.0166320134
+Bachelors,Humanities and liberal arts,1229,116000,0.014840592,Management,Major: Humanities and liberal arts,Occ: Chief executives,0.014840592
+Bachelors,Humanities and liberal arts,2112,43000,0.0224115667,Community and social service,Major: Humanities and liberal arts,Occ: Clergy,0.0224115667
+Bachelors,Humanities and liberal arts,1682,38000,0.0206453988,Office and administrative support,Major: Humanities and liberal arts,Occ: Customer service representatives,0.0206453988
+Bachelors,Humanities and liberal arts,1126,55000,0.0128234612,"Arts, design, entertainment, sports, and media",Major: Humanities and liberal arts,Occ: Editors,0.0128234612
+Bachelors,Humanities and liberal arts,959,51000,0.010896906,Management,Major: Humanities and liberal arts,Occ: Education administrators,0.010896906
+Bachelors,Humanities and liberal arts,5152,47000,0.056696505,"Education, training, and library",Major: Humanities and liberal arts,Occ: Elementary and middle school teachers,0.056696505
+Bachelors,Humanities and liberal arts,1188,71000,0.0134947532,Management,Major: Humanities and liberal arts,Occ: Financial managers,0.0134947532
+Bachelors,Humanities and liberal arts,1186,70000,0.0142731196,Sales and related,Major: Humanities and liberal arts,Occ: First-line supervisors of non-retail sales workers,0.0142731196
+Bachelors,Humanities and liberal arts,1301,51000,0.014748894,Office and administrative support,Major: Humanities and liberal arts,Occ: First-line supervisors of office and administrative support workers,0.014748894
+Bachelors,Humanities and liberal arts,2206,44000,0.0271054476,Sales and related,Major: Humanities and liberal arts,Occ: First-line supervisors of retail sales workers,0.0271054476
+Bachelors,Humanities and liberal arts,1162,74000,0.0132450249,Management,Major: Humanities and liberal arts,Occ: General and operations managers,0.0132450249
+Bachelors,Humanities and liberal arts,1134,60000,0.0135442499,Business and financial operations,Major: Humanities and liberal arts,Occ: Human resources workers,0.0135442499
+Bachelors,Humanities and liberal arts,3981,75000,0.0463642654,Management,Major: Humanities and liberal arts,"Occ: Managers, all other",0.0463642654
+Bachelors,Humanities and liberal arts,1747,85000,0.0207344031,Management,Major: Humanities and liberal arts,Occ: Marketing and sales managers,0.0207344031
+Bachelors,Humanities and liberal arts,862,50000,0.0106797266,Legal,Major: Humanities and liberal arts,Occ: Paralegals and legal assistants,0.0106797266
+Bachelors,Humanities and liberal arts,864,61000,0.010698358,Healthcare practitioners and technical,Major: Humanities and liberal arts,Occ: Registered nurses,0.010698358
+Bachelors,Humanities and liberal arts,1419,42000,0.0173823205,Sales and related,Major: Humanities and liberal arts,Occ: Retail salespersons,0.0173823205
+Bachelors,Humanities and liberal arts,1637,72000,0.018982377,Sales and related,Major: Humanities and liberal arts,"Occ: Sales representatives, wholesale and manufacturing",0.018982377
+Bachelors,Humanities and liberal arts,1567,46000,0.0191266021,"Education, training, and library",Major: Humanities and liberal arts,Occ: Secondary school teachers,0.0191266021
+Bachelors,Humanities and liberal arts,2536,40000,0.0291349245,Office and administrative support,Major: Humanities and liberal arts,Occ: Secretaries and administrative assistants,0.0291349245
+Bachelors,Humanities and liberal arts,838,39000,0.0101715156,Community and social service,Major: Humanities and liberal arts,Occ: Social workers,0.0101715156
+Bachelors,"Industrial arts, consumer services, and recreation",1224,88000,0.0381926896,Transportation and material moving,"Major: Industrial arts, consumer services, and recreation",Occ: Aircraft pilots and flight engineers,0.0381926896
+Bachelors,"Industrial arts, consumer services, and recreation",316,45000,0.0113885522,"Arts, design, entertainment, sports, and media","Major: Industrial arts, consumer services, and recreation","Occ: Athletes, coaches, umpires, and related workers",0.0113885522
+Bachelors,"Industrial arts, consumer services, and recreation",289,46000,0.0123942813,Food preparation and serving related,"Major: Industrial arts, consumer services, and recreation",Occ: Chefs and head cooks,0.0123942813
+Bachelors,"Industrial arts, consumer services, and recreation",339,122000,0.0106934718,Management,"Major: Industrial arts, consumer services, and recreation",Occ: Chief executives,0.0106934718
+Bachelors,"Industrial arts, consumer services, and recreation",1298,81000,0.042786237,Management,"Major: Industrial arts, consumer services, and recreation",Occ: Construction managers,0.042786237
+Bachelors,"Industrial arts, consumer services, and recreation",366,41000,0.0128917625,Office and administrative support,"Major: Industrial arts, consumer services, and recreation",Occ: Customer service representatives,0.0128917625
+Bachelors,"Industrial arts, consumer services, and recreation",397,49000,0.0126229137,Management,"Major: Industrial arts, consumer services, and recreation",Occ: Education administrators,0.0126229137
+Bachelors,"Industrial arts, consumer services, and recreation",1590,47000,0.0476226667,"Education, training, and library","Major: Industrial arts, consumer services, and recreation",Occ: Elementary and middle school teachers,0.0476226667
+Bachelors,"Industrial arts, consumer services, and recreation",392,60000,0.013018112,Sales and related,"Major: Industrial arts, consumer services, and recreation",Occ: First-line supervisors of non-retail sales workers,0.013018112
+Bachelors,"Industrial arts, consumer services, and recreation",356,51000,0.012218532,Office and administrative support,"Major: Industrial arts, consumer services, and recreation",Occ: First-line supervisors of office and administrative support workers,0.012218532
+Bachelors,"Industrial arts, consumer services, and recreation",654,46000,0.0218755581,Sales and related,"Major: Industrial arts, consumer services, and recreation",Occ: First-line supervisors of retail sales workers,0.0218755581
+Bachelors,"Industrial arts, consumer services, and recreation",260,50000,0.010076291,Management,"Major: Industrial arts, consumer services, and recreation",Occ: Food service managers,0.010076291
+Bachelors,"Industrial arts, consumer services, and recreation",511,72000,0.0165188473,Management,"Major: Industrial arts, consumer services, and recreation",Occ: General and operations managers,0.0165188473
+Bachelors,"Industrial arts, consumer services, and recreation",1416,76000,0.047145452,Management,"Major: Industrial arts, consumer services, and recreation","Occ: Managers, all other",0.047145452
+Bachelors,"Industrial arts, consumer services, and recreation",363,64000,0.0118572169,Management,"Major: Industrial arts, consumer services, and recreation",Occ: Marketing and sales managers,0.0118572169
+Bachelors,"Industrial arts, consumer services, and recreation",298,66000,0.0106519886,Protective service,"Major: Industrial arts, consumer services, and recreation",Occ: Police and sheriff's patrol officers,0.0106519886
+Bachelors,"Industrial arts, consumer services, and recreation",417,30000,0.0154561184,"Education, training, and library","Major: Industrial arts, consumer services, and recreation",Occ: Preschool and kindergarten teachers,0.0154561184
+Bachelors,"Industrial arts, consumer services, and recreation",607,39000,0.0217903751,Personal care and service,"Major: Industrial arts, consumer services, and recreation",Occ: Recreation and fitness workers,0.0217903751
+Bachelors,"Industrial arts, consumer services, and recreation",483,60000,0.0159611996,Healthcare practitioners and technical,"Major: Industrial arts, consumer services, and recreation",Occ: Registered nurses,0.0159611996
+Bachelors,"Industrial arts, consumer services, and recreation",457,44000,0.016187932,Sales and related,"Major: Industrial arts, consumer services, and recreation",Occ: Retail salespersons,0.016187932
+Bachelors,"Industrial arts, consumer services, and recreation",615,74000,0.0210547616,Sales and related,"Major: Industrial arts, consumer services, and recreation","Occ: Sales representatives, wholesale and manufacturing",0.0210547616
+Bachelors,"Industrial arts, consumer services, and recreation",381,49000,0.0129250124,"Education, training, and library","Major: Industrial arts, consumer services, and recreation",Occ: Secondary school teachers,0.0129250124
+Bachelors,"Industrial arts, consumer services, and recreation",507,37000,0.0153513022,Office and administrative support,"Major: Industrial arts, consumer services, and recreation",Occ: Secretaries and administrative assistants,0.0153513022
+Bachelors,"Industrial arts, consumer services, and recreation",593,39000,0.0187858544,Community and social service,"Major: Industrial arts, consumer services, and recreation",Occ: Social workers,0.0187858544
+Bachelors,Law and public policy,362,53000,0.0105511674,Business and financial operations,Major: Law and public policy,Occ: Accountants and auditors,0.0105511674
+Bachelors,Law and public policy,1017,50000,0.030234657,Protective service,Major: Law and public policy,"Occ: Bailiffs, correctional officers, and jailers",0.030234657
+Bachelors,Law and public policy,415,38000,0.0130424495,Community and social service,Major: Law and public policy,Occ: Counselors,0.0130424495
+Bachelors,Law and public policy,440,38000,0.0145837176,Office and administrative support,Major: Law and public policy,Occ: Customer service representatives,0.0145837176
+Bachelors,Law and public policy,1099,75000,0.03366964,Protective service,Major: Law and public policy,Occ: Detectives and criminal investigators,0.03366964
+Bachelors,Law and public policy,420,45000,0.0120161269,"Education, training, and library",Major: Law and public policy,Occ: Elementary and middle school teachers,0.0120161269
+Bachelors,Law and public policy,335,62000,0.0103096151,Management,Major: Law and public policy,Occ: Financial managers,0.0103096151
+Bachelors,Law and public policy,484,72000,0.014181039,Protective service,Major: Law and public policy,Occ: Firefighters,0.014181039
+Bachelors,Law and public policy,690,57000,0.0187419849,Office and administrative support,Major: Law and public policy,Occ: First-line supervisors of office and administrative support workers,0.0187419849
+Bachelors,Law and public policy,882,86000,0.0247327554,Protective service,Major: Law and public policy,Occ: First-line supervisors of police and detectives,0.0247327554
+Bachelors,Law and public policy,580,49000,0.0178608681,Sales and related,Major: Law and public policy,Occ: First-line supervisors of retail sales workers,0.0178608681
+Bachelors,Law and public policy,1230,72000,0.0352435725,Management,Major: Law and public policy,"Occ: Managers, all other",0.0352435725
+Bachelors,Law and public policy,995,51000,0.0302022671,Legal,Major: Law and public policy,Occ: Paralegals and legal assistants,0.0302022671
+Bachelors,Law and public policy,4846,70000,0.1418381139,Protective service,Major: Law and public policy,Occ: Police and sheriff's patrol officers,0.1418381139
+Bachelors,Law and public policy,1124,47000,0.0345123279,Community and social service,Major: Law and public policy,Occ: Probation officers and correctional treatment specialists,0.0345123279
+Bachelors,Law and public policy,337,42000,0.0102261698,Sales and related,Major: Law and public policy,Occ: Retail salespersons,0.0102261698
+Bachelors,Law and public policy,390,66000,0.0116441913,Sales and related,Major: Law and public policy,"Occ: Sales representatives, wholesale and manufacturing",0.0116441913
+Bachelors,Law and public policy,712,39000,0.02018773,Office and administrative support,Major: Law and public policy,Occ: Secretaries and administrative assistants,0.02018773
+Bachelors,Law and public policy,952,45000,0.0302986135,Protective service,Major: Law and public policy,Occ: Security guards and gaming surveillance officers,0.0302986135
+Bachelors,Law and public policy,1183,40000,0.0337470465,Community and social service,Major: Law and public policy,Occ: Social workers,0.0337470465
+Bachelors,Physical sciences,395,61000,0.0143833939,Business and financial operations,Major: Physical sciences,Occ: Accountants and auditors,0.0143833939
+Bachelors,Physical sciences,1035,62000,0.0395451339,"Life, physical, and social sciences",Major: Physical sciences,Occ: Chemists and materials scientists,0.0395451339
+Bachelors,Physical sciences,366,133000,0.0145884053,Management,Major: Physical sciences,Occ: Chief executives,0.0145884053
+Bachelors,Physical sciences,344,53000,0.0142814138,Healthcare practitioners and technical,Major: Physical sciences,Occ: Clinical laboratory technologists and technicians,0.0142814138
+Bachelors,Physical sciences,255,81000,0.0108389735,Computer and mathematical,Major: Physical sciences,Occ: Computer systems analysts,0.0108389735
+Bachelors,Physical sciences,256,44000,0.0112570567,Office and administrative support,Major: Physical sciences,Occ: Customer service representatives,0.0112570567
+Bachelors,Physical sciences,353,60000,0.0128936439,Healthcare practitioners and technical,Major: Physical sciences,Occ: Diagnostic related technologists and technicians,0.0128936439
+Bachelors,Physical sciences,722,45000,0.0277017795,"Education, training, and library",Major: Physical sciences,Occ: Elementary and middle school teachers,0.0277017795
+Bachelors,Physical sciences,334,87000,0.0126528869,Architecture and engineering,Major: Physical sciences,"Occ: Engineers, all other",0.0126528869
+Bachelors,Physical sciences,661,68000,0.0218650856,"Life, physical, and social sciences",Major: Physical sciences,Occ: Environmental scientists and geoscientists,0.0218650856
+Bachelors,Physical sciences,285,77000,0.0113688493,Sales and related,Major: Physical sciences,Occ: First-line supervisors of non-retail sales workers,0.0113688493
+Bachelors,Physical sciences,277,54000,0.0113103246,Office and administrative support,Major: Physical sciences,Occ: First-line supervisors of office and administrative support workers,0.0113103246
+Bachelors,Physical sciences,489,49000,0.0202186859,Sales and related,Major: Physical sciences,Occ: First-line supervisors of retail sales workers,0.0202186859
+Bachelors,Physical sciences,336,92000,0.0130376776,Management,Major: Physical sciences,Occ: General and operations managers,0.0130376776
+Bachelors,Physical sciences,278,83000,0.011380414,Business and financial operations,Major: Physical sciences,Occ: Management analysts,0.011380414
+Bachelors,Physical sciences,1675,85000,0.0647836218,Management,Major: Physical sciences,"Occ: Managers, all other",0.0647836218
+Bachelors,Physical sciences,321,102000,0.0125971658,Management,Major: Physical sciences,Occ: Marketing and sales managers,0.0125971658
+Bachelors,Physical sciences,394,64000,0.0143315277,"Life, physical, and social sciences",Major: Physical sciences,"Occ: Physical scientists, all other",0.0143315277
+Bachelors,Physical sciences,409,26000,0.0140220831,"Education, training, and library",Major: Physical sciences,Occ: Postsecondary teachers,0.0140220831
+Bachelors,Physical sciences,739,65000,0.0294028489,Healthcare practitioners and technical,Major: Physical sciences,Occ: Registered nurses,0.0294028489
+Bachelors,Physical sciences,289,52000,0.0120364507,Sales and related,Major: Physical sciences,Occ: Retail salespersons,0.0120364507
+Bachelors,Physical sciences,569,94000,0.0232111523,Sales and related,Major: Physical sciences,"Occ: Sales representatives, wholesale and manufacturing",0.0232111523
+Bachelors,Physical sciences,308,46000,0.0117641534,"Education, training, and library",Major: Physical sciences,Occ: Secondary school teachers,0.0117641534
+Bachelors,Physical sciences,632,100000,0.0235475814,Computer and mathematical,Major: Physical sciences,"Occ: Software developers, applications and systems software",0.0235475814
+Bachelors,Psychology and social work,760,51000,0.0145201634,Business and financial operations,Major: Psychology and social work,Occ: Accountants and auditors,0.0145201634
+Bachelors,Psychology and social work,1699,38000,0.0374512663,Community and social service,Major: Psychology and social work,Occ: Counselors,0.0374512663
+Bachelors,Psychology and social work,937,39000,0.0196147613,Office and administrative support,Major: Psychology and social work,Occ: Customer service representatives,0.0196147613
+Bachelors,Psychology and social work,639,48000,0.0122586295,Management,Major: Psychology and social work,Occ: Education administrators,0.0122586295
+Bachelors,Psychology and social work,1784,44000,0.0334993614,"Education, training, and library",Major: Psychology and social work,Occ: Elementary and middle school teachers,0.0334993614
+Bachelors,Psychology and social work,624,62000,0.0127059457,Management,Major: Psychology and social work,Occ: Financial managers,0.0127059457
+Bachelors,Psychology and social work,518,66000,0.0101647933,Sales and related,Major: Psychology and social work,Occ: First-line supervisors of non-retail sales workers,0.0101647933
+Bachelors,Psychology and social work,886,50000,0.0165103353,Office and administrative support,Major: Psychology and social work,Occ: First-line supervisors of office and administrative support workers,0.0165103353
+Bachelors,Psychology and social work,1053,45000,0.0212544927,Sales and related,Major: Psychology and social work,Occ: First-line supervisors of retail sales workers,0.0212544927
+Bachelors,Psychology and social work,561,68000,0.0102833192,Management,Major: Psychology and social work,Occ: General and operations managers,0.0102833192
+Bachelors,Psychology and social work,1148,56000,0.0225542417,Business and financial operations,Major: Psychology and social work,Occ: Human resources workers,0.0225542417
+Bachelors,Psychology and social work,1888,66000,0.0338995241,Management,Major: Psychology and social work,"Occ: Managers, all other",0.0338995241
+Bachelors,Psychology and social work,685,77000,0.0130905129,Management,Major: Psychology and social work,Occ: Marketing and sales managers,0.0130905129
+Bachelors,Psychology and social work,639,55000,0.0126466828,Management,Major: Psychology and social work,Occ: Medical and health services managers,0.0126466828
+Bachelors,Psychology and social work,493,39000,0.0100580098,Office and administrative support,Major: Psychology and social work,"Occ: Office and administrative support workers, all other",0.0100580098
+Bachelors,Psychology and social work,523,68000,0.011057591,Protective service,Major: Psychology and social work,Occ: Police and sheriff's patrol officers,0.011057591
+Bachelors,Psychology and social work,1344,59000,0.0246801863,Healthcare practitioners and technical,Major: Psychology and social work,Occ: Registered nurses,0.0246801863
+Bachelors,Psychology and social work,626,43000,0.0128173161,Sales and related,Major: Psychology and social work,Occ: Retail salespersons,0.0128173161
+Bachelors,Psychology and social work,770,72000,0.015351313,Sales and related,Major: Psychology and social work,"Occ: Sales representatives, wholesale and manufacturing",0.015351313
+Bachelors,Psychology and social work,1545,39000,0.0294192063,Office and administrative support,Major: Psychology and social work,Occ: Secretaries and administrative assistants,0.0294192063
+Bachelors,Psychology and social work,807,49000,0.0147484085,Management,Major: Psychology and social work,Occ: Social and community service managers,0.0147484085
+Bachelors,Psychology and social work,6150,40000,0.1183204615,Community and social service,Major: Psychology and social work,Occ: Social workers,0.1183204615
+Bachelors,Social sciences,2102,62000,0.0273893874,Business and financial operations,Major: Social sciences,Occ: Accountants and auditors,0.0273893874
+Bachelors,Social sciences,1749,126000,0.0223618235,Management,Major: Social sciences,Occ: Chief executives,0.0223618235
+Bachelors,Social sciences,787,74000,0.0104561977,Computer and mathematical,Major: Social sciences,Occ: Computer systems analysts,0.0104561977
+Bachelors,Social sciences,1293,42000,0.018202124,Office and administrative support,Major: Social sciences,Occ: Customer service representatives,0.018202124
+Bachelors,Social sciences,1665,46000,0.0200974343,"Education, training, and library",Major: Social sciences,Occ: Elementary and middle school teachers,0.0200974343
+Bachelors,Social sciences,1990,90000,0.0263273365,Management,Major: Social sciences,Occ: Financial managers,0.0263273365
+Bachelors,Social sciences,1392,88000,0.0181098854,Sales and related,Major: Social sciences,Occ: First-line supervisors of non-retail sales workers,0.0181098854
+Bachelors,Social sciences,1319,60000,0.0167144809,Office and administrative support,Major: Social sciences,Occ: First-line supervisors of office and administrative support workers,0.0167144809
+Bachelors,Social sciences,1816,53000,0.0250338799,Sales and related,Major: Social sciences,Occ: First-line supervisors of retail sales workers,0.0250338799
+Bachelors,Social sciences,1315,82000,0.0177662002,Management,Major: Social sciences,Occ: General and operations managers,0.0177662002
+Bachelors,Social sciences,1177,61000,0.0158183599,Business and financial operations,Major: Social sciences,Occ: Human resources workers,0.0158183599
+Bachelors,Social sciences,738,66000,0.0100491528,Sales and related,Major: Social sciences,Occ: Insurance sales agents,0.0100491528
+Bachelors,Social sciences,1287,80000,0.0167251861,Business and financial operations,Major: Social sciences,Occ: Management analysts,0.0167251861
+Bachelors,Social sciences,4371,83000,0.0568871924,Management,Major: Social sciences,"Occ: Managers, all other",0.0568871924
+Bachelors,Social sciences,1593,98000,0.0207373785,Management,Major: Social sciences,Occ: Marketing and sales managers,0.0207373785
+Bachelors,Social sciences,934,51000,0.0122501825,Legal,Major: Social sciences,Occ: Paralegals and legal assistants,0.0122501825
+Bachelors,Social sciences,1096,99000,0.0148089634,Business and financial operations,Major: Social sciences,Occ: Personal financial advisors,0.0148089634
+Bachelors,Social sciences,1535,74000,0.0207778341,Protective service,Major: Social sciences,Occ: Police and sheriff's patrol officers,0.0207778341
+Bachelors,Social sciences,1236,51000,0.017665497,Sales and related,Major: Social sciences,Occ: Retail salespersons,0.017665497
+Bachelors,Social sciences,995,88000,0.0131917382,Sales and related,Major: Social sciences,"Occ: Sales representatives, services, all other",0.0131917382
+Bachelors,Social sciences,1802,85000,0.0230730939,Sales and related,Major: Social sciences,"Occ: Sales representatives, wholesale and manufacturing",0.0230730939
+Bachelors,Social sciences,1593,42000,0.0203004588,Office and administrative support,Major: Social sciences,Occ: Secretaries and administrative assistants,0.0203004588
+Bachelors,Social sciences,1047,121000,0.0143000951,Sales and related,Major: Social sciences,"Occ: Securities, commodities, and financial services sales agents",0.0143000951
+Bachelors,Social sciences,2099,41000,0.0274880989,Community and social service,Major: Social sciences,Occ: Social workers,0.0274880989

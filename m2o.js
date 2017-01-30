@@ -45,6 +45,7 @@ function processData(data, param) {
                        "target": d.target,
                        "gmajor": d.gmajor,
                        "p50": d.radj_wagp,
+                       "pct_gmajor": d.pct_gmajor * 100,
                        "value": +d.value});
    });
 
@@ -62,14 +63,15 @@ function processData(data, param) {
    //now loop through each nodes to make nodes an array of objects
    // rather than an array of strings
    graph.nodes.forEach(function (d, i) {
-     graph.nodes[i] = { "name": d, "gmajor": d };
+     graph.nodes[i] = { "name": d, "gmajor": d};
      /* not sure why gmajor field contains name even when assigned gmajor in above, use name instead to get gmajor */
      graph.nodes[i]["gmajor"] = graph.nodes[i]["gmajor"].substring(7);
    });
+   //console.log(graph);
    return graph;
 };
 
-function renderSankey(dsn, param, nodeMOtxt = "percent of major") {
+function renderSankey(dsn, param, nodeMGtxt = "percent of major", nodeMOtxt = "percent of group major") {
   d3.select('body').selectAll('g').remove();
 
   graph = processData(dsn, param);
@@ -175,7 +177,17 @@ function renderSankey(dsn, param, nodeMOtxt = "percent of major") {
 		  return d3.rgb(d.color).darker(2); })
       .append("title")
       .text(function(d) {
-		  return d.name + "\n" + pctFormat(d.value) + " " + nodeMOtxt; });
+        if (d.name.substring(0,3) == 'Occ') {
+          //console.log(d.targetLinks);
+          var target_sum = 0;
+          $.each(d.targetLinks, function (index, value) {
+            target_sum += value.pct_gmajor;
+          });
+          return d.name + "\n" + pctFormat(target_sum) + " " + nodeMOtxt;
+        } else {
+		      return d.name + "\n" + pctFormat(d.value) + " " + nodeMGtxt;
+        };
+      });
 
 // add in the title for the nodes
   node.append("text")
@@ -215,11 +227,12 @@ d3.csv("gocc_gmajor_sankey2554.csv", function(error, data) {
   var gocc_gmajor_data = data;
 
   //set up graph in same style as original example but empty
-  renderSankey(gocc_gmajor_data, "pct_overall", nodeMOtxt = "percent of Bachelor's degrees");
+  renderSankey(gocc_gmajor_data, "pct_overall", nodeMGtxt = "percent of Bachelor's degrees", nodeMOtxt = "percent of Bachelor's degrees");
   //console.log(data);
   d3.select('#all-major-groups').on('click', function () {
+    $("#chartitle").html("All major occupation groups by major group");
     gocc_gmajor_data = data;
-    renderSankey(gocc_gmajor_data, "pct_overall", nodeMOtxt = "percent of Bachelor's degrees");
+    renderSankey(gocc_gmajor_data, "pct_overall", nodeMGtxt = "percent of Bachelor's degrees", nodeMOtxt = "percent of Bachelor's degrees");
     });
 
   d3.select('#agriculture-and-natural-resources').on('click', function () {
@@ -591,6 +604,7 @@ d3.csv("gocc_gmajor_sankey2554.csv", function(error, data) {
   });
 
   d3.select("#goccgmajor").on('click', function () {
+    $("#chartitle").html("All major occupation groups by major group");
     if ($("#agriculture-and-natural-resources").hasClass("active")) {
       gocc_gmajor_data = data.filter(function (d) {
         return d["gmajor"].indexOf('Agriculture and natural resources') > -1;
@@ -670,6 +684,7 @@ d3.csv("gocc_gmajor_sankey2554.csv", function(error, data) {
   });
 
   d3.select("#doccgmajor").on('click', function () {
+    $("#chartitle").html("Selected detailed occupation for major group");
     d3.csv("docc_gmajor_sankey2554.csv", function(error, data) {
       var docc_gmajor_data = data;
       gmdo = data;
@@ -752,6 +767,8 @@ d3.csv("gocc_gmajor_sankey2554.csv", function(error, data) {
     });
   });
   d3.select("#goccdmajor").on('click', function () {
+    $("#chartitle").html("All major occupation groups by detailed major in group")
+    .append('<button type="button" class="btn btn-default pull-right" title="Click to see chart as percent of major group" id="altvw">Alternate view</button>');
     d3.csv("gocc_dmajor_sankey2554.csv", function(error, data) {
       var gocc_dmajor_data = data;
       dmgo = gocc_dmajor_data;
@@ -826,7 +843,7 @@ d3.csv("gocc_gmajor_sankey2554.csv", function(error, data) {
         });
         renderSankey(gocc_dmajor_data, "pct");
       } else if ($("#social-sciences").hasClass("active")) {
-        gocc_gmajor_data = data.filter(function (d) {
+        gocc_dmajor_data = data.filter(function (d) {
           return d["gmajor"].indexOf('Social sciences') > -1;
         });
         renderSankey(gocc_dmajor_data, "pct");
@@ -834,6 +851,8 @@ d3.csv("gocc_gmajor_sankey2554.csv", function(error, data) {
     });
   });
   d3.select("#doccdmajor").on('click', function () {
+    $("#chartitle").html("Selected detailed occupation by detailed major in group")
+    .append('<button type="button" class="btn btn-default pull-right" title="Click to see chart as percent of major group" id="altvw">Alternate view</button>');
     d3.csv("docc_dmajor_sankey2554.csv", function(error, data) {
       var docc_dmajor_data = data;
       dmdo = docc_dmajor_data;
@@ -916,6 +935,348 @@ d3.csv("gocc_gmajor_sankey2554.csv", function(error, data) {
     });
   });
 
+});
+
+$("#chartitle").html("All major occupation groups by major group");
+
+/* Direct binding does not work on dynamically generated elements so there is no click event attached to #altvw */
+$("#chartitle").on('click', "#altvw", function () {
+  /*
+  $("#altvw").text(function (i, v) {
+    return v === "Alternate view" ? "Default view" : "Alternate view";
+  });
+  */
+  if ($("#altvw").text() === "Alternate view") {
+    $("#altvw").text("Default view");
+    $("#altvw").attr("title", "Click to see chart as percent of detail major");
+
+    /* Display charts using percent of group major */
+    /* Check whether detail major/detail occ or detail major/group occ */
+    if ($("#goccdmajor").hasClass("active")) {
+
+      if ($("#agriculture-and-natural-resources").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Agriculture and natural resources') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      } else if ($("#architecture-and-engineering").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Architecture and engineering') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      } else if ($("#arts").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Arts') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      } else if ($("#biology-and-life-sciences").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Biology and life sciences') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      } else if ($("#business").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Business') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      } else if ($("#communications-and-journalism").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Communications and journalism') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      } else if ($("#computers-statistics-and-mathematics").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Computers, statistics, and mathematics') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      } else if ($("#education").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Education') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      } else if ($("#health").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Health') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      } else if ($("#humanities-and-liberal-arts").hasClass("active")) {
+        gocc_gmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Humanities and liberal arts') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      } else if ($("#industrial-arts-consumer-services-and-recreation").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Industrial arts, consumer services, and recreation') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      } else if ($("#law-and-public-policy").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Law and public policy') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      } else if ($("#physical-sciences").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Physical sciences') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      } else if ($("#psychology-and-social-work").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Psychology and social work') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      } else if ($("#social-sciences").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Social sciences') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct_gmajor");
+      };
+
+    } else if ($("#doccdmajor").hasClass("active")) {
+
+      if ($("#agriculture-and-natural-resources").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Agriculture and natural resources') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      } else if ($("#architecture-and-engineering").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Architecture and engineering') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      } else if ($("#arts").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Arts') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      } else if ($("#biology-and-life-sciences").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Biology and life sciences') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      } else if ($("#business").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Business') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      } else if ($("#communications-and-journalism").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Communications and journalism') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      } else if ($("#computers-statistics-and-mathematics").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Computers, statistics, and mathematics') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      } else if ($("#education").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Education') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      } else if ($("#health").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Health') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      } else if ($("#humanities-and-liberal-arts").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Humanities and liberal arts') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      } else if ($("#industrial-arts-consumer-services-and-recreation").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Industrial arts, consumer services, and recreation') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      } else if ($("#law-and-public-policy").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Law and public policy') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      } else if ($("#physical-sciences").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Physical sciences') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      } else if ($("#psychology-and-social-work").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Psychology and social work') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      } else if ($("#social-sciences").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Social sciences') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct_gmajor");
+      };
+
+    }
+  } else if ($("#altvw").text() === "Default view") {
+    $("#altvw").text("Alternate view");
+    $("#altvw").attr("title", "Click to see chart as percent of major group");
+
+    /* Display charts using percent of detail major */
+    /* Check whether detail major/detail occ or detail major/group occ */
+    if ($("#goccdmajor").hasClass("active")) {
+
+      if ($("#agriculture-and-natural-resources").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Agriculture and natural resources') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      } else if ($("#architecture-and-engineering").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Architecture and engineering') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      } else if ($("#arts").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Arts') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      } else if ($("#biology-and-life-sciences").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Biology and life sciences') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      } else if ($("#business").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Business') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      } else if ($("#communications-and-journalism").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Communications and journalism') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      } else if ($("#computers-statistics-and-mathematics").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Computers, statistics, and mathematics') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      } else if ($("#education").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Education') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      } else if ($("#health").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Health') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      } else if ($("#humanities-and-liberal-arts").hasClass("active")) {
+        gocc_gmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Humanities and liberal arts') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      } else if ($("#industrial-arts-consumer-services-and-recreation").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Industrial arts, consumer services, and recreation') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      } else if ($("#law-and-public-policy").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Law and public policy') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      } else if ($("#physical-sciences").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Physical sciences') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      } else if ($("#psychology-and-social-work").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Psychology and social work') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      } else if ($("#social-sciences").hasClass("active")) {
+        gocc_dmajor_data = dmgo.filter(function (d) {
+          return d["gmajor"].indexOf('Social sciences') > -1;
+        });
+        renderSankey(gocc_dmajor_data, "pct");
+      };
+
+    } else if ($("#doccdmajor").hasClass("active")) {
+
+      if ($("#agriculture-and-natural-resources").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Agriculture and natural resources') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      } else if ($("#architecture-and-engineering").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Architecture and engineering') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      } else if ($("#arts").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Arts') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      } else if ($("#biology-and-life-sciences").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Biology and life sciences') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      } else if ($("#business").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Business') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      } else if ($("#communications-and-journalism").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Communications and journalism') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      } else if ($("#computers-statistics-and-mathematics").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Computers, statistics, and mathematics') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      } else if ($("#education").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Education') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      } else if ($("#health").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Health') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      } else if ($("#humanities-and-liberal-arts").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Humanities and liberal arts') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      } else if ($("#industrial-arts-consumer-services-and-recreation").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Industrial arts, consumer services, and recreation') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      } else if ($("#law-and-public-policy").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Law and public policy') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      } else if ($("#physical-sciences").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Physical sciences') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      } else if ($("#psychology-and-social-work").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Psychology and social work') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      } else if ($("#social-sciences").hasClass("active")) {
+        docc_dmajor_data = dmdo.filter(function (d) {
+          return d["gmajor"].indexOf('Social sciences') > -1;
+        });
+        renderSankey(docc_dmajor_data, "pct");
+      };
+
+    }
+  }
 });
 
 $(".btnMajor .btn").click(function(){

@@ -62,8 +62,8 @@ ul.fa-ul {
   padding-top: 5px;
   font-size: 0.8em;
 }
-#chart {
-  height: 0px;
+#morenotes {
+  cursor: pointer;
 }
 
 .node rect {
